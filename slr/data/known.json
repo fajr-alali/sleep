@@ -1,0 +1,389 @@
+[
+ {
+  "query": "ShieldFS: a self-healing, ransomware-aware filesystem",
+  "sim": 0.45,
+  "doi": "10.20944/preprints202312.1538.v1",
+  "title": "Self-Healing Networks: Adaptive Responses to Ransomware Attacks",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Gabriela Almeida",
+   "Felipe Vasconcelos"
+  ],
+  "cites": 3
+ },
+ {
+  "query": "UNVEIL: A large-scale, automated approach to detecting ransomware",
+  "sim": 0.93,
+  "doi": "10.1109/saner.2017.7884603",
+  "title": "UNVEIL: A large-scale, automated approach to detecting ransomware (keynote)",
+  "venue": "2017 IEEE 24th International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2017,
+  "authors": [
+   "Engin Kirda"
+  ],
+  "cites": 37
+ },
+ {
+  "query": "RWGuard: A Real-Time Detection System Against Cryptographic Ransomware",
+  "sim": 1.0,
+  "doi": "10.1007/978-3-030-00470-5_6",
+  "title": "RWGuard: A Real-Time Detection System Against Cryptographic Ransomware",
+  "venue": "Lecture Notes in Computer Science",
+  "type": "book-chapter",
+  "publisher": "Springer International Publishing",
+  "year": 2018,
+  "authors": [
+   "Shagufta Mehnaz",
+   "Anand Mudgerikar",
+   "Elisa Bertino"
+  ],
+  "cites": 103
+ },
+ {
+  "query": "Redemption: Real-time protection against ransomware at end-hosts",
+  "sim": 1.0,
+  "doi": "10.1007/978-3-319-66332-6_5",
+  "title": "Redemption: Real-Time Protection Against Ransomware at End-Hosts",
+  "venue": "Lecture Notes in Computer Science",
+  "type": "book-chapter",
+  "publisher": "Springer International Publishing",
+  "year": 2017,
+  "authors": [
+   "Amin Kharraz",
+   "Engin Kirda"
+  ],
+  "cites": 112
+ },
+ {
+  "query": "FlashGuard: Leveraging intrinsic flash properties to defend against encryption ransomware",
+  "sim": 0.44,
+  "doi": "10.64628/aai.rua5yd3cp",
+  "title": "It\u2019s easier to defend against ransomware than you might think",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "The Conversation Media Group Ltd",
+  "year": 2016,
+  "authors": [
+   "Amin Kharraz"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Peeler: Profiling Kernel-Level Events to Detect Ransomware",
+  "sim": 1.0,
+  "doi": "10.1007/978-3-030-88418-5_12",
+  "title": "Peeler: Profiling Kernel-Level Events to Detect Ransomware",
+  "venue": "Lecture Notes in Computer Science",
+  "type": "book-chapter",
+  "publisher": "Springer International Publishing",
+  "year": 2021,
+  "authors": [
+   "Muhammad Ejaz Ahmed",
+   "Hyoungshick Kim",
+   "Seyit Camtepe",
+   "Surya Nepal"
+  ],
+  "cites": 42
+ },
+ {
+  "query": "CryptoDrop: Stopping ransomware attacks on user data",
+  "sim": 0.88,
+  "doi": "10.1109/icdcs.2016.46",
+  "title": "CryptoLock (and Drop It): Stopping Ransomware Attacks on User Data",
+  "venue": "2016 IEEE 36th International Conference on Distributed Computing Systems (ICDCS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2016,
+  "authors": [
+   "Nolen Scaife",
+   "Henry Carter",
+   "Patrick Traynor",
+   "Kevin R. B. Butler"
+  ],
+  "cites": 314
+ },
+ {
+  "query": "Classification of ransomware families with machine learning based on N-gram of opcodes",
+  "sim": 0.53,
+  "doi": "10.1016/j.future.2018.07.052",
+  "title": "Classification of ransomware families with machine learning based on<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" display=\"inline\" overflow=\"scroll\" id=\"d1e818\" altimg=\"si2.gif\"><mml:mi>N</mml:mi></mml:math>-gram of opcodes",
+  "venue": "Future Generation Computer Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2019,
+  "authors": [
+   "Hanqi Zhang",
+   "Xi Xiao",
+   "Francesco Mercaldo",
+   "Shiguang Ni",
+   "Fabio Martinelli",
+   "Arun Kumar Sangaiah"
+  ],
+  "cites": 228
+ },
+ {
+  "query": "DRTHIS: Deep ransomware threat hunting and intelligence system at the fog layer",
+  "sim": 1.0,
+  "doi": "10.1016/j.future.2018.07.045",
+  "title": "DRTHIS: Deep ransomware threat hunting and intelligence system at the fog layer",
+  "venue": "Future Generation Computer Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2019,
+  "authors": [
+   "Sajad Homayoun",
+   "Ali Dehghantanha",
+   "Marzieh Ahmadzadeh",
+   "Sattar Hashemi",
+   "Raouf Khayami",
+   "Kim-Kwang Raymond Choo",
+   "David Ellis Newton"
+  ],
+  "cites": 127
+ },
+ {
+  "query": "Know abnormal, find evil: frequent pattern mining for ransomware threat hunting and intelligence",
+  "sim": 1.0,
+  "doi": "10.1109/tetc.2017.2756908",
+  "title": "Know Abnormal, Find Evil: Frequent Pattern Mining for Ransomware Threat Hunting and Intelligence",
+  "venue": "IEEE Transactions on Emerging Topics in Computing",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2020,
+  "authors": [
+   "Sajad Homayoun",
+   "Ali Dehghantanha",
+   "Marzieh Ahmadzadeh",
+   "Sattar Hashemi",
+   "Raouf Khayami"
+  ],
+  "cites": 137
+ },
+ {
+  "query": "A survey on ransomware: Evolution, taxonomy, and defense solutions",
+  "sim": 1.0,
+  "doi": "10.1145/3514229",
+  "title": "A Survey on Ransomware: Evolution, Taxonomy, and Defense Solutions",
+  "venue": "ACM Computing Surveys",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "year": 2022,
+  "authors": [
+   "Harun Oz",
+   "Ahmet Aris",
+   "Albert Levi",
+   "A. Selcuk Uluagac"
+  ],
+  "cites": 256
+ },
+ {
+  "query": "The age of ransomware: A survey on the evolution, taxonomy, and research directions",
+  "sim": 1.0,
+  "doi": "10.1109/access.2023.3268535",
+  "title": "The Age of Ransomware: A Survey on the Evolution, Taxonomy, and Research Directions",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2023,
+  "authors": [
+   "Salwa Razaulla",
+   "Claude Fachkha",
+   "Christine Markarian",
+   "Amjad Gawanmeh",
+   "Wathiq Mansoor",
+   "Benjamin C. M. Fung",
+   "Chadi Assi"
+  ],
+  "cites": 126
+ },
+ {
+  "query": "Ransomware behavioural analysis on windows platforms",
+  "sim": 1.0,
+  "doi": "10.1016/j.jisa.2018.02.008",
+  "title": "Ransomware behavioural analysis on windows platforms",
+  "venue": "Journal of Information Security and Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2018,
+  "authors": [
+   "Nikolai Hampton",
+   "Zubair Baig",
+   "Sherali Zeadally"
+  ],
+  "cites": 57
+ },
+ {
+  "query": "Automated dynamic analysis of ransomware: Benefits, limitations and use for detection",
+  "sim": 0.48,
+  "doi": "10.22541/au.173204423.32911553/v1",
+  "title": "Dynamic Anomaly Pattern Reconstruction for Automated Ransomware Detection",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "Wiley",
+  "year": 2024,
+  "authors": [
+   "Simon Neghana",
+   "Antonin Verhoeven",
+   "Arthur Clark",
+   "Cosimo Grunwald",
+   "Sean Mitchell"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Ransomware detection by mining API call usage",
+  "sim": 1.0,
+  "doi": "10.1109/icacci.2018.8554938",
+  "title": "Ransomware detection by mining API call usage",
+  "venue": "2018 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2018,
+  "authors": [
+   "Shina Sheen",
+   "Ashwitha Yadav"
+  ],
+  "cites": 25
+ },
+ {
+  "query": "Detecting ransomware using process memory",
+  "sim": 0.84,
+  "doi": "10.1016/j.procs.2020.02.249",
+  "title": "Detecting Ransomware Using Process Behavior Analysis",
+  "venue": "Procedia Computer Science",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2020,
+  "authors": [
+   "Abdullahi Arabo",
+   "Remi Dijoux",
+   "Timothee Poulain",
+   "Gregoire Chevalier"
+  ],
+  "cites": 70
+ },
+ {
+  "query": "Leveraging machine learning techniques for windows ransomware network traffic detection",
+  "sim": 1.0,
+  "doi": "10.1007/978-3-319-73951-9_5",
+  "title": "Leveraging Machine Learning Techniques for Windows Ransomware Network Traffic Detection",
+  "venue": "Advances in Information Security",
+  "type": "book-chapter",
+  "publisher": "Springer International Publishing",
+  "year": 2018,
+  "authors": [
+   "Omar M. K. Alhawi",
+   "James Baldwin",
+   "Ali Dehghantanha"
+  ],
+  "cites": 128
+ },
+ {
+  "query": "SSD-Insider: Internal defense of solid-state drive against ransomware with perfect data recovery",
+  "sim": 1.0,
+  "doi": "10.1109/icdcs.2018.00089",
+  "title": "SSD-Insider: Internal Defense of Solid-State Drive against Ransomware with Perfect Data Recovery",
+  "venue": "2018 IEEE 38th International Conference on Distributed Computing Systems (ICDCS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2018,
+  "authors": [
+   "SungHa Baek",
+   "Youngdon Jung",
+   "Aziz Mohaisen",
+   "Sungjin Lee",
+   "DaeHun Nyang"
+  ],
+  "cites": 59
+ },
+ {
+  "query": "RansomWall: A layered defense system against cryptographic ransomware attacks using machine learning",
+  "sim": 1.0,
+  "doi": "10.1109/comsnets.2018.8328219",
+  "title": "RansomWall: A layered defense system against cryptographic ransomware attacks using machine learning",
+  "venue": "2018 10th International Conference on Communication Systems & Networks (COMSNETS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2018,
+  "authors": [
+   "Saiyed Kashif Shaukat",
+   "Vinay J. Ribeiro"
+  ],
+  "cites": 103
+ },
+ {
+  "query": "Evaluating shallow and deep networks for ransomware detection and classification",
+  "sim": 1.0,
+  "doi": "10.1109/icacci.2017.8125850",
+  "title": "Evaluating shallow and deep networks for ransomware detection and classification",
+  "venue": "2017 International Conference on Advances in Computing, Communications and Informatics (ICACCI)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2017,
+  "authors": [
+   "R. Vinayakumar",
+   "K.P. Soman",
+   "K.K. Senthil Velan",
+   "Shaunak Ganorkar"
+  ],
+  "cites": 90
+ },
+ {
+  "query": "Deep learning based ransomware detection using LSTM",
+  "sim": 0.83,
+  "doi": "10.1109/rdcape.2017.8358312",
+  "title": "Deep learning LSTM based ransomware detection",
+  "venue": "2017 Recent Developments in Control, Automation & Power Engineering (RDCAPE)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2017,
+  "authors": [
+   "Sumith Maniath",
+   "Aravind Ashok",
+   "Prabaharan Poornachandran",
+   "V.G. Sujadevi",
+   "Prem Sankar A.U.",
+   "Srinath Jan"
+  ],
+  "cites": 85
+ },
+ {
+  "query": "A framework for analyzing ransomware using machine learning",
+  "sim": 1.0,
+  "doi": "10.1109/ssci.2018.8628743",
+  "title": "A Framework for Analyzing Ransomware using Machine Learning",
+  "venue": "2018 IEEE Symposium Series on Computational Intelligence (SSCI)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2018,
+  "authors": [
+   "Subash Poudyal",
+   "Kul Prasad Subedi",
+   "Dipankar Dasgupta"
+  ],
+  "cites": 72
+ },
+ {
+  "query": "Ransomware detection using the dynamic analysis and machine learning: A survey and research directions",
+  "sim": 1.0,
+  "doi": "10.3390/app12010172",
+  "title": "Ransomware Detection Using the Dynamic Analysis and Machine Learning: A Survey and Research Directions",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2021,
+  "authors": [
+   "Umara Urooj",
+   "Bander Ali Saleh Al-rimy",
+   "Anazida Zainal",
+   "Fuad A. Ghaleb",
+   "Murad A. Rassam"
+  ],
+  "cites": 164
+ }
+]

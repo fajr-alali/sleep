@@ -1,0 +1,3521 @@
+[
+ {
+  "doi": "10.1109/spw.2018.00033",
+  "title": "Forensic Analysis of Ransomware Families Using Static and Dynamic Analysis",
+  "venue": "2018 IEEE Security and Privacy Workshops (SPW)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2018,
+  "authors": [
+   "Kul Prasad Subedi",
+   "Daya Ram Budhathoki",
+   "Dipankar Dasgupta"
+  ],
+  "cites": 45,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/icrito51393.2021.9596085",
+  "title": "A Complete Study on Malware Types and Detecting Ransomware Using API Calls",
+  "venue": "2021 9th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2021,
+  "authors": [
+   "Nishant Yadav",
+   "Gagandeep Kaur",
+   "Sukhwinder Kaur",
+   "Anshu Vashisth",
+   "Cheerala Rohith"
+  ],
+  "cites": 6,
+  "queries": [
+   "ransomware classification API calls"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/trustcom60117.2023.00228",
+  "title": "Static-RWArmor: A Static Analysis Approach for Prevention of Cryptographic Windows Ransomware",
+  "venue": "2023 IEEE 22nd International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2023,
+  "authors": [
+   "Md. Ahsan Ayub",
+   "Ambareen Siraj",
+   "Bobby Filar",
+   "Maanak Gupta"
+  ],
+  "cites": 3,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/csp62567.2024.00020",
+  "title": "Ransomware Defense Empowered: Deep Learning for Real-Time Family Identification with a Proprietary Dataset",
+  "venue": "2024 8th International Conference on Cryptography, Security and Privacy (CSP)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2024,
+  "authors": [
+   "Hassan Jalil Hadi",
+   "Yue Cao",
+   "Naveed Ahmad",
+   "Mohammed Ali Alshara"
+  ],
+  "cites": 3,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/trustcom66490.2025.00375",
+  "title": "Contrasting Crypto and Exfiltration Ransomware with Shamir\u2019s Secret Sharing Data Flooding",
+  "venue": "2025 IEEE 24th International Conference on Trust, Security and Privacy in Computing and Communications (TrustCom)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Daniele D\u2019Ugo",
+   "Saverio Giallorenzo",
+   "Simone Melloni"
+  ],
+  "cites": 0,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/gcwkshps68340.2025.11591044",
+  "title": "MuKD: Multi-Stream CNN and Knowledge Distillation for Behavioral Ransomware Detection",
+  "venue": "2025 IEEE Globecom Workshops (GC Wkshps)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Nattapol Chiewnawintawat",
+   "Nopparuj Suetrong",
+   "Van-Linh Nguyen"
+  ],
+  "cites": 0,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/icsedi66420.2026.11568291",
+  "title": "Ransomware Detection for Linux based System Using Machine Learning",
+  "venue": "2026 International Conference on Sustainable Engineering and Digital Innovation (ICSEDI)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Nargis Sulayem Alshukaili",
+   "Rua Abdullah Al Amri",
+   "Rahma Ahmed Al-Hadidi"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/globecom54140.2023.10437540",
+  "title": "FLDetect: An API-Based Ransomware Detection Using Federated Learning",
+  "venue": "GLOBECOM 2023 - 2023 IEEE Global Communications Conference",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2023,
+  "authors": [
+   "Tomas Petros",
+   "Henos Ghirmay",
+   "Safa Otoum",
+   "Reem Salem",
+   "M\u00e9rouane Debbah"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware classification API calls",
+   "ransomware detection federated learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/icassp55912.2026.11461664",
+  "title": "PE-Sleuth: Program-Level Semantics and Static Feature Fusion for Interpretable Ransomware Detection with LLMs",
+  "venue": "ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Hao Dai",
+   "Tianheng Qu",
+   "Yan Hu",
+   "Shuaizong Si",
+   "Bowen Jiang",
+   "Xin Chen",
+   "Kaixiang Liu",
+   "Shichao Lv"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.14722/ndss.2025.230349",
+  "title": "ERW-Radar: An Adaptive Detection System against Evasive Ransomware by Contextual Behavior Detection and Fine-grained Content Analysis",
+  "venue": "Proceedings 2025 Network and Distributed System Security Symposium",
+  "type": "proceedings-article",
+  "publisher": "Internet Society",
+  "year": 2025,
+  "authors": [
+   "Lingbo Zhao",
+   "Yuhui Zhang",
+   "Zhilu Wang",
+   "Fengkai Yuan",
+   "Rui Hou"
+  ],
+  "cites": 5,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3696843.3696847",
+  "title": "Towards Effective Machine Learning Models for Ransomware Detection via Low-Level Hardware Information",
+  "venue": "Proceedings of the 13th International Workshop on Hardware and Architectural Support for Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "year": 2024,
+  "authors": [
+   "Chutitep Woralert",
+   "Chen Liu",
+   "Zander Blasingame"
+  ],
+  "cites": 5,
+  "queries": [
+   "ransomware detection hardware performance counters"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3243734.3278491",
+  "title": "A Storage-level Detection Mechanism against Crypto-Ransomware",
+  "venue": "Proceedings of the 2018 ACM SIGSAC Conference on Computer and Communications Security",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "year": 2018,
+  "authors": [
+   "Joon-Young Paik",
+   "Joong-Hyun Choi",
+   "Rize Jin",
+   "Jianming Wang",
+   "Eun-Sun Cho"
+  ],
+  "cites": 15,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0009000505850592",
+  "title": "Dual-use Research in Ransomware Attacks: A Discussion on Ransomware Defence Intelligence",
+  "venue": "Proceedings of the 6th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2020,
+  "authors": [
+   "Ziya Gen\u00e7",
+   "Gabriele Lenzini"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware family classification",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0011008000003120",
+  "title": "Ransomware Detection with Deep Neural Networks",
+  "venue": "Proceedings of the 8th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2022,
+  "authors": [
+   "Matan Davidian",
+   "Natalia Vanetik",
+   "Michael Kiperberg"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware detection deep learning",
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral",
+   "ransomware detection hardware performance counters",
+   "IoT ransomware detection deep learning",
+   "ransomware detection opcode static analysis",
+   "ransomware detection transformer LSTM",
+   "ransomware detection graph neural network",
+   "ransomware detection federated learning",
+   "ransomware detection survey",
+   "zero-day ransomware detection",
+   "ransomware detection concept drift",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0010985000003120",
+  "title": "On Tracking Ransomware on the File System",
+  "venue": "Proceedings of the 8th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2022,
+  "authors": [
+   "Luigi Catuogno",
+   "Clemente Galdi"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection file system I/O machine learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3453153",
+  "title": "A Survey on Windows-based Ransomware Taxonomy and Detection Mechanisms",
+  "venue": "ACM Computing Surveys",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "year": 2021,
+  "authors": [
+   "Routa Moussaileb",
+   "Nora Cuppens",
+   "Jean-Louis Lanet",
+   "H\u00e9l\u00e8ne Le Bouder"
+  ],
+  "cites": 73,
+  "queries": [
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1145/3798092",
+  "title": "Crypto-Ransomware and Their Defenses: In-Depth Behavioral Characterization, Discussion of Deployability, and New Insights",
+  "venue": "ACM Computing Surveys",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "year": 2026,
+  "authors": [
+   "Wenjia Song",
+   "Sanjula Karanam",
+   "Ya Xiao",
+   "Jingyuan Qi",
+   "Nathan Dautenhahn",
+   "Na Meng",
+   "Elena Ferrari",
+   "Danfeng Yao"
+  ],
+  "cites": 0,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10489-022-03244-6",
+  "title": "Zero-day Ransomware Attack Detection using Deep Contractive Autoencoder and Voting based Ensemble Classifier",
+  "venue": "Applied Intelligence",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "Umme Zahoora",
+   "Muttukrishnan Rajarajan",
+   "Zahoqing Pan",
+   "Asifullah Khan"
+  ],
+  "cites": 68,
+  "queries": [
+   "zero-day ransomware detection"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app10093210",
+  "title": "A Multi-Tier Streaming Analytics Model of 0-Day Ransomware Detection Using Machine Learning",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2020,
+  "authors": [
+   "Hiba Zuhair",
+   "Ali Selamat",
+   "Ondrej Krejcar"
+  ],
+  "cites": 31,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning",
+   "zero-day ransomware detection",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app10113706",
+  "title": "Optimizing Extreme Learning Machines Using Chains of Salps for Efficient Android Ransomware Detection",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2020,
+  "authors": [
+   "Hossam Faris",
+   "Maria Habib",
+   "Iman Almomani",
+   "Mohammed Eshtay",
+   "Ibrahim Aljarah"
+  ],
+  "cites": 47,
+  "queries": [
+   "android ransomware detection machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app112210976",
+  "title": "Hybrid-Based Analysis Impact on Ransomware Detection for Android Systems",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2021,
+  "authors": [
+   "Rana Almohaini",
+   "Iman Almomani",
+   "Aala AlKhayer"
+  ],
+  "cites": 19,
+  "queries": [
+   "android ransomware detection machine learning",
+   "ransomware detection opcode static analysis",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app12010172",
+  "title": "Ransomware Detection Using the Dynamic Analysis and Machine Learning: A Survey and Research Directions",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2021,
+  "authors": [
+   "Umara Urooj",
+   "Bander Ali Saleh Al-rimy",
+   "Anazida Zainal",
+   "Fuad A. Ghaleb",
+   "Murad A. Rassam"
+  ],
+  "cites": 164,
+  "queries": [
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app11136070",
+  "title": "Introduction of the ARDS\u2014Anti-Ransomware Defense System Model\u2014Based on the Systematic Review of Worldwide Ransomware Attacks",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2021,
+  "authors": [
+   "Veronika Sz\u00fccs",
+   "G\u00e1bor Ar\u00e1nyi",
+   "\u00c1kos D\u00e1vid"
+  ],
+  "cites": 10,
+  "queries": [
+   "ransomware systematic literature review"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app122412941",
+  "title": "Reducing False Negatives in Ransomware Detection: A Critical Evaluation of Machine Learning Algorithms",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2022,
+  "authors": [
+   "Robert Bold",
+   "Haider Al-Khateeb",
+   "Nikolaos Ersotelos"
+  ],
+  "cites": 31,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app13085167",
+  "title": "Optimal Graph Convolutional Neural Network-Based Ransomware Detection for Cybersecurity in IoT Environment",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Hend Khalid Alkahtani",
+   "Khalid Mahmood",
+   "Majdi Khalid",
+   "Mahmoud Othman",
+   "Mesfer Al Duhayyim",
+   "Azza Elneil Osman",
+   "Amani A. Alneil",
+   "Abu Sarwar Zamani"
+  ],
+  "cites": 23,
+  "queries": [
+   "ransomware detection graph neural network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app14114579",
+  "title": "Ransomware Detection Model Based on Adaptive Graph Neural Network Learning",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Jun Li",
+   "Gengyu Yang",
+   "Yanhua Shao"
+  ],
+  "cites": 14,
+  "queries": [
+   "ransomware detection deep learning",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection graph neural network",
+   "ransomware detection federated learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app151910576",
+  "title": "Zero-Day Ransomware Attack Detection Using Static Portable Executable Header Features",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Algimantas Ven\u010dkauskas",
+   "Vacius Jusas",
+   "Dominykas Barisas"
+  ],
+  "cites": 4,
+  "queries": [
+   "ransomware detection opcode static analysis",
+   "zero-day ransomware detection"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app16115232",
+  "title": "Detecting Ransomware Through Dynamic API Call Monitoring and Machine Learning",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Anas AlMajali",
+   "Waleed Dweik",
+   "Yahia Abdelghafur",
+   "Obada Alhasan",
+   "Omar Tawalbeh",
+   "Moustafa Amer"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware classification API calls"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app16136332",
+  "title": "Hardware Performance Counter Analysis of Ransomware Behavior: Observed Inverse Correlations Across Heterogeneous x86 Platforms",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Erliang Zhao",
+   "Ziyuan Zhu"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection hardware performance counters"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.asoc.2022.108744",
+  "title": "Behavior-based ransomware classification: A particle swarm optimization wrapper-based approach for feature selection",
+  "venue": "Applied Soft Computing",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Muhammad Shabbir Abbasi",
+   "Harith Al-Sahaf",
+   "Masood Mansoori",
+   "Ian Welch"
+  ],
+  "cites": 72,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/bdcc7030143",
+  "title": "Ransomware Detection Using Machine Learning: A Survey",
+  "venue": "Big Data and Cognitive Computing",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Amjad Alraizza",
+   "Abdulmohsen Algarni"
+  ],
+  "cites": 101,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection deep learning",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection federated learning",
+   "ransomware detection survey",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10586-022-03569-4",
+  "title": "BigRC-EML: big-data based ransomware classification using ensemble machine learning",
+  "venue": "Cluster Computing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "Sana Aurangzeb",
+   "Haris Anwar",
+   "Muhammad Asif Naeem",
+   "Muhammad Aleem"
+  ],
+  "cites": 41,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10586-023-04043-5",
+  "title": "Ransomware early detection using deep reinforcement learning on portable executable header",
+  "venue": "Cluster Computing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "XiZhen Deng",
+   "MingCan Cen",
+   "M. Jiang",
+   "Meiqu Lu"
+  ],
+  "cites": 27,
+  "queries": [
+   "ransomware detection deep learning",
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "IoT ransomware detection deep learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10586-025-05335-8",
+  "title": "Privacy preserved api access control policy- based ransomware attack detection in cloud vms using sl2stm",
+  "venue": "Cluster Computing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Kalyan Gattupalli",
+   "Venkata Surya Bhavana Harish Gollavilli",
+   "Harikumar Nagarajan",
+   "Poovendran Alagarsundaram",
+   "Surendar Rama Sitaraman",
+   "Haris M. Khalid"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware classification API calls"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.comnet.2021.108011",
+  "title": "RansomCare: Data-centric detection and mitigation against smartphone crypto-ransomware",
+  "venue": "Computer Networks",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2021,
+  "authors": [
+   "Farnood Faghihi",
+   "Mohammad Zulkernine"
+  ],
+  "cites": 30,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.comnet.2023.110138",
+  "title": "Ransomware early detection: A survey",
+  "venue": "Computer Networks",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Mingcan Cen",
+   "Frank Jiang",
+   "Xingsheng Qin",
+   "Qinghong Jiang",
+   "Robin Doss"
+  ],
+  "cites": 89,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cosrev.2025.100801",
+  "title": "A conceptual framework to mitigate ransomware attacks on IoMT devices using threat intelligence: a systematic literature review",
+  "venue": "Computer Science Review",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Kalaivani Selvaraj",
+   "Manmeet Mahinderjit Singh",
+   "Zarul Fitri Zaaba"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware systematic literature review"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2019.101568",
+  "title": "The rise of crypto-ransomware in a changing cybercrime landscape: Taxonomising countermeasures",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2019,
+  "authors": [
+   "Lena Y. Connolly",
+   "David S. Wall"
+  ],
+  "cites": 116,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2019.06.004",
+  "title": "On the effectiveness of system API-related information for Android ransomware detection",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2019,
+  "authors": [
+   "Michele Scalas",
+   "Davide Maiorca",
+   "Francesco Mercaldo",
+   "Corrado Aaron Visaggio",
+   "Fabio Martinelli",
+   "Giorgio Giacinto"
+  ],
+  "cites": 90,
+  "queries": [
+   "ransomware classification API calls"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2020.101997",
+  "title": "RansomSpector: An introspection-based approach to detect crypto ransomware",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2020,
+  "authors": [
+   "Fei Tang",
+   "Boyang Ma",
+   "Jinku Li",
+   "Fengwei Zhang",
+   "Jipeng Su",
+   "Jianfeng Ma"
+  ],
+  "cites": 44,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2021.102461",
+  "title": "Dynamic user-centric access control for detection of ransomware attacks",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2021,
+  "authors": [
+   "Timothy McIntosh",
+   "A.S.M. Kayes",
+   "Yi-Ping Phoebe Chen",
+   "Alex Ng",
+   "Paul Watters"
+  ],
+  "cites": 24,
+  "queries": [
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2022.102644",
+  "title": "Preventive portfolio against data-selling ransomware\u2014A game theory of encryption and deception",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Zhen Li",
+   "Qi Liao"
+  ],
+  "cites": 19,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2022.102691",
+  "title": "A few-shot meta-learning based siamese neural network using entropy features for ransomware classification",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Jinting Zhu",
+   "Julian Jang-Jaccard",
+   "Amardeep Singh",
+   "Ian Welch",
+   "Harith AL-Sahaf",
+   "Seyit Camtepe"
+  ],
+  "cites": 76,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2022.102659",
+  "title": "FeSA: Feature selection architecture for ransomware detection under concept drift",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Damien Warren Fernando",
+   "Nikos Komninos"
+  ],
+  "cites": 35,
+  "queries": [
+   "ransomware detection concept drift"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2023.103349",
+  "title": "Cryptographic ransomware encryption detection: Survey",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Kenan Begovic",
+   "Abdulaziz Al-Ali",
+   "Qutaibah Malluhi"
+  ],
+  "cites": 66,
+  "queries": [
+   "ransomware early detection pre-encryption",
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2023.103265",
+  "title": "Improving ransomware detection based on portable executable header using xception convolutional neural network",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Caio C. Moreira",
+   "Davi C. Moreira",
+   "Claudomiro de S. de Sales Jr."
+  ],
+  "cites": 56,
+  "queries": [
+   "ransomware detection graph neural network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2023.103629",
+  "title": "FeSAD ransomware detection framework with machine learning using adaption to concept drift",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Damien Warren Fernando",
+   "Nikos Komninos"
+  ],
+  "cites": 32,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection concept drift",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.103703",
+  "title": "XRan: Explainable deep learning-based ransomware detection using dynamic analysis",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Sibel Gulmez",
+   "Arzu Gorgulu Kakisim",
+   "Ibrahim Sogukpinar"
+  ],
+  "cites": 92,
+  "queries": [
+   "ransomware detection deep learning",
+   "IoT ransomware detection deep learning",
+   "ransomware detection opcode static analysis",
+   "ransomware detection federated learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.103819",
+  "title": "It's too late if exfiltrate: Early stage Android ransomware detection",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Narendra Singh",
+   "Somanath Tripathy"
+  ],
+  "cites": 16,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "android ransomware detection machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.103849",
+  "title": "Zero-Ran Sniff: A zero-day ransomware early detection method based on zero-shot learning",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Mingcan Cen",
+   "Xizhen Deng",
+   "Frank Jiang",
+   "Robin Doss"
+  ],
+  "cites": 51,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "zero-day ransomware detection"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.104202",
+  "title": "RanSMAP: Open dataset of Ransomware Storage and Memory Access Patterns for creating deep learning based ransomware detectors",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Manabu Hirano",
+   "Ryotaro Kobayashi"
+  ],
+  "cites": 38,
+  "queries": [
+   "ransomware detection deep learning",
+   "IoT ransomware detection deep learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.104293",
+  "title": "RansoGuard: A RNN-based framework leveraging pre-attack sensitive APIs for early ransomware detection",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Mingcan Cen",
+   "Frank Jiang",
+   "Robin Doss"
+  ],
+  "cites": 25,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.104167",
+  "title": "Zero day ransomware detection with Pulse: Function classification with Transformer models and assembly language",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Matthew Gaber",
+   "Mohiuddin Ahmed",
+   "Helge Janicke"
+  ],
+  "cites": 27,
+  "queries": [
+   "ransomware detection transformer LSTM",
+   "zero-day ransomware detection",
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.compeleceng.2023.108601",
+  "title": "SINN-RD: Spline interpolation-envisioned neural network-based ransomware detection scheme",
+  "venue": "Computers and Electrical Engineering",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Jaskaran Singh",
+   "Keshav Sharma",
+   "Mohammad Wazid",
+   "Ashok Kumar Das"
+  ],
+  "cites": 40,
+  "queries": [
+   "ransomware detection graph neural network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.compeleceng.2024.109509",
+  "title": "An intelligent ransomware attack detection and classification using dual vision transformer with Mantis Search Split Attention Network",
+  "venue": "Computers and Electrical Engineering",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Ashwini K.",
+   "Nagasundara K.B."
+  ],
+  "cites": 13,
+  "queries": [
+   "ransomware detection transformer LSTM",
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1002/cpe.5422",
+  "title": "Ransomware detection using machine learning algorithms",
+  "venue": "Concurrency and Computation: Practice and Experience",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "year": 2019,
+  "authors": [
+   "Seong Il Bae",
+   "Gyu Bin Lee",
+   "Eul Gyu Im"
+  ],
+  "cites": 121,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1002/cpe.6672",
+  "title": "Process based volatile memory forensics for ransomware detection",
+  "venue": "Concurrency and Computation: Practice and Experience",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "year": 2021,
+  "authors": [
+   "Asad Arfeen",
+   "Muhammad Asim Khan",
+   "Obad Zafar",
+   "Usama Ahsan"
+  ],
+  "cites": 22,
+  "queries": [
+   "ransomware detection memory forensics machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1002/cpe.6272",
+  "title": "A survey on analysis and detection of Android ransomware",
+  "venue": "Concurrency and Computation: Practice and Experience",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "year": 2021,
+  "authors": [
+   "Shweta Sharma",
+   "Rakesh Kumar",
+   "C. Rama Krishna"
+  ],
+  "cites": 31,
+  "queries": [
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1002/cpe.70813",
+  "title": "Early Detection of Windows Crypto\u2010Ransomware Based on API Sequences and Deep Learning",
+  "venue": "Concurrency and Computation: Practice and Experience",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "year": 2026,
+  "authors": [
+   "Jiqiang Zhai",
+   "Zhonghui Zhai",
+   "Hong Miao",
+   "Xinyu Wang",
+   "Hailu Yang"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware detection deep learning",
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral",
+   "ransomware classification API calls"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1145/3608484",
+  "title": "HiPeR - Early Detection of a Ransomware Attack using Hardware Performance Counters",
+  "venue": "Digital Threats: Research and Practice",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "year": 2023,
+  "authors": [
+   "P. Mohan Anand",
+   "P. V. Sai Charan",
+   "Sandeep K. Shukla"
+  ],
+  "cites": 31,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "ransomware detection hardware performance counters"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1145/3786772",
+  "title": "Sequence Learning over Behavioral Attack Patterns for Early Detection of Human-Operated Ransomware",
+  "venue": "Digital Threats: Research and Practice",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "year": 2026,
+  "authors": [
+   "Mohammed Rauf Ali Khan",
+   "Akram Algaolahi",
+   "Farid Binbeshr",
+   "Muhammad Imam"
+  ],
+  "cites": 1,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.eij.2024.100445",
+  "title": "Ransomware detection based on machine learning using memory features",
+  "venue": "Egyptian Informatics Journal",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Malak Aljabri",
+   "Fahd Alhaidari",
+   "Aminah Albuainain",
+   "Samiyah Alrashidi",
+   "Jana Alansari",
+   "Wasmiyah Alqahtani",
+   "Jana Alshaya"
+  ],
+  "cites": 49,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.eij.2025.100645",
+  "title": "Ransomware detection and family classification using fine-tuned BERT and RoBERTa models",
+  "venue": "Egyptian Informatics Journal",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Amjad Hussain",
+   "Ayesha Saadia",
+   "Faeiz M. Alserhani"
+  ],
+  "cites": 10,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics8080868",
+  "title": "Ransomware Detection System for Android Applications",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2019,
+  "authors": [
+   "Samah Alsoghyer",
+   "Iman Almomani"
+  ],
+  "cites": 59,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral",
+   "ransomware detection hardware performance counters",
+   "android ransomware detection machine learning",
+   "ransomware detection transformer LSTM",
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics10172113",
+  "title": "High Performance Classification Model to Identify Ransomware Payments for Heterogeneous Bitcoin Networks",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2021,
+  "authors": [
+   "Qasem Abu Al-Haija",
+   "Abdulaziz A. Alsulami"
+  ],
+  "cites": 48,
+  "queries": [
+   "ransomware classification API calls",
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics11203307",
+  "title": "A New Scheme for Ransomware Classification and Clustering Using Static Features",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2022,
+  "authors": [
+   "Bahaa Yamany",
+   "Mahmoud Said Elsayed",
+   "Anca D. Jurcut",
+   "Nashwa Abdelbaki",
+   "Marianne A. Azer"
+  ],
+  "cites": 28,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics12183899",
+  "title": "Enhancing Ransomware Attack Detection Using Transfer Learning and Deep Learning Ensemble Models on Cloud-Encrypted Data",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Amardeep Singh",
+   "Zohaib Mushtaq",
+   "Hamad Ali Abosaq",
+   "Salim Nasar Faraj Mursal",
+   "Muhammad Irfan",
+   "Grzegorz Nowakowski"
+  ],
+  "cites": 59,
+  "queries": [
+   "ransomware detection deep learning",
+   "IoT ransomware detection deep learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics12214494",
+  "title": "Crypto-Ransomware: A Revision of the State of the Art, Advances and Challenges",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Jos\u00e9 Antonio G\u00f3mez Hern\u00e1ndez",
+   "Pedro Garc\u00eda Teodoro",
+   "Roberto Mag\u00e1n Carri\u00f3n",
+   "Rafael Rodr\u00edguez G\u00f3mez"
+  ],
+  "cites": 29,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics13061030",
+  "title": "A Study on Countermeasures against Neutralizing Technology: Encoding Algorithm-Based Ransomware Detection Methods Using Machine Learning",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Jaehyuk Lee",
+   "Jinseo Yun",
+   "Kyungroul Lee"
+  ],
+  "cites": 11,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics14071245",
+  "title": "RansomFormer: A Cross-Modal Transformer Architecture for Ransomware Detection via the Fusion of Byte and API Features",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Saleh Alzahrani",
+   "Yang Xiao",
+   "Sultan Asiri",
+   "Naif Alasmari",
+   "Tieshan Li"
+  ],
+  "cites": 13,
+  "queries": [
+   "ransomware classification API calls",
+   "ransomware detection transformer LSTM"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.engappai.2025.110292",
+  "title": "Hybrid EfficientNet feed forward neural network for ransomware detection in blockchain",
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Balajee Maram",
+   "Neelima Gullipalli",
+   "Rudra Kalyan Nayak",
+   "Ramamani Tripathy",
+   "Satish Muppidi",
+   "Madan Lal Saini"
+  ],
+  "cites": 6,
+  "queries": [
+   "ransomware detection explainable artificial intelligence"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.engappai.2025.110538",
+  "title": "Blockchain data with Ransomware detection based on deep feed forward Maxout network",
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Vemireddi Srinadh",
+   "Buddi Padmaja",
+   "Dhanunjaya Rao Chigurukota",
+   "Mallikharjuna Rao Karreddula",
+   "Balajee Maram",
+   "Smritilekha Das"
+  ],
+  "cites": 3,
+  "queries": [
+   "ransomware detection explainable artificial intelligence"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.eswa.2018.02.039",
+  "title": "Trusted detection of ransomware in a private cloud using machine learning methods leveraging meta-features from volatile memory",
+  "venue": "Expert Systems with Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2018,
+  "authors": [
+   "Aviad Cohen",
+   "Nir Nissim"
+  ],
+  "cites": 113,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection cloud virtual machine",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.eswa.2022.118299",
+  "title": "Crypto-ransomware detection using machine learning models in file-sharing network scenarios with encrypted traffic",
+  "venue": "Expert Systems with Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Eduardo Berrueta",
+   "Daniel Morato",
+   "Eduardo Maga\u00f1a",
+   "Mikel Izal"
+  ],
+  "cites": 56,
+  "queries": [
+   "crypto-ransomware detection behavioral",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.eswa.2021.116198",
+  "title": "The rise of ransomware: Forensic analysis for windows based ransomware attacks",
+  "venue": "Expert Systems with Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Ilker Kara",
+   "Murat Aydos"
+  ],
+  "cites": 60,
+  "queries": [
+   "ransomware family classification",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.eswa.2025.129225",
+  "title": "A swarm intelligence-enhanced ransomware detection framework via dynamic memory feature optimization",
+  "venue": "Expert Systems with Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Yan Wu",
+   "Yanyan Liu",
+   "Zhaoyuan Zhang",
+   "Xiaoshi Yi",
+   "Lanlan Yi"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.fsidi.2021.301168",
+  "title": "RansomDroid: Forensic analysis and detection of Android Ransomware using unsupervised machine learning technique",
+  "venue": "Forensic Science International: Digital Investigation",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2021,
+  "authors": [
+   "Shweta Sharma",
+   "C. Rama Krishna",
+   "Rakesh Kumar"
+  ],
+  "cites": 36,
+  "queries": [
+   "ransomware detection machine learning",
+   "android ransomware detection machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.fsidi.2021.301314",
+  "title": "RanSAP: An open dataset of ransomware storage access patterns for training machine learning models",
+  "venue": "Forensic Science International: Digital Investigation",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Manabu Hirano",
+   "Ryo Hodota",
+   "Ryotaro Kobayashi"
+  ],
+  "cites": 46,
+  "queries": [
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.future.2019.06.005",
+  "title": "Crypto-ransomware early detection model using novel incremental bagging with enhanced semi-random subspace selection",
+  "venue": "Future Generation Computer Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2019,
+  "authors": [
+   "Bander Ali Saleh Al-rimy",
+   "Mohd Aizaini Maarof",
+   "Syed Zainudeen Mohd Shaid"
+  ],
+  "cites": 99,
+  "queries": [
+   "early ransomware detection",
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.future.2020.10.002",
+  "title": "Redundancy Coefficient Gradual Up-weighting-based Mutual Information Feature Selection technique for Crypto-ransomware early detection",
+  "venue": "Future Generation Computer Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2021,
+  "authors": [
+   "Bander Ali Saleh Al-rimy",
+   "Mohd Aizaini Maarof",
+   "Mamoun Alazab",
+   "Syed Zainudeen Mohd Shaid",
+   "Fuad A. Ghaleb",
+   "Abdulmohsen Almalawi",
+   "Abdullah Marish Ali",
+   "Tawfik Al-Hadhrami"
+  ],
+  "cites": 57,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/fi15040144",
+  "title": "Opportunities for Early Detection and Prediction of Ransomware Attacks against Industrial Control Systems",
+  "venue": "Future Internet",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Mazen Gazzan",
+   "Frederick T. Sheldon"
+  ],
+  "cites": 49,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/fi16080291",
+  "title": "Early Ransomware Detection with Deep Learning Models",
+  "venue": "Future Internet",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Matan Davidian",
+   "Michael Kiperberg",
+   "Natalia Vanetik"
+  ],
+  "cites": 22,
+  "queries": [
+   "ransomware detection deep learning",
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "IoT ransomware detection deep learning",
+   "ransomware detection federated learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/fi17070311",
+  "title": "A Deep Learning Framework for Enhanced Detection of Polymorphic Ransomware",
+  "venue": "Future Internet",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Mazen Gazzan",
+   "Bader Alobaywi",
+   "Mohammed Almutairi",
+   "Frederick T. Sheldon"
+  ],
+  "cites": 13,
+  "queries": [
+   "ransomware detection deep learning",
+   "IoT ransomware detection deep learning",
+   "ransomware detection federated learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.icte.2017.12.007",
+  "title": "Multi-stage crypto ransomware attacks: A new emerging cyber threat to critical infrastructure and industrial control systems",
+  "venue": "ICT Express",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2018,
+  "authors": [
+   "Aaron Zimba",
+   "Zhaoshun Wang",
+   "Hongsong Chen"
+  ],
+  "cites": 67,
+  "queries": [
+   "crypto-ransomware detection behavioral",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.icte.2020.11.001",
+  "title": "Ransomware Detection using Random Forest Technique",
+  "venue": "ICT Express",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2020,
+  "authors": [
+   "Ban Mohammed Khammas"
+  ],
+  "cites": 135,
+  "queries": [
+   "early ransomware detection",
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2018.2873583",
+  "title": "An in-Depth Study of the Jisut Family of Android Ransomware",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2018,
+  "authors": [
+   "Alejandro Martin",
+   "Julio Hernandez-Castro",
+   "David Camacho"
+  ],
+  "cites": 20,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2019.2931136",
+  "title": "Machine Learning Based File Entropy Analysis for Ransomware Detection in Backup Systems",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2019,
+  "authors": [
+   "Kyungroul Lee",
+   "Sun-Young Lee",
+   "Kangbin Yim"
+  ],
+  "cites": 116,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection deep learning",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection opcode static analysis",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection federated learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2019.2907485",
+  "title": "A Multi-Classifier Network-Based Crypto Ransomware Detection System: A Case Study of Locky Ransomware",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2019,
+  "authors": [
+   "Ahmad O. Almashhadani",
+   "Mustafa Kaiiali",
+   "Sakir Sezer",
+   "Philip O'Kane"
+  ],
+  "cites": 152,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral",
+   "ransomware detection hardware performance counters",
+   "ransomware detection transformer LSTM",
+   "ransomware detection graph neural network",
+   "ransomware detection survey",
+   "zero-day ransomware detection",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2019.2945839",
+  "title": "A Survey on Detection Techniques for Cryptographic Ransomware",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2019,
+  "authors": [
+   "Eduardo Berrueta",
+   "Daniel Morato",
+   "Eduardo Magana",
+   "Mikel Izal"
+  ],
+  "cites": 99,
+  "queries": [
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2020.3003785",
+  "title": "A Digital DNA Sequencing Engine for Ransomware Detection Using Machine Learning",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2020,
+  "authors": [
+   "Firoz Khan",
+   "Cornelius Ncube",
+   "Lakshmana Kumar Ramasamy",
+   "Seifedine Kadry",
+   "Yunyoung Nam"
+  ],
+  "cites": 96,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2020.3012674",
+  "title": "A Pseudo Feedback-Based Annotated TF-IDF Technique for Dynamic Crypto-Ransomware Pre-Encryption Boundary Delineation and Features Extraction",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2020,
+  "authors": [
+   "Bander Ali Saleh Al-Rimy",
+   "Mohd Aiziani Maarof",
+   "Mamoun Alazab",
+   "Fawaz Alsolami",
+   "Syed Zainudeen Mohd Shaid",
+   "Fuad A. Ghaleb",
+   "Tawfik Al-Hadhrami",
+   "Abdullah Marish Ali"
+  ],
+  "cites": 60,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2021.3109260",
+  "title": "Analysis of Crypto-Ransomware Using ML-Based Multi-Level Profiling",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2021,
+  "authors": [
+   "Subash Poudyal",
+   "Dipankar Dasgupta"
+  ],
+  "cites": 40,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2021.3114148",
+  "title": "Enhancing File Entropy Analysis to Improve Machine Learning Detection Rate of Ransomware",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2021,
+  "authors": [
+   "Chia-Ming Hsu",
+   "Chia-Cheng Yang",
+   "Han-Hsuan Cheng",
+   "Paul E. Setiasabda",
+   "Jenq-Shiou Leu"
+  ],
+  "cites": 29,
+  "queries": [
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2021.3124634",
+  "title": "Asynchronous Peer-to-Peer Federated Capability-Based Targeted Ransomware Detection Model for Industrial IoT",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2021,
+  "authors": [
+   "Muna Al-Hawawreh",
+   "Elena Sitnikova",
+   "Neda Aboutorab"
+  ],
+  "cites": 63,
+  "queries": [
+   "ransomware detection federated learning",
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2022.3218779",
+  "title": "Machine Learning Algorithms and Frameworks in Ransomware Detection",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Daryle Smith",
+   "Sajad Khorsandroo",
+   "Kaushik Roy"
+  ],
+  "cites": 34,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection deep learning",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection federated learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2021.3128024",
+  "title": "Dual Generative Adversarial Networks Based Unknown Encryption Ransomware Attack Detection",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Xueqin Zhang",
+   "Jiyuan Wang",
+   "Shinan Zhu"
+  ],
+  "cites": 31,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2022.3168991",
+  "title": "Ransomware Attack as Hardware Trojan: A Feasibility and Demonstration Study",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Felipe Almeida",
+   "Malik Imran",
+   "Jaan Raik",
+   "Samuel Pagliarini"
+  ],
+  "cites": 14,
+  "queries": [
+   "ransomware detection hardware performance counters"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2024.3397921",
+  "title": "Ransomware Detection Using Machine Learning: A Review, Research Limitations and Future Directions",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Jamil Ispahany",
+   "Md. Rafiqul Islam",
+   "Md. Zahidul Islam",
+   "M. Arif Khan"
+  ],
+  "cites": 77,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2023.3348451",
+  "title": "Addressing Behavioral Drift in Ransomware Early Detection Through Weighted Generative Adversarial Networks",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Umara Urooj",
+   "Bander Ali Saleh Al-Rimy",
+   "Anazida Binti Zainal",
+   "Faisal Saeed",
+   "Abdelzahir Abdelmaboud",
+   "Wamda Nagmeldin"
+  ],
+  "cites": 32,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral",
+   "ransomware detection concept drift"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2024.3395491",
+  "title": "Ransomware Classification Using Hardware Performance Counters on a Non-Virtualized System",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Jennie E. Hill",
+   "T. Owens Walker",
+   "Justin A. Blanco",
+   "Robert W. Ives",
+   "Ryan Rakvic",
+   "Bruce Jacob"
+  ],
+  "cites": 19,
+  "queries": [
+   "ransomware detection hardware performance counters",
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3581424",
+  "title": "Explainable and Uncertainty Aware AI-Based Ransomware Detection",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Henry Kabuye",
+   "Biju Issac",
+   "Rahul Yumlembam",
+   "Jeyamohan Neera"
+  ],
+  "cites": 8,
+  "queries": [
+   "ransomware detection explainable artificial intelligence"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3555163",
+  "title": "RanViz: Ransomware Visualization and Classification Based on Time-Series Categorical Representation of API Calls",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Vhuhwavho Mokoma",
+   "Avinash Singh"
+  ],
+  "cites": 8,
+  "queries": [
+   "ransomware classification API calls",
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3553562",
+  "title": "XRGuard: A Model-Agnostic Approach to Ransomware Detection Using Dynamic Analysis and Explainable AI",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "M. Adnan Alvi",
+   "Zunera Jalil"
+  ],
+  "cites": 18,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3569635",
+  "title": "iCNN-LSTM+: A Batch-Based Incremental Ransomware Detection System Using Sysmon",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Jamil Ispahany",
+   "Md Rafiqul Islam",
+   "M. Arif Khan",
+   "Md Zahidul Islam"
+  ],
+  "cites": 10,
+  "queries": [
+   "ransomware detection transformer LSTM"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3556187",
+  "title": "A Survey of Ransomware Detection Methods",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Saleh Alzahrani",
+   "Yang Xiao",
+   "Sultan Asiri",
+   "Jianying Zheng",
+   "Tieshan Li"
+  ],
+  "cites": 40,
+  "queries": [
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2026.3727310",
+  "title": "Deep MCRan: Hybrid Analysis-Based Ransomware Detection Using Multi-Channel Data Fusion",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Sibel Gulmez",
+   "Arzu Gorgulu Kakisim",
+   "Ibrahim Sogukpinar"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection deep learning",
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2026.3710149",
+  "title": "Artificial Intelligence-Powered Crypto Ransomware Detection",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Xiang Fang",
+   "Tarek Saadawi"
+  ],
+  "cites": 2,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral",
+   "ransomware detection explainable artificial intelligence",
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2026.3730303",
+  "title": "Interpretable Pre-Ransomware Detection for SOCs Using SHAP and Lightweight ML",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Auttapon Pomsathit"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware early detection pre-encryption",
+   "ransomware detection SHAP LIME explainability"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2026.3692203",
+  "title": "Time-Scale Reconfiguration for Ransomware Mitigation by Delaying Encryption Progress",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Kosuke Higuchi",
+   "Ryotaro Kobayashi"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/jiot.2024.3496481",
+  "title": "Quantum-Powered Extended Visibility for Zero-Trust-Based Ransomware Detection in Smart Grids",
+  "venue": "IEEE Internet of Things Journal",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Muna Al-Hawawreh",
+   "Omar Shindi",
+   "Zubair Baig",
+   "Mamoun Alazab",
+   "Adnan Anwar",
+   "Robin Doss"
+  ],
+  "cites": 15,
+  "queries": [
+   "zero-day ransomware detection"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tcad.2021.3099084",
+  "title": "A Content-Based Ransomware Detection and Backup Solid-State Drive for Ransomware Defense",
+  "venue": "IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Donghyun Min",
+   "Yungwoo Ko",
+   "Ryan Walker",
+   "Junghee Lee",
+   "Youngjae Kim"
+  ],
+  "cites": 31,
+  "queries": [
+   "ransomware detection industrial control systems"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tc.2020.3011214",
+  "title": "SSD-assisted Ransomware Detection and Data Recovery Techniques",
+  "venue": "IEEE Transactions on Computers",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2020,
+  "authors": [
+   "Sungha Baek",
+   "Youngdon Jung",
+   "Aziz Mohaisen",
+   "Sungjin Lee",
+   "Daehun Nyang"
+  ],
+  "cites": 28,
+  "queries": [
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tc.2022.3173149",
+  "title": "DeepWare: Imaging Performance Counters with Deep Learning to Detect Ransomware",
+  "venue": "IEEE Transactions on Computers",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Gaddisa Olani",
+   "Chun-Feng Wu",
+   "Yuan-Hao Chang",
+   "Wei-Kuan Shih"
+  ],
+  "cites": 36,
+  "queries": [
+   "ransomware detection hardware performance counters"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tce.2026.3659127",
+  "title": "Detection of Ransomware Attack in IoT-Based Smart Meter Using Hybrid Deep Learning Model",
+  "venue": "IEEE Transactions on Consumer Electronics",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Hassam Ishfaq",
+   "Waqas Amin",
+   "Abdullah Aman Khan",
+   "Nermish Mushtaq",
+   "Muhammad Asim Saleem",
+   "Abdullah Feraih Alenezi",
+   "Hussain Mobarak Albarakati"
+  ],
+  "cites": 6,
+  "queries": [
+   "ransomware detection deep learning",
+   "IoT ransomware detection deep learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tdsc.2020.3005976",
+  "title": "Analysis of Encryption Key Generation in Modern Crypto Ransomware",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2020,
+  "authors": [
+   "Fabrizio Cicala",
+   "Elisa Bertino"
+  ],
+  "cites": 5,
+  "queries": [
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tifs.2023.3240025",
+  "title": "RTrap: Trapping and Containing Ransomware With Machine Learning",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2023,
+  "authors": [
+   "Gaddisa Olani Ganfure",
+   "Chun-Feng Wu",
+   "Yuan-Hao Chang",
+   "Wei-Kuan Shih"
+  ],
+  "cites": 50,
+  "queries": [
+   "ransomware detection memory forensics machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tifs.2024.3410511",
+  "title": "Ranker: Early Ransomware Detection Through Kernel-Level Behavioral Analysis",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Huan Zhang",
+   "Lixin Zhao",
+   "Aimin Yu",
+   "Lijun Cai",
+   "Dan Meng"
+  ],
+  "cites": 29,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tifs.2026.3723705",
+  "title": "System-Wide Ransomware Attack Detection via Perturbation-Resilient Representation Learning",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Fengkai Yuan",
+   "Lingbo Zhao",
+   "Zhilu Wang",
+   "Wenhao Wang",
+   "Dan Meng",
+   "Rui Hou"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection memory forensics machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tnse.2026.3719148",
+  "title": "TDMRans: Toward a Two-Stage Detection Method of Ransomware Encryption Behavior in Storage System",
+  "venue": "IEEE Transactions on Network Science and Engineering",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Gang Hu",
+   "Feiyu Chen",
+   "Jie Shao"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tnsm.2025.3574716",
+  "title": "HFL-RD: Heterogeneous Federated Learning-Empowered Ransomware Detection via APIs and Traffic Features",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Kun Lan",
+   "Gaolei Li",
+   "Wenkai Huang",
+   "Jianhua Li"
+  ],
+  "cites": 7,
+  "queries": [
+   "ransomware detection network traffic machine learning",
+   "ransomware detection federated learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info12100405",
+  "title": "UGRansome1819: A Novel Dataset for Anomaly Detection and Zero-Day Threats",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2021,
+  "authors": [
+   "Mike Nkongolo",
+   "Jacobus Philippus van Deventer",
+   "Sydney Mambwe Kasongo"
+  ],
+  "cites": 29,
+  "queries": [
+   "zero-day ransomware detection"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info14030193",
+  "title": "The Effect of the Ransomware Dataset Age on the Detection Accuracy of Machine Learning Models",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Qussai M. Yaseen"
+  ],
+  "cites": 10,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection deep learning",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection federated learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info15050262",
+  "title": "Novel Ransomware Detection Exploiting Uncertainty and Calibration Quality Measures Using Deep Learning",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Mazen Gazzan",
+   "Frederick T. Sheldon"
+  ],
+  "cites": 11,
+  "queries": [
+   "ransomware detection deep learning",
+   "IoT ransomware detection deep learning",
+   "ransomware detection federated learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info15040194",
+  "title": "An Incremental Mutual Information-Selection Technique for Early Ransomware Detection",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Mazen Gazzan",
+   "Frederick T. Sheldon"
+  ],
+  "cites": 14,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info15010046",
+  "title": "A Holistic Approach to Ransomware Classification: Leveraging Static and Dynamic Analysis with Visualization",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Bahaa Yamany",
+   "Mahmoud Said Elsayed",
+   "Anca D. Jurcut",
+   "Nashwa Abdelbaki",
+   "Marianne A. Azer"
+  ],
+  "cites": 25,
+  "queries": [
+   "ransomware detection opcode static analysis",
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info15080484",
+  "title": "Earlier Decision on Detection of Ransomware Identification: A Comprehensive Systematic Literature Review",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Latifa Albshaier",
+   "Seetah Almarri",
+   "M. M. Hafizur Rahman"
+  ],
+  "cites": 24,
+  "queries": [
+   "ransomware systematic literature review"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info16090739",
+  "title": "Real-Time Detection and Recovery Method Against Ransomware Based on Simple Format Analysis",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "JaeYeol Kim"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info16060458",
+  "title": "A Transductive Zero-Shot Learning Framework for Ransomware Detection Using Malware Knowledge Graphs",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Ping Wang",
+   "Hao-Cyuan Li",
+   "Hsiao-Chung Lin",
+   "Wen-Hui Lin",
+   "Nian-Zu Xie"
+  ],
+  "cites": 7,
+  "queries": [
+   "zero-day ransomware detection"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info17020194",
+  "title": "Real-Time Ransomware Detection Using Reinforcement Learning Agents",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Kutub Thakur",
+   "Md Liakat Ali",
+   "Suzanna Schmeelk",
+   "Joan Debello",
+   "Md Mustafizur Rahman"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware detection deep learning",
+   "ransomware detection federated learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-023-00758-z",
+  "title": "RWArmor: a static-informed dynamic analysis approach for early detection of cryptographic windows ransomware",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "Md. Ahsan Ayub",
+   "Ambareen Siraj",
+   "Bobby Filar",
+   "Maanak Gupta"
+  ],
+  "cites": 38,
+  "queries": [
+   "early ransomware detection",
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-024-00841-z",
+  "title": "Anomaly detection for early ransomware and spyware warning in nuclear power plant systems based on FusionGuard",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2024,
+  "authors": [
+   "Abdullah Hamad N. Almoqbil"
+  ],
+  "cites": 8,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-024-00892-2",
+  "title": "Early mitigation of CPU-optimized ransomware using monitoring encryption instructions",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2024,
+  "authors": [
+   "Shuhei Enomoto",
+   "Hiroki Kuzuno",
+   "Hiroshi Yamada",
+   "Yoshiaki Shiraishi",
+   "Masakatu Morii"
+  ],
+  "cites": 8,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-024-00966-1",
+  "title": "Real-time open-file backup system with machine-learning detection model for ransomware",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Kosuke Higuchi",
+   "Ryotaro Kobayashi"
+  ],
+  "cites": 7,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-025-01151-8",
+  "title": "Real time ransomware detection in cloud VMS using behavioral biometrics homomorphic encryption and GMM based anomaly detection",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Haitham A. Mahmoud",
+   "Abdelaty Edrees Abdelgawad",
+   "Ahmed T. Soliman",
+   "Mohammed A. El-Meligy"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-025-01153-6",
+  "title": "Differential privacy enhanced ransomware detection in cloud VMs using SMPC and bidirectional LSTM with DNN",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Waeal J. Obidallah",
+   "Mubarak Albathan",
+   "Zeyad Alshaikh",
+   "Riyad Almakki",
+   "Qaisar Abbas"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection transformer LSTM"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-026-01296-0",
+  "title": "A proactive camouflage-based approach to prevent crypto-ransomware: the ransomware prevention Toolkit (RPTK)",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Hesham Alshaikh",
+   "Hesham Hefny",
+   "Nagy Ramadan"
+  ],
+  "cites": 0,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11416-022-00425-2",
+  "title": "An effective ransomware detection approach in a cloud environment using volatile memory features",
+  "venue": "Journal of Computer Virology and Hacking Techniques",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   " Prachi",
+   "Sumit Kumar"
+  ],
+  "cites": 11,
+  "queries": [
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11416-023-00501-1",
+  "title": "Explainable Ransomware Detection with Deep Learning Techniques",
+  "venue": "Journal of Computer Virology and Hacking Techniques",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "Giovanni Ciaramella",
+   "Giacomo Iadarola",
+   "Fabio Martinelli",
+   "Francesco Mercaldo",
+   "Antonella Santone"
+  ],
+  "cites": 26,
+  "queries": [
+   "ransomware detection deep learning",
+   "IoT ransomware detection deep learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1093/cybsec/tyaf009",
+  "title": "Not on my watch: ransomware detection through classification of high-entropy file segments",
+  "venue": "Journal of Cybersecurity",
+  "type": "journal-article",
+  "publisher": "Oxford University Press (OUP)",
+  "year": 2025,
+  "authors": [
+   "Fran Casino",
+   "Darren Hurley-Smith",
+   "Julio Hernandez-Castro",
+   "Constantinos Patsakis"
+  ],
+  "cites": 9,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jisa.2020.102646",
+  "title": "Evaluation metric for crypto-ransomware detection using machine learning",
+  "venue": "Journal of Information Security and Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2020,
+  "authors": [
+   "S.H. Kok",
+   "A. Azween",
+   "NZ Jhanjhi"
+  ],
+  "cites": 76,
+  "queries": [
+   "ransomware detection machine learning",
+   "crypto-ransomware detection behavioral",
+   "ransomware detection entropy machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jksuci.2020.06.012",
+  "title": "Early detection of crypto-ransomware using pre-encryption detection algorithm",
+  "venue": "Journal of King Saud University - Computer and Information Sciences",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "S.H. Kok",
+   "Azween Abdullah",
+   "NZ Jhanjhi"
+  ],
+  "cites": 102,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jksuci.2024.101925",
+  "title": "Machine learning-based ransomware classification of Bitcoin transactions",
+  "venue": "Journal of King Saud University - Computer and Information Sciences",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2024,
+  "authors": [
+   "Omar Dib",
+   "Zhenghan Nan",
+   "Jinkua Liu"
+  ],
+  "cites": 21,
+  "queries": [
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jnca.2018.09.013",
+  "title": "Ransomware early detection by the analysis of file sharing traffic",
+  "venue": "Journal of Network and Computer Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2018,
+  "authors": [
+   "Daniel Morato",
+   "Eduardo Berrueta",
+   "Eduardo Maga\u00f1a",
+   "Mikel Izal"
+  ],
+  "cites": 94,
+  "queries": [
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "ransomware detection network traffic machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jnca.2024.103950",
+  "title": "Leveraging application permissions and network traffic attributes for Android ransomware detection",
+  "venue": "Journal of Network and Computer Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Sekione Reward Jeremiah",
+   "Haotian Chen",
+   "Stefanos Gritzalis",
+   "Jong Hyuk Park"
+  ],
+  "cites": 9,
+  "queries": [
+   "ransomware detection network traffic machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jnca.2026.104458",
+  "title": "HARVEST: Hardware-based ransomware detection and stage tracking for AIoMT devices",
+  "venue": "Journal of Network and Computer Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Kalaivani Selvaraj",
+   "Manmeet Mahinderjit Singh",
+   "Zarul Fitri Zaaba"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware detection hardware performance counters"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/math9070705",
+  "title": "Convolutional Neural Network-Based Cryptography Ransomware Detection for Low-End Embedded Processors",
+  "venue": "Mathematics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2021,
+  "authors": [
+   "Hyunji Kim",
+   "Jaehoon Park",
+   "Hyeokdong Kwon",
+   "Kyoungbae Jang",
+   "Hwajeong Seo"
+  ],
+  "cites": 16,
+  "queries": [
+   "ransomware detection graph neural network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/math13121933",
+  "title": "Crypto-Ransomware Detection Through a Honeyfile-Based Approach with R-Locker",
+  "venue": "Mathematics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Xiang Fang",
+   "Eric Song",
+   "Cheng Ning",
+   "Huseyn Huseynov",
+   "Tarek Saadawi"
+  ],
+  "cites": 4,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11042-023-16946-x",
+  "title": "Revolutionizing ransomware detection and criticality assessment: Multiclass hybrid machine learning and semantic similarity-based end2end solution",
+  "venue": "Multimedia Tools and Applications",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "Chaithanya B N",
+   "Brahmananda S H"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware detection machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s00521-022-07096-6",
+  "title": "Evading behavioral classifiers: a comprehensive analysis on evading ransomware detection techniques",
+  "venue": "Neural Computing and Applications",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "Fabio De Gaspari",
+   "Dorjan Hitaj",
+   "Giulio Pagnotta",
+   "Lorenzo De Carli",
+   "Luigi V. Mancini"
+  ],
+  "cites": 43,
+  "queries": [
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-022-19443-7",
+  "title": "Ransomware detection using deep learning based unsupervised feature extraction and a cost sensitive Pareto Ensemble classifier",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "Umme Zahoora",
+   "Asifullah Khan",
+   "Muttukrishnan Rajarajan",
+   "Saddam Hussain Khan",
+   "Muhammad Asam",
+   "Tauseef Jamal"
+  ],
+  "cites": 64,
+  "queries": [
+   "ransomware detection deep learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-022-08504-6",
+  "title": "Classification of ransomware using different types of neural networks",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "Houria Madani",
+   "Noura Ouerdi",
+   "Ahmed Boumesaoud",
+   "Abdelmalek Azizi"
+  ],
+  "cites": 22,
+  "queries": [
+   "ransomware classification API calls",
+   "ransomware family classification"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-025-06530-8",
+  "title": "Cacography based Ransomware Email Phishing Attack Prevention using Language Pack Tuned Transformer Language Model",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "S. Abiramasundari",
+   "V. Ramaswamy"
+  ],
+  "cites": 5,
+  "queries": [
+   "ransomware detection transformer LSTM"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-65107-1",
+  "title": "An ensemble machine learning framework for accurate ransomware detection and family classification using LightGBM and random forest",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Seetah Almarri",
+   "Ahmed Aljughaiman"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware classification API calls",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection federated learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware family classification",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-38271-7",
+  "title": "Ensemble machine learning for proactive android ransomware detection using network traffic",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "G. Kirubavathi",
+   "B. Padma Mayuri",
+   "S. Pranathasree",
+   "Rajeswari Alagappan",
+   "Amal Ajayan",
+   "Waleed M. Ismael",
+   "Ateeq Ur Rehman"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection network traffic machine learning",
+   "android ransomware detection machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-025-96083-7",
+  "title": "Two-Tier heuristic search for ransomware-as-a-service based cyberattack d\u00e9fense analysis using explainable Bayesian deep learning model",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Ali Saeed Almuflih"
+  ],
+  "cites": 1,
+  "queries": [
+   "ransomware detection deep learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-67921-z",
+  "title": "Dual-use ambiguity in static ransomware detection: false positive analysis and confidence-gated mitigation",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Ch Ram Mohan Reddy",
+   "R. V. Raghavendra Rao",
+   " Vishnuprasad",
+   "K. Sailaja Kumar"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-68188-0",
+  "title": "A quantum-inspired hybrid framework for ransomware detection using graph neural networks and support vector machines",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Suneeta Satpathy",
+   "Pratik Kumar Swain"
+  ],
+  "cites": 0,
+  "queries": [
+   "ransomware detection graph neural network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1155/2022/1424638",
+  "title": "Digital Forensics as Advanced Ransomware Pre-Attack Detection Algorithm for Endpoint Data Protection",
+  "venue": "Security and Communication Networks",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "year": 2022,
+  "authors": [
+   "Jian Du",
+   "Sajid Hussain Raza",
+   "Mudassar Ahmad",
+   "Iqbal Alam",
+   "Saadat Hanif Dar",
+   "Muhammad Asif Habib"
+  ],
+  "cites": 22,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s22051837",
+  "title": "A Survey of Crypto Ransomware Attack Detection Methodologies: An Evolving Outlook",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2022,
+  "authors": [
+   "Abdullah Alqahtani",
+   "Frederick T. Sheldon"
+  ],
+  "cites": 96,
+  "queries": [
+   "crypto-ransomware detection behavioral",
+   "ransomware detection survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s23031053",
+  "title": "Dynamic Feature Dataset for Ransomware Detection Using Machine Learning Algorithms",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Juan A. Herrera-Silva",
+   "Myriam Hern\u00e1ndez-\u00c1lvarez"
+  ],
+  "cites": 88,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection deep learning",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection federated learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s24010189",
+  "title": "Android Ransomware Detection Using Supervised Machine Learning Techniques Based on Traffic Analysis",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Amnah Albin Ahmed",
+   "Afrah Shaahid",
+   "Fatima Alnasser",
+   "Shahad Alfaddagh",
+   "Shadha Binagag",
+   "Deemah Alqahtani"
+  ],
+  "cites": 41,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection network traffic machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s23094355",
+  "title": "Temporal Data Correlation Providing Enhanced Dynamic Crypto-Ransomware Pre-Encryption Boundary Delineation",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Abdullah Alqahtani",
+   "Frederick T. Sheldon"
+  ],
+  "cites": 13,
+  "queries": [
+   "ransomware early detection pre-encryption",
+   "crypto-ransomware detection behavioral"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s23104728",
+  "title": "Neutralization Method of Ransomware Detection Technology Using Format Preserving Encryption",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Jaehyuk Lee",
+   "Sun-Young Lee",
+   "Kangbin Yim",
+   "Kyungroul Lee"
+  ],
+  "cites": 6,
+  "queries": [
+   "ransomware early detection pre-encryption"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s23094467",
+  "title": "E2E-RDS: Efficient End-to-End Ransomware Detection System Based on Static-Based ML and Vision-Based DL Approaches",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Iman Almomani",
+   "Aala Alkhayer",
+   "Walid El-Shafai"
+  ],
+  "cites": 31,
+  "queries": [
+   "ransomware detection opcode static analysis"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s23063023",
+  "title": "Effective Ransomware Detection Using Entropy Estimation of Files for Cloud Services",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Kyungroul Lee",
+   "Jaehyuk Lee",
+   "Sun-Young Lee",
+   "Kangbin Yim"
+  ],
+  "cites": 18,
+  "queries": [
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s24092679",
+  "title": "Lightweight Crypto-Ransomware Detection in Android Based on Reactive Honeyfile Monitoring",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Jos\u00e9 A. G\u00f3mez-Hern\u00e1ndez",
+   "Pedro Garc\u00eda-Teodoro"
+  ],
+  "cites": 11,
+  "queries": [
+   "crypto-ransomware detection behavioral",
+   "android ransomware detection machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s24051446",
+  "title": "Entropy Sharing in Ransomware: Bypassing Entropy-Based Detection of Cryptographic Operations",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Jiseok Bang",
+   "Jeong Nyeo Kim",
+   "Seungkwang Lee"
+  ],
+  "cites": 12,
+  "queries": [
+   "ransomware detection entropy machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s25082406",
+  "title": "A Machine Learning-Based Ransomware Detection Method for Attackers\u2019 Neutralization Techniques Using Format-Preserving Encryption",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Jaehyuk Lee",
+   "Jinwook Kim",
+   "Hanjo Jeong",
+   "Kyungroul Lee"
+  ],
+  "cites": 15,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware early detection pre-encryption",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s26030952",
+  "title": "An Intelligent Sensing Framework for Early Ransomware Detection Using MHSA-LSTM Machine Learning",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Abdullah Alqahtani",
+   "Mordecai Opoku Ohemeng",
+   "Frederick T. Sheldon"
+  ],
+  "cites": 9,
+  "queries": [
+   "ransomware detection machine learning",
+   "early ransomware detection",
+   "ransomware early detection pre-encryption",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "android ransomware detection machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection transformer LSTM",
+   "ransomware detection federated learning",
+   "ransomware detection storage SSD machine learning",
+   "ransomware detection cloud virtual machine"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s26061750",
+  "title": "Systematic Evaluation of Machine Learning and Deep Learning Models for IoT Malware Detection Across Ransomware, Rootkit, Spyware, Trojan, Botnet, Worm, Virus, and Keylogger",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Mazdak Maghanaki",
+   "Soraya Keramati",
+   "F. Frank Chen",
+   "Mohammad Shahin"
+  ],
+  "cites": 14,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection deep learning",
+   "ransomware detection entropy machine learning",
+   "IoT ransomware detection deep learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11227-025-07151-8",
+  "title": "Ransomware detection with CNN and deep learning based on multiple features of portable executable files",
+  "venue": "The Journal of Supercomputing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Chia-Cheng Yang",
+   "Jia-Ming Hsu",
+   "Jenq-Shiou Leu",
+   "Wen-Bin Hsieh"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware detection deep learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11227-025-07777-8",
+  "title": "RansomHunter: zero-day Android ransomware detection using graph convolutional neural networks and code embeddings",
+  "venue": "The Journal of Supercomputing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Mohammad Ebrahimifard",
+   "Mahdi Abadi",
+   "Fatemeh Deldar"
+  ],
+  "cites": 3,
+  "queries": [
+   "ransomware detection graph neural network",
+   "zero-day ransomware detection"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11277-020-07166-9",
+  "title": "Two-Stage Ransomware Detection Using Dynamic Analysis and Machine Learning Techniques",
+  "venue": "Wireless Personal Communications",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2020,
+  "authors": [
+   "Jinsoo Hwang",
+   "Jeankyung Kim",
+   "Seunghwan Lee",
+   "Kichang Kim"
+  ],
+  "cites": 120,
+  "queries": [
+   "ransomware detection machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11277-023-10801-w",
+  "title": "Ransomware Detection Service: Execution and Analysis Using Machine Learning Techniques",
+  "venue": "Wireless Personal Communications",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "Suriya Badrinath",
+   "Roshni Dodhi",
+   "Raja Muthalagu"
+  ],
+  "cites": 2,
+  "queries": [
+   "ransomware detection machine learning",
+   "ransomware detection file system I/O machine learning",
+   "ransomware detection entropy machine learning",
+   "ransomware detection memory forensics machine learning",
+   "ransomware detection storage SSD machine learning"
+  ],
+  "route": "journal"
+ }
+]

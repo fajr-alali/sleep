@@ -1,0 +1,23 @@
+ShieldFS: a self-healing, ransomware-aware filesystem
+UNVEIL: A large-scale, automated approach to detecting ransomware
+RWGuard: A Real-Time Detection System Against Cryptographic Ransomware
+Redemption: Real-time protection against ransomware at end-hosts
+FlashGuard: Leveraging intrinsic flash properties to defend against encryption ransomware
+Peeler: Profiling Kernel-Level Events to Detect Ransomware
+CryptoDrop: Stopping ransomware attacks on user data
+Classification of ransomware families with machine learning based on N-gram of opcodes
+DRTHIS: Deep ransomware threat hunting and intelligence system at the fog layer
+Know abnormal, find evil: frequent pattern mining for ransomware threat hunting and intelligence
+A survey on ransomware: Evolution, taxonomy, and defense solutions
+The age of ransomware: A survey on the evolution, taxonomy, and research directions
+Ransomware behavioural analysis on windows platforms
+Automated dynamic analysis of ransomware: Benefits, limitations and use for detection
+Ransomware detection by mining API call usage
+Detecting ransomware using process memory
+Leveraging machine learning techniques for windows ransomware network traffic detection
+SSD-Insider: Internal defense of solid-state drive against ransomware with perfect data recovery
+RansomWall: A layered defense system against cryptographic ransomware attacks using machine learning
+Evaluating shallow and deep networks for ransomware detection and classification
+Deep learning based ransomware detection using LSTM
+A framework for analyzing ransomware using machine learning
+Ransomware detection using the dynamic analysis and machine learning: A survey and research directions
