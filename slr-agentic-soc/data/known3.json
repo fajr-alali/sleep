@@ -1,0 +1,102 @@
+[
+ {
+  "query": "DeepStage: Learning Autonomous Defense Policies Against Multi-Stage APT Campaigns",
+  "sim": 1.0,
+  "doi": "10.1109/csr69374.2026.11759781",
+  "title": "DeepStage: Learning Autonomous Defense Policies Against Multi-Stage APT Campaigns",
+  "venue": "2026 IEEE International Conference on Cyber Security and Resilience (CSR)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Trung V. Phan",
+   "Tri Gia Nguyen",
+   "Thomas Bauschert"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "DeepXplain: XAI-Guided Autonomous Defense Against Multi-Stage APT Campaigns",
+  "sim": 0.79,
+  "doi": "10.1109/csr69374.2026.11759781",
+  "title": "DeepStage: Learning Autonomous Defense Policies Against Multi-Stage APT Campaigns",
+  "venue": "2026 IEEE International Conference on Cyber Security and Resilience (CSR)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Trung V. Phan",
+   "Tri Gia Nguyen",
+   "Thomas Bauschert"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "HunterAgent: Neuro-Symbolic Attack Trace Reconstruction under Anti-Forensics",
+  "sim": 0.42,
+  "doi": "10.4018/ijdcf.2014010103",
+  "title": "Attack Graph Analysis for Network Anti-Forensics",
+  "venue": "International Journal of Digital Crime and Forensics",
+  "type": "journal-article",
+  "publisher": "IGI Global Scientific Publishing",
+  "year": 2014,
+  "authors": [
+   "Rahul Chandran",
+   "Wei Q. Yan"
+  ],
+  "cites": 4
+ },
+ {
+  "query": "ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation",
+  "sim": 0.4,
+  "doi": "10.3724/sp.j.1087.2010.02567",
+  "title": "Emergency collaborative Petri net modeling and collaborative detection based on multi-Agent system",
+  "venue": "Journal of Computer Applications",
+  "type": "journal-article",
+  "publisher": "China Science Publishing & Media Ltd.",
+  "year": 2010,
+  "authors": [
+   "Lei DU",
+   "Wen-jun WANG",
+   "Cun-xiang DONG",
+   "Li-xiong LI",
+   "Shan GAO"
+  ],
+  "cites": 1
+ },
+ {
+  "query": "AUTOMA: Automated Generation of Attack Hypotheses and Their Variants for Threat Hunting Using Knowledge Discovery",
+  "sim": 1.0,
+  "doi": "10.1109/tnsm.2024.3378972",
+  "title": "AUTOMA: Automated Generation of Attack Hypotheses and Their Variants for Threat Hunting Using Knowledge Discovery",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Boubakr Nour",
+   "Makan Pourzandi",
+   "Rushaan Kamran Qureshi",
+   "Mourad Debbabi"
+  ],
+  "cites": 15
+ },
+ {
+  "query": "Minos: A Multi-Agent Collaborative Framework for Provenance-Based Backward Tracking",
+  "sim": 0.99,
+  "doi": "10.1007/978-3-032-38692-2_19",
+  "title": "Minos: A Multi-agent Collaborative Framework for\u00a0Provenance-Based Backward Tracking",
+  "venue": "Lecture Notes in Computer Science",
+  "type": "book-chapter",
+  "publisher": "Springer Nature Switzerland",
+  "year": 2026,
+  "authors": [
+   "Jiahui Wang",
+   "Zhenyuan Li",
+   "Zhengkai Wang",
+   "Xiangmin Shen",
+   "Fan Zhang"
+  ],
+  "cites": 0
+ }
+]

@@ -1,0 +1,363 @@
+[
+ {
+  "query": "Cyber Task Automation With Knowledge-Infused Reinforcement Learning and LLM-Guided Policies",
+  "sim": 1.0,
+  "doi": "10.1109/tnse.2026.3715407",
+  "title": "Cyber Task Automation With Knowledge-Infused Reinforcement Learning and LLM-Guided Policies",
+  "venue": "IEEE Transactions on Network Science and Engineering",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Md. Shamim Towhid",
+   "Shahrear Iqbal",
+   "Euclides Carlos Pinto Neto",
+   "Nashid Shahriar",
+   "Scott Buffett",
+   "Madeena Sultana",
+   "Adrian Taylor"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Towards generic defensive cyber agents: Leveraging large language models and RAG-based few-shot learning",
+  "sim": 1.0,
+  "doi": "10.1016/j.comnet.2026.112349",
+  "title": "Towards generic defensive cyber agents: Leveraging large language models and RAG-based few-shot learning",
+  "venue": "Computer Networks",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Muhammad Omer Farooq"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework",
+  "sim": 1.0,
+  "doi": "10.1109/tdsc.2026.3694417",
+  "title": "Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Yixiao Peng",
+   "Hao Hu",
+   "Feiyang Li",
+   "Xinye Cao",
+   "Yingchang Jiang",
+   "Jipeng Tang",
+   "Guoshun Nan",
+   "Yuling Liu"
+  ],
+  "cites": 3
+ },
+ {
+  "query": "Leveraging Large Language Models for Autonomous Cyber Defense: Insights from CAGE-2 Simulations",
+  "sim": 1.0,
+  "doi": "10.1109/mis.2025.3568209",
+  "title": "Leveraging Large Language Models for Autonomous Cyber Defense: Insights from CAGE-2 Simulations",
+  "venue": "IEEE Intelligent Systems",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Hamoun Mohammadi",
+   "Jonathan J. Davis",
+   "Mitchell Kiely"
+  ],
+  "cites": 10
+ },
+ {
+  "query": "AD-CTIDRL: a multi-agent method for threat intelligence-enhanced automated cyber defense",
+  "sim": 1.0,
+  "doi": "10.1007/s40747-026-02449-3",
+  "title": "AD-CTIDRL: a multi-agent method for threat intelligence-enhanced automated cyber defense",
+  "venue": "Complex & Intelligent Systems",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Yujie Fu",
+   "Guowei Shen",
+   "Chun Guo",
+   "Yunhe Cui",
+   "Yi Chen",
+   "Bo Xie"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning",
+  "sim": 0.58,
+  "doi": "10.1109/cns69863.2026.11720917",
+  "title": "Hierarchical Agentic Incident Response with Digital-Twin-Validated Attack Inference",
+  "venue": "2026 IEEE Conference on Communications and Network Security (CNS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Yiran Gao",
+   "Juntao Chen",
+   "Tao Li"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach",
+  "sim": 1.0,
+  "doi": "10.1609/aaaiss.v9i1.42938",
+  "title": "In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach",
+  "venue": "Proceedings of the AAAI Symposium Series",
+  "type": "journal-article",
+  "publisher": "Association for the Advancement of Artificial Intelligence (AAAI)",
+  "year": 2026,
+  "authors": [
+   "Yiran Gao",
+   "Kim Hammar",
+   "Tao Li"
+  ],
+  "cites": 3
+ },
+ {
+  "query": "Hallucination-Resistant Security Planning with a Large Language Model",
+  "sim": 1.0,
+  "doi": "10.1109/noms69089.2026.11668410",
+  "title": "Hallucination-Resistant Security Planning with a Large Language Model",
+  "venue": "NOMS 2026-2026 IEEE Network Operations and Management Symposium",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Kim Hammar",
+   "Tansu Alpcan",
+   "Emil C. Lupu"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Design of an Autonomous Cyber Defence Agent using Hybrid AI models",
+  "sim": 1.0,
+  "doi": "10.36227/techrxiv.172047413.32361312/v1",
+  "title": "Design of an Autonomous Cyber Defence Agent using Hybrid AI models",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Johannes F Loevenich",
+   "Erik Adler",
+   "R\u00e9mi Mercier",
+   "Alexander Velazquez",
+   "Roberto Rigolin F. Lopes"
+  ],
+  "cites": 4
+ },
+ {
+  "query": "Explaining Hybrid RL Agents for Cyber Defense using SHAP and Reward Decomposition",
+  "sim": 1.0,
+  "doi": "10.1109/milcom64451.2025.11310039",
+  "title": "Explaining Hybrid RL Agents for Cyber Defense using SHAP and Reward Decomposition",
+  "venue": "MILCOM 2025 - 2025 IEEE Military Communications Conference (MILCOM)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Silja Kluge",
+   "Laurin Holz",
+   "Johannes F. Loevenich",
+   "Roberto Rigolin F. Lopes"
+  ],
+  "cites": 3
+ },
+ {
+  "query": "SecOps-Agent: Policy-Grounded LLM-Assisted Security Incident Response for Production Environments",
+  "sim": 1.0,
+  "doi": "10.20944/preprints202609.1017.v1",
+  "title": "SecOps-Agent: Policy-Grounded LLM-Assisted Security Incident Response for Production Environments",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Wenrui Ma",
+   "Wanrong Cai",
+   "Tianyu Yu",
+   "Shaorui Pi",
+   "Heyi Wang"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations",
+  "sim": 0.6,
+  "doi": "10.17918/00011254",
+  "title": "Strategic reinforcement learning agents for autonomous cyber defense",
+  "venue": "",
+  "type": "dissertation",
+  "publisher": "Drexel University Libraries",
+  "year": null,
+  "authors": [
+   "Erick Galinkin",
+   "Spiros Mancoridis",
+   "Emmanouil Pountourakis"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Autonomous Multi-agent Cyber Defense: A Novel Approach Using Reinforcement Learning with Hierarchical LLM Critics",
+  "sim": 1.0,
+  "doi": "10.1109/cars67163.2025.11337724",
+  "title": "Autonomous Multi-agent Cyber Defense: A Novel Approach Using Reinforcement Learning with Hierarchical LLM Critics",
+  "venue": "2025 Cyber Awareness and Research Symposium (CARS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Haseeb Ahmed",
+   "Shahrear Iqbal",
+   "Euclides Carlos Pinto Neto",
+   "Scott Buffett",
+   "Madeena Sultana",
+   "Adrian Taylor"
+  ],
+  "cites": 3
+ },
+ {
+  "query": "Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense",
+  "sim": 0.78,
+  "doi": "10.17918/00011254",
+  "title": "Strategic reinforcement learning agents for autonomous cyber defense",
+  "venue": "",
+  "type": "dissertation",
+  "publisher": "Drexel University Libraries",
+  "year": null,
+  "authors": [
+   "Erick Galinkin",
+   "Spiros Mancoridis",
+   "Emmanouil Pountourakis"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution",
+  "sim": 0.48,
+  "doi": "10.65150/ep-gjetr/v2e9/2026-04",
+  "title": "Accelerating National Defense with Large Language Models: A Conceptual Framework for the Real-Time Processing of Shared Cyber Threat Indicators",
+  "venue": "Global Journal of Engineering and Technology Research",
+  "type": "journal-article",
+  "publisher": "EP-Journals",
+  "year": 2026,
+  "authors": [
+   "Chukwunenye Amadi",
+   "Abolaji Adebayo",
+   "Ayokunle Olamide Ijagbemi"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Large Language Model Integration with Reinforcement Learning to Augment Decision-Making in Autonomous Cyber Operations",
+  "sim": 0.65,
+  "doi": "10.2139/ssrn.5346022",
+  "title": "Large Language Model Guided Deep Reinforcement Learning for Safe Autonomous Vehicle Decision Making",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Hao Pang",
+   "Zhenpo Wang",
+   "Guoqiang Li"
+  ],
+  "cites": 4
+ },
+ {
+  "query": "Can LLM Agents Replace Reinforcement Learning Agents in Cyber Defence Automation: A Case Study Using the DARPA CAGE-2 Challenge",
+  "sim": 1.0,
+  "doi": "10.1109/smartnets69662.2026.11604963",
+  "title": "Can LLM Agents Replace Reinforcement Learning Agents in Cyber Defence Automation: A Case Study Using the DARPA CAGE-2 Challenge",
+  "venue": "2026 International Conference on Smart Applications, Communications and Networking (SmartNets)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Arijit Diganto",
+   "Saeedeh Lohrasbi",
+   "Euclides Carlos Pinto Neto",
+   "Shahrear Iqbal"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Large Language Models are Autonomous Cyber Defenders",
+  "sim": 1.0,
+  "doi": "10.1109/cai64502.2025.00195",
+  "title": "Large Language Models are Autonomous Cyber Defenders",
+  "venue": "2025 IEEE Conference on Artificial Intelligence (CAI)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Sebasti\u00e1n R. Castro",
+   "Roberto Campbell",
+   "Nancy Lau",
+   "Octavio Villalobos",
+   "Jiaqi Duan",
+   "Alvaro A. Cardenas"
+  ],
+  "cites": 18
+ },
+ {
+  "query": "A Decision-Support System for Incident Response Using a Lightweight Large Language Model",
+  "sim": 1.0,
+  "doi": "10.1109/noms69089.2026.11668303",
+  "title": "A Decision-Support System for Incident Response Using a Lightweight Large Language Model",
+  "venue": "NOMS 2026-2026 IEEE Network Operations and Management Symposium",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Kim Hammar",
+   "Tansu Alpcan",
+   "Emil C. Lupu"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Automated Incident Response Playbooks Using Policy-Driven LLM Agents in SOC Operations",
+  "sim": 1.0,
+  "doi": "10.36676/jrps.v16.i4.331",
+  "title": "Automated Incident Response Playbooks Using Policy-Driven LLM Agents in SOC Operations",
+  "venue": "International Journal for Research Publication and Seminar",
+  "type": "journal-article",
+  "publisher": "Shodh Sagar",
+  "year": 2025,
+  "authors": [
+   " Jonah F. Reynolds"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Enhancing Security Operation Center: Wazuh Security Event Response with Retrieval-Augmented-Generation-Driven Copilot",
+  "sim": 1.0,
+  "doi": "10.3390/s25030870",
+  "title": "Enhancing Security Operations Center: Wazuh Security Event Response with Retrieval-Augmented-Generation-Driven Copilot",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   " Ismail",
+   "Rahmat Kurnia",
+   "Farid Widyatama",
+   "Ilham Mirwansyah Wibawa",
+   "Zilmas Arjuna Brata",
+   " Ukasyah",
+   "Ghitha Afina Nelistiani",
+   "Howon Kim"
+  ],
+  "cites": 22
+ }
+]

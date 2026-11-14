@@ -1,0 +1,1494 @@
+[
+ {
+  "doi": "10.1109/csecs60003.2023.10428218",
+  "title": "Improving Cybersecurity Named Entity Recognition with Large Language Models",
+  "venue": "2023 6th International Conference on Software Engineering and Computer Science (CSECS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2023,
+  "authors": [
+   "Zhe Qiao",
+   "Chen Zhang",
+   "Gang Du"
+  ],
+  "cites": 10,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/eurospw61312.2024.00018",
+  "title": "Actionable Cyber Threat Intelligence Using Knowledge Graphs and Large Language Models",
+  "venue": "2024 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2024,
+  "authors": [
+   "Romy Fieblinger",
+   "Md Tanvirul Alam",
+   "Nidhi Rastogi"
+  ],
+  "cites": 66,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/acsacw69556.2025.00054",
+  "title": "AgentNIRS: An LLM-Driven Agent for Network Intrusion Response",
+  "venue": "2025 Annual Computer Security Applications Conference Workshops (ACSAC Workshops)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Rachida Saroui",
+   "Thomas Marchioro",
+   "Alexis Olivereau"
+  ],
+  "cites": 1,
+  "queries": [
+   "LLM agent security operations center"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/acsacw69556.2025.00047",
+  "title": "IntelForge: Multi-Agent LLM Framework for Cyber Threat Intelligence Enrichment",
+  "venue": "2025 Annual Computer Security Applications Conference Workshops (ACSAC Workshops)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Noam Tarshish",
+   "Daniel Hodisan",
+   "Asaf Shabtai"
+  ],
+  "cites": 1,
+  "queries": [
+   "LLM agent security operations center",
+   "LLM threat hunting autonomous agent",
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/acsacw69556.2025.00073",
+  "title": "AgentCyTE: Leveraging Agentic AI to Generate Cybersecurity Training & Experimentation Scenarios",
+  "venue": "2025 Annual Computer Security Applications Conference Workshops (ACSAC Workshops)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Ana M. Rodriguez",
+   "Jaime Acosta",
+   "Anantaa Kotal",
+   "Aritran Piplai"
+  ],
+  "cites": 2,
+  "queries": [
+   "agentic AI cybersecurity survey"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/eurosp63326.2025.00057",
+  "title": "CTINexus: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models",
+  "venue": "2025 IEEE 10th European Symposium on Security and Privacy (EuroS&P)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Yutong Cheng",
+   "Osama Bajaber",
+   "Saimon Amanuel Tsegai",
+   "Dawn Song",
+   "Peng Gao"
+  ],
+  "cites": 23,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/icsece65727.2025.11257088",
+  "title": "Research on the Application of Big Language Models in Cybersecurity Incident Response\u2014A Log Analysis Approach Based on GPT Models",
+  "venue": "2025 IEEE 3rd International Conference on Sensors, Electronics and Computer Engineering (ICSECE)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Haoming Hang"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM log analysis incident investigation"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/acsac67867.2025.00092",
+  "title": "Learned, Lagged, LLM-Splained: LLM Responses to End User Security Questions",
+  "venue": "2025 IEEE Annual Computer Security Applications Conference (ACSAC)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Vijay Prakash",
+   "Kevin Lee",
+   "Arkaprabha Bhattacharya",
+   "Danny Yuxing Huang",
+   "Jessica Staddon"
+  ],
+  "cites": 1,
+  "queries": [
+   "LLM agent security operations center"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/eurospw67616.2025.00031",
+  "title": "CFA-Bench: Cybersecurity Forensic Llm Agent Benchmark and Testing",
+  "venue": "2025 IEEE European Symposium on Security and Privacy Workshops (EuroS&PW)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Francesco De Santis",
+   "Kai Huang",
+   "Rodolfo Valentim",
+   "Danilo Giordano",
+   "Marco Mellia",
+   "Zied Ben Houidi",
+   "Dario Rossi"
+  ],
+  "cites": 5,
+  "queries": [
+   "LLM-based agent cybersecurity tool use"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/sp63933.2026.00111",
+  "title": "LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres",
+  "venue": "2026 IEEE Symposium on Security and Privacy (SP)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Ronal Singh",
+   "Shahroz Tariq",
+   "Fatemeh Jalalvand",
+   "Mohan Baruwal Chhetri",
+   "Surya Nepal",
+   "Cecile Paris",
+   "Martin Lochner"
+  ],
+  "cites": 14,
+  "queries": [
+   "human-AI teaming security operations center"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/cicse70286.2026.11620737",
+  "title": "Large Language Model-Driven Cybersecurity Threat Detection and Intelligent Analysis",
+  "venue": "2026 International Conference on Computer Intelligence and Software Engineering (CICSE)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Sheng Xu"
+  ],
+  "cites": 0,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/globecom59602.2025.11432623",
+  "title": "Advancing Autonomous Incident Response: Leveraging LLMs and Cyber Threat Intelligence",
+  "venue": "GLOBECOM 2025 - 2025 IEEE Global Communications Conference",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Amine Tellache",
+   "Abdelaziz Amara Korba",
+   "Amdjed Mokhtari",
+   "Horea Moldovan",
+   "Yacine Ghamri-Doudane"
+  ],
+  "cites": 13,
+  "queries": [
+   "autonomous incident response cyber security",
+   "automated cyber incident response survey"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.14722/ndss.2026.240358",
+  "title": "Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination",
+  "venue": "Proceedings 2026 Network and Distributed System Security Symposium",
+  "type": "proceedings-article",
+  "publisher": "Internet Society",
+  "year": 2026,
+  "authors": [
+   "Kim Hammar",
+   "Tansu Alpcan",
+   "Emil Lupu",
+   "Kim Hammar"
+  ],
+  "cites": 14,
+  "queries": [
+   "large language model agents incident response",
+   "large language model security operations center automation",
+   "automated incident handling playbook generation large language model"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0013151800003899",
+  "title": "Autonomous Cyber Defence by Quantum-Inspired Deep Reinforcement Learning",
+  "venue": "Proceedings of the 11th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2025,
+  "authors": [
+   "Wenbo Feng",
+   "Sanyam Vyas",
+   "Tingting Li"
+  ],
+  "cites": 1,
+  "queries": [
+   "autonomous incident response cyber security",
+   "autonomous cyber defense agent reinforcement learning",
+   "autonomous cyber operations deep reinforcement learning defender"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0013289700003899",
+  "title": "Cyber Threat Modeling of an LLM-Based Healthcare System",
+  "venue": "Proceedings of the 11th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2025,
+  "authors": [
+   "Neha Nagaraja",
+   "Hayretdin Bahsi"
+  ],
+  "cites": 12,
+  "queries": [
+   "LLM threat hunting autonomous agent"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0013377600003899",
+  "title": "Large Language Models in Cybersecurity: State-of-the-Art",
+  "venue": "Proceedings of the 11th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2025,
+  "authors": [
+   "Farzad Motlagh",
+   "Mehrdad Hajizadeh",
+   "Mehryar Majd",
+   "Pejman Najafi",
+   "Feng Cheng",
+   "Christoph Meinel"
+  ],
+  "cites": 67,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0013094800003899",
+  "title": "CyLLM-DAP: Cybersecurity Domain-Adaptive Pre-Training Framework of Large Language Models",
+  "venue": "Proceedings of the 11th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2025,
+  "authors": [
+   "Khang Mai",
+   "Razvan Beuran",
+   "Naoya Inoue"
+  ],
+  "cites": 0,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.5220/0014430900004061",
+  "title": "Advancing Security Incident Analysis with LLMs: A Study Using a Novel Security Log Dataset",
+  "venue": "Proceedings of the 12th International Conference on Information Systems Security and Privacy",
+  "type": "proceedings-article",
+  "publisher": "SCITEPRESS - Science and Technology Publications",
+  "year": 2026,
+  "authors": [
+   "Artur Nikitchuk",
+   "Hayretdin Bahsi"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM log analysis incident investigation"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3576915.3624381",
+  "title": "Poster: Generating Experiences for Autonomous Network Defense",
+  "venue": "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "year": 2023,
+  "authors": [
+   "Andres Molina-Markham",
+   "Luis F. Robaina",
+   "Akash H. Trivedi",
+   "Derek G. Tsui",
+   "Ahmad Ridley"
+  ],
+  "cites": 3,
+  "queries": [
+   "autonomous network defense agent"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3832783.3834521",
+  "title": "LLM-Assisted Joint Ticket and Log Analysis for Incident Triage in Intelligent and Connected Vehicles",
+  "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "year": 2026,
+  "authors": [
+   "Ruowei Fu",
+   "Shenglin Zhang",
+   "Wenwei Gu",
+   "Weiguo Li",
+   "Yongqian Sun",
+   "Dan Pei"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM log analysis incident investigation"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3832783.3834335",
+  "title": "GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices",
+  "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "year": 2026,
+  "authors": [
+   "Yifang Tian",
+   "Yaming Liu",
+   "Zichun Chong",
+   "Zihang Huang",
+   "Yiran Li",
+   "Hans-Arno Jacobsen"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM log analysis incident investigation"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.3390/app132111621",
+  "title": "Reinforcement Learning as a Path to Autonomous Intelligent Cyber-Defense Agents in Vehicle Platforms",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Stephen Raio",
+   "Kevin Corder",
+   "Travis W. Parker",
+   "Gregory G. Shearer",
+   "Joshua S. Edwards",
+   "Manik R. Thogaripally",
+   "Song J. Park",
+   "Frederica F. Nelson"
+  ],
+  "cites": 6,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app132011275",
+  "title": "A Reinforcement Learning Framework with Oversampling and Undersampling Algorithms for Intrusion Detection System",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2023,
+  "authors": [
+   "Najmeh Abedzadeh",
+   "Matthew Jacobs"
+  ],
+  "cites": 20,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app15020951",
+  "title": "ARCS: Adaptive Reinforcement Learning Framework for Automated Cybersecurity Incident Response Strategy Optimization",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Shaochen Ren",
+   "Jianian Jin",
+   "Guanchong Niu",
+   "Yang Liu"
+  ],
+  "cites": 38,
+  "queries": [
+   "automated intrusion response system reinforcement learning",
+   "automated cyber incident response survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app16168278",
+  "title": "FedMARL-LTI: Federated Multi-Agent Reinforcement Learning with LLM-Compatible Threat Intelligence for Cooperative Cyber Defense",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Fatih \u015eahin"
+  ],
+  "cites": 0,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning",
+   "LLM threat hunting autonomous agent",
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app16147054",
+  "title": "Insider Threat Detection and Evidence-Grounded Triage Using a Heterogeneous Dual-Branch Network and a Constrained LLM Agent",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Kai Cheng",
+   "Dongkun Li",
+   "Weidong Tang",
+   "Yi Shu",
+   "Weizhong Qiang"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM threat hunting autonomous agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app16188925",
+  "title": "EviGuard: Machine-Verifiable Evidence Grounding for LLM-Based Industrial Incident Reasoning",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Haozhe Zhou",
+   "Hang Lei",
+   "Maolin Yang"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM log analysis incident investigation"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.array.2026.101367",
+  "title": "From alert fatigue to autonomous defense: A systematic literature review of AI-driven SIEM\u2013SOAR integration in security operations centers",
+  "venue": "Array",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Issa Ahmad El-Attar",
+   "Ali Attar",
+   "Mohammed El-Hajj"
+  ],
+  "cites": 0,
+  "queries": [
+   "AI agent alert triage security operations"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10586-024-05091-1",
+  "title": "Sfedrl-ids: secure federated deep reinforcement learning-based intrusion detection system for agricultural internet of things",
+  "venue": "Cluster Computing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Rabaie Benameur",
+   "Amine Dahane"
+  ],
+  "cites": 10,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.comcom.2025.108265",
+  "title": "Autonomous cyber defense for AIoT using Graph Attention Network-Enhanced reinforcement learning",
+  "venue": "Computer Communications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Yihang Shi",
+   "Huajun Zhang",
+   "Lin Shi",
+   "Shoukun Xu"
+  ],
+  "cites": 2,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning",
+   "autonomous cyber operations deep reinforcement learning defender",
+   "autonomous network defense agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.comnet.2025.111162",
+  "title": "Design and evaluation of an Autonomous Cyber Defence agent using DRL and an augmented LLM",
+  "venue": "Computer Networks",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Johannes Loevenich",
+   "Erik Adler",
+   "Tobias H\u00fcrten",
+   "Roberto Rigolin F. Lopes"
+  ],
+  "cites": 44,
+  "queries": [
+   "LLM threat hunting autonomous agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.103999",
+  "title": "LLM-TIKG: Threat intelligence knowledge graph construction utilizing large language model",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Yuelin Hu",
+   "Futai Zou",
+   "Jiajia Han",
+   "Xin Sun",
+   "Yilei Wang"
+  ],
+  "cites": 149,
+  "queries": [
+   "large language model security operations center automation",
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.103871",
+  "title": "A method of network attack-defense game and collaborative defense decision-making based on hierarchical multi-agent reinforcement learning",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Yunlong Tang",
+   "Jing Sun",
+   "Huan Wang",
+   "Junyi Deng",
+   "Liang Tong",
+   "Wenhong Xu"
+  ],
+  "cites": 41,
+  "queries": [
+   "autonomous network defense agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2025.104458",
+  "title": "DecoyPot: A large language model-driven web API honeypot for realistic attacker engagement",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "An\u0131l Sezgin",
+   "Aytu\u011f Boyac\u0131"
+  ],
+  "cites": 29,
+  "queries": [
+   "large language model security operations center automation"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.104213",
+  "title": "AECR: Automatic attack technique intelligence extraction based on fine-tuned large language model",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Minghao Chen",
+   "Kaijie Zhu",
+   "Bin Lu",
+   "Ding Li",
+   "Qingjun Yuan",
+   "Yuefei Zhu"
+  ],
+  "cites": 30,
+  "queries": [
+   "large language model security operations center automation"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.compeleceng.2026.111395",
+  "title": "Intrusion detection system in IIoT using Scottish red deer optimization assisted deep reinforcement learning model",
+  "venue": "Computers and Electrical Engineering",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "HariPriya Madhavi Susarla",
+   "Nulaka Srinivasu",
+   "Rajesh Bingu"
+  ],
+  "cites": 1,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics14204104",
+  "title": "How to Conduct AI-Assisted (Large Language Model-Assisted) Content Analysis in Information Science and Cyber Security Research",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Monica Therese Whitty"
+  ],
+  "cites": 3,
+  "queries": [
+   "large language model security operations center automation"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics14132704",
+  "title": "Cybersecurity Applications of Near-Term Large Language Models",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Casimer DeCusatis",
+   "Raymond Tomo",
+   "Aurn Singh",
+   "Emile Khoury",
+   "Andrew Masone"
+  ],
+  "cites": 7,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics15122740",
+  "title": "Agentic AI and Large Language Models for Autonomous IoT Cybersecurity: A Systematic Survey, Taxonomy, and Research Roadmap",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Vinoth Nageshwaran",
+   "Soundararajan Ezekiel"
+  ],
+  "cites": 3,
+  "queries": [
+   "agentic AI cybersecurity survey",
+   "large language models cybersecurity survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics15132949",
+  "title": "Local LLM-Based Cyber Incident Analysis in Air-Gapped Networks via Teacher\u2013Student Knowledge Distillation and Agentic Orchestration",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Sunghun Jang",
+   "MyoungRak Lee",
+   "Taeshik Shon"
+  ],
+  "cites": 1,
+  "queries": [
+   "LLM log analysis incident investigation"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.engappai.2025.111343",
+  "title": "Generative Agent-Based Modeling with Large Language Models for insider threat detection",
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Antonino Ferraro",
+   "Gian Marco Orlando",
+   "Diego Russo"
+  ],
+  "cites": 17,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.eswa.2026.132741",
+  "title": "Explainable autonomous cyber defense using adversarial multi-agent reinforcement learning",
+  "venue": "Expert Systems with Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Yiyao Zhang",
+   "Diksha Goel",
+   "Hussain Ahmad"
+  ],
+  "cites": 2,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning",
+   "autonomous cyber operations deep reinforcement learning defender",
+   "autonomous network defense agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.fsidi.2026.302184",
+  "title": "STAFT: Privacy-preserving semantic trace abstraction for forensic triage of personal AI agent incidents",
+  "venue": "Forensic Science International: Digital Investigation",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Minseok Hur",
+   "Jiho Shin",
+   "Moohong Min"
+  ],
+  "cites": 0,
+  "queries": [
+   "AI agent alert triage security operations"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/fi18100528",
+  "title": "Governing Agentic AI in the Administrative State: Human Oversight, Cybersecurity Accountability, and Risk in Autonomous Digital Systems",
+  "venue": "Future Internet",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Haris Aliba\u0161i\u0107"
+  ],
+  "cites": 0,
+  "queries": [
+   "agentic AI cybersecurity survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.icte.2025.05.007",
+  "title": "Deep Q-learning intrusion detection system (DQ-IDS): A novel reinforcement learning approach for adaptive and self-learning cybersecurity",
+  "venue": "ICT Express",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Md. Alamgir Hossain"
+  ],
+  "cites": 52,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.icte.2026.09.017",
+  "title": "A survey of Large Language Models in Cyber Threat Intelligence: Toward a regulation-aware architecture for secure ICT systems",
+  "venue": "ICT Express",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Andreas Ekelhart",
+   "Sebastian Schrittwieser",
+   "Gerald Sendera",
+   "Andreas Holzinger"
+  ],
+  "cites": 0,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2024.3418931",
+  "title": "Scalable and Autonomous Network Defense Using Reinforcement Learning",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Robert G. Campbell",
+   "Magdalini Eirinaki",
+   "Younghee Park"
+  ],
+  "cites": 7,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning",
+   "autonomous network defense agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2024.3390722",
+  "title": "Leveraging Deep Reinforcement Learning Technique for Intrusion Detection in SCADA Infrastructure",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Frantzy Mesadieu",
+   "Damiano Torre",
+   "Anitha Chennamaneni"
+  ],
+  "cites": 52,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2024.3505983",
+  "title": "Application of Large Language Models in Cybersecurity: A Systematic Literature Review",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Ismayil Hasanov",
+   "Seppo Virtanen",
+   "Antti Hakkala",
+   "Jouni Isoaho"
+  ],
+  "cites": 104,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3627098",
+  "title": "A Comparative Analysis of Machine Learning and Deep Reinforcement Learning Approaches for Adaptive Intrusion Detection",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Ay\u015fe Okutan Kara",
+   "Mustafa Kara",
+   "Aytu\u011f Boyaci"
+  ],
+  "cites": 1,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3628626",
+  "title": "Performance Evaluation of Reinforcement Learning-Based Intrusion Detection Systems",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Imtithal A. Saeed",
+   "Ali Selamat",
+   "Foad Rohani",
+   "Ondrej Krejcar"
+  ],
+  "cites": 1,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3547172",
+  "title": "MAD-CTI: Cyber Threat Intelligence Analysis of the Dark Web Using a Multi-Agent Framework",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Sayuj Shah",
+   "Vijay K. Madisetti"
+  ],
+  "cites": 13,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3603580",
+  "title": "A Large Language Model-Supported Threat Modeling Framework for Transportation Cyber-Physical Systems",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "M Sabbir Salek",
+   "Mashrur Chowdhury",
+   "Muhaimin Bin Munir",
+   "Yuchen Cai",
+   "Mohammad Imtiaz Hasan",
+   "Jean-Michel Tine",
+   "Latifur Khan",
+   "Mizanur Rahman"
+  ],
+  "cites": 11,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2026.3659205",
+  "title": "ChatNVD: Advancing Cybersecurity Vulnerability Assessment With Large Language Models",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Shivansh Chopra",
+   "Hussain Ahmad",
+   "Diksha Goel",
+   "Claudia Szabo"
+  ],
+  "cites": 5,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tce.2026.3674866",
+  "title": "Safety-Aware Intrusion Response System Based on Safe Reinforcement Learning for Cyber-Physical Systems",
+  "venue": "IEEE Transactions on Consumer Electronics",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Lin Chen",
+   "Yingxu Lai",
+   "Peng Zhao",
+   "Baoshan Xie",
+   "Yan Zhang"
+  ],
+  "cites": 0,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tdsc.2026.3738256",
+  "title": "Formal Modeling and Verification of Deep Reinforcement Learning Agents for Secure and Available Autonomous Cyber Defense",
+  "venue": "IEEE Transactions on Dependable and Secure Computing",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Laurin Holz",
+   "Johannes Loevenich",
+   "Roberto Rigolin F. Lopes",
+   "Michael Glab"
+  ],
+  "cites": 0,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning",
+   "autonomous cyber operations deep reinforcement learning defender"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tii.2024.3388672",
+  "title": "Interpretable Cross-Layer Intrusion Response System Based on Deep Reinforcement Learning for Industrial Control Systems",
+  "venue": "IEEE Transactions on Industrial Informatics",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Hao Chen",
+   "Yingxu Lai",
+   "Jing Liu",
+   "Hanxiao Wanyan"
+  ],
+  "cites": 15,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tnsm.2022.3158468",
+  "title": "DeepAir: Deep Reinforcement Learning for Adaptive Intrusion Response in Software-Defined Networks",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Trung V. Phan",
+   "Thomas Bauschert"
+  ],
+  "cites": 54,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info16050365",
+  "title": "Toward Robust Security Orchestration and Automated Response in Security Operations Centers with a Hyper-Automation Approach Using Agentic Artificial Intelligence",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   " Ismail",
+   "Rahmat Kurnia",
+   "Zilmas Arjuna Brata",
+   "Ghitha Afina Nelistiani",
+   "Shinwook Heo",
+   "Hyeongon Kim",
+   "Howon Kim"
+  ],
+  "cites": 55,
+  "queries": [
+   "agentic AI incident response security operations center",
+   "SOAR security orchestration automation response machine learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/info16100910",
+  "title": "Intrusion Detection in Industrial Control Systems Using Transfer Learning Guided by Reinforcement Learning",
+  "venue": "Information",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Jokha Ali",
+   "Saqib Ali",
+   "Taiseera Al Balushi",
+   "Zia Nadir"
+  ],
+  "cites": 5,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10207-022-00634-2",
+  "title": "Deep SARSA-based reinforcement learning approach for anomaly network intrusion detection system",
+  "venue": "International Journal of Information Security",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "Safa Mohamed",
+   "Ridha Ejbali"
+  ],
+  "cites": 74,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/jcp5040083",
+  "title": "Simulating Collaboration in Small Modular Nuclear Reactor Cybersecurity with Agent-Based Models",
+  "venue": "Journal of Cybersecurity and Privacy",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Michael B. Zamperini",
+   "Diana J. Schwerha"
+  ],
+  "cites": 1,
+  "queries": [
+   "LLM-based agent cybersecurity tool use"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/jcp5030055",
+  "title": "Leveraging Large Language Models for Scalable and Explainable Cybersecurity Log Analysis",
+  "venue": "Journal of Cybersecurity and Privacy",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Giulia Palma",
+   "Gaia Cecchi",
+   "Mario Caronna",
+   "Antonio Rizzo"
+  ],
+  "cites": 21,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/jcp6050159",
+  "title": "LLM-Based Agents for Cybersecurity: A Systematic Review of Architectures, Applications, and Open Challenges",
+  "venue": "Journal of Cybersecurity and Privacy",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "George Fatouros",
+   "Konstantinos Mavrogiorgos",
+   "Georgios Makridis",
+   "John Soldatos",
+   "Dimosthenis Kyriazis"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM-based agent cybersecurity tool use"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jisa.2023.103608",
+  "title": "Federated reinforcement learning based intrusion detection system using dynamic attention mechanism",
+  "venue": "Journal of Information Security and Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Sreekanth Vadigi",
+   "Kamalakanta Sethi",
+   "Dinesh Mohanty",
+   "Shom Prasad Das",
+   "Padmalochan Bera"
+  ],
+  "cites": 27,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.sysarc.2026.103989",
+  "title": "A large language model-based framework for multi-step evidence retrieval and reasoning in cyber threat intelligence credibility verification",
+  "venue": "Journal of Systems Architecture",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Huan Li",
+   "Fengxiao Tang",
+   "Zongzong Wu",
+   "Shisong Peng",
+   "Ming Zhao"
+  ],
+  "cites": 0,
+  "queries": [
+   "large language model cyber threat intelligence agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.knosys.2024.112563",
+  "title": "Semi-supervised intrusion detection system for in-vehicle networks based on variational autoencoder and adversarial reinforcement learning",
+  "venue": "Knowledge-Based Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Trieu-Phong Nguyen",
+   "Jeongho Cho",
+   "Daehee Kim"
+  ],
+  "cites": 27,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.knosys.2026.117001",
+  "title": "Vulnerabilities in autonomous execution: A survey of security threats and defenses in LLM-driven agentic and multi-agent systems",
+  "venue": "Knowledge-Based Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Vincenzo Sammartino"
+  ],
+  "cites": 1,
+  "queries": [
+   "LLM agent security operations center",
+   "LLM threat hunting autonomous agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-025-24869-w",
+  "title": "Deep reinforcement learning-based intrusion detection scheme for software-defined networking",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "R. Kanimozhi",
+   "P. S. Ramesh"
+  ],
+  "cites": 28,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-76851-9",
+  "title": "A reinforcement learning-driven autonomous threat hunting agent with hypothesis-guided graph traversal for APT campaign discovery",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Abdullah Abdulkarim Alnajim"
+  ],
+  "cites": 0,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning",
+   "LLM threat hunting autonomous agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-45937-9",
+  "title": "Artificial intelligence driven multi agent framework for adaptive cyber attack simulation and automated incident response in cyber range environments",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Alka Agrawal",
+   "Mohd Nadeem",
+   "Ahmed Al Nuaim",
+   "Abdullah Al Nuaim"
+  ],
+  "cites": 7,
+  "queries": [
+   "multi-agent system cyber incident response",
+   "automated cyber incident response survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-66705-9",
+  "title": "Adaptive context-aware hierarchical federated multi-agent reinforcement learning for scalable intrusion detection in industrial IoT",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Xiaolei Zhang",
+   "Yaowu Shen"
+  ],
+  "cites": 0,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-57787-6",
+  "title": "Leveraging reinforcement learning for an efficient windows registry analysis during cyber incident response",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Mohamed Chahine Ghanem",
+   "Dominik Wojtczak",
+   "Elhadj Benkhelifa",
+   "Hamza Kheddar",
+   "Erivelton G. Nepomuceno",
+   "Wanpeng Li"
+  ],
+  "cites": 0,
+  "queries": [
+   "automated cyber incident response survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-64427-6",
+  "title": "Explainability-driven adaptive cyber deception control system for autonomous network defense",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Shreyashi Deb Roy",
+   "Ganesh Khekare",
+   "Sejal Chhajed"
+  ],
+  "cites": 1,
+  "queries": [
+   "autonomous network defense agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1155/sec/9602089",
+  "title": "LAD\u2010RL: A Reinforcement Learning Framework for Automated Lightweight IoT Intrusion Detection Model Generation",
+  "venue": "Security and Communication Networks",
+  "type": "journal-article",
+  "publisher": "Wiley",
+  "year": 2026,
+  "authors": [
+   "Xuan Kan",
+   "Yixin Xu",
+   "Jiaxuan Geng",
+   "Junfeng Wang",
+   "Zhiyang Fang"
+  ],
+  "cites": 0,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s25092825",
+  "title": "Large Language Models for Synthetic Dataset Generation of Cybersecurity Indicators of Compromise",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Ashwaq Almorjan",
+   "Mohammed Basheri",
+   "Miada Almasre"
+  ],
+  "cites": 13,
+  "queries": [
+   "large language models cybersecurity survey"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s26185775",
+  "title": "A Federated Multi-Agent Communication Framework for Autonomous Cyber Defense in Edge\u2013Cloud IoT Environments",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Hakan Aydin"
+  ],
+  "cites": 0,
+  "queries": [
+   "autonomous cyber defense agent reinforcement learning",
+   "autonomous network defense agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11227-024-06417-x",
+  "title": "A novel reinforcement learning-based hybrid intrusion detection system on fog-to-cloud computing",
+  "venue": "The Journal of Supercomputing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2024,
+  "authors": [
+   "Sepide Najafli",
+   "Abolfazl Toroghi Haghighat",
+   "Babak Karasfi"
+  ],
+  "cites": 23,
+  "queries": [
+   "automated intrusion response system reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11277-023-10576-0",
+  "title": "Reinforcement Learning Based Active Attack Detection and Blockchain Technique to Protect the Data from the Passive Attack in the Autonomous Mobile Network",
+  "venue": "Wireless Personal Communications",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "C. Sivasankar",
+   "T. Kumanan"
+  ],
+  "cites": 3,
+  "queries": [
+   "self-healing network autonomous response attack"
+  ],
+  "route": "journal"
+ }
+]

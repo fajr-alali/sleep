@@ -1,0 +1,272 @@
+[
+ {
+  "query": "Intrusion Prevention Through Optimal Stopping",
+  "sim": 1.0,
+  "doi": "10.1109/tnsm.2022.3176781",
+  "title": "Intrusion Prevention Through Optimal Stopping",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Kim Hammar",
+   "Rolf Stadler"
+  ],
+  "cites": 30
+ },
+ {
+  "query": "Learning Near-Optimal Intrusion Responses Against Dynamic Attackers",
+  "sim": 1.0,
+  "doi": "10.1109/tnsm.2023.3293413",
+  "title": "Learning Near-Optimal Intrusion Responses Against Dynamic Attackers",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Kim Hammar",
+   "Rolf Stadler"
+  ],
+  "cites": 33
+ },
+ {
+  "query": "Automated Security Response Through Online Learning With Adaptive Conjectures",
+  "sim": 0.6,
+  "doi": "10.1109/tifs.2025.3558600",
+  "title": "Adaptive Security Response Strategies Through Conjectural Online Learning",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Kim Hammar",
+   "Tao Li",
+   "Rolf Stadler",
+   "Quanyan Zhu"
+  ],
+  "cites": 18
+ },
+ {
+  "query": "Deep Reinforcement Learning for Cyber Security",
+  "sim": 0.48,
+  "doi": "10.1201/9781003187158-12",
+  "title": "Defensive Schemes for Cyber Security of Deep Reinforcement Learning",
+  "venue": "AI, Machine Learning and Deep Learning",
+  "type": "book-chapter",
+  "publisher": "CRC Press",
+  "year": 2023,
+  "authors": [
+   "Jiamiao Zhao",
+   "Fei Hu",
+   "Xiali Hei"
+  ],
+  "cites": 2
+ },
+ {
+  "query": "When LLMs meet cybersecurity: a systematic literature review",
+  "sim": 1.0,
+  "doi": "10.1186/s42400-025-00361-w",
+  "title": "When LLMs meet cybersecurity: a systematic literature review",
+  "venue": "Cybersecurity",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2025,
+  "authors": [
+   "Jie Zhang",
+   "Haoyu Bu",
+   "Hui Wen",
+   "Yongji Liu",
+   "Haiqiang Fei",
+   "Rongrong Xi",
+   "Lun Li",
+   "Yun Yang",
+   "Hongsong Zhu",
+   "Dan Meng"
+  ],
+  "cites": 266
+ },
+ {
+  "query": "Large Language Models for Cyber Security: A Systematic Literature Review",
+  "sim": 0.66,
+  "doi": "10.21203/rs.3.rs-5423193/v1",
+  "title": "Artificial Intelligence and Large Language Models in Advancing Cyber Threat Intelligence: A Systematic Literature Review",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2024,
+  "authors": [
+   "Hilalah Alturkistani",
+   "Suriayati Chuprat"
+  ],
+  "cites": 21
+ },
+ {
+  "query": "A Multi-Vocal Review of Security Orchestration",
+  "sim": 1.0,
+  "doi": "10.1145/3305268",
+  "title": "A Multi-Vocal Review of Security Orchestration",
+  "venue": "ACM Computing Surveys",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "year": 2019,
+  "authors": [
+   "Chadni Islam",
+   "Muhammad Ali Babar",
+   "Surya Nepal"
+  ],
+  "cites": 86
+ },
+ {
+  "query": "Intrusion response systems for cyber-physical systems: A comprehensive survey",
+  "sim": 1.0,
+  "doi": "10.1016/j.cose.2022.102984",
+  "title": "Intrusion response systems for cyber-physical systems: A comprehensive survey",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "May Bashendy",
+   "Ashraf Tantawy",
+   "Abdelkarim Erradi"
+  ],
+  "cites": 53
+ },
+ {
+  "query": "A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly",
+  "sim": 1.0,
+  "doi": "10.1016/j.hcc.2024.100211",
+  "title": "A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly",
+  "venue": "High-Confidence Computing",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Yifan Yao",
+   "Jinhao Duan",
+   "Kaidi Xu",
+   "Yuanfang Cai",
+   "Zhibo Sun",
+   "Yue Zhang"
+  ],
+  "cites": 1129
+ },
+ {
+  "query": "A comprehensive survey of AI-enabled phishing attacks detection",
+  "sim": 0.92,
+  "doi": "10.1007/s11235-020-00733-2",
+  "title": "A comprehensive survey of AI-enabled phishing attacks detection techniques",
+  "venue": "Telecommunication Systems",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2020,
+  "authors": [
+   "Abdul Basit",
+   "Maham Zafar",
+   "Xuan Liu",
+   "Abdul Rehman Javed",
+   "Zunera Jalil",
+   "Kashif Kifayat"
+  ],
+  "cites": 385
+ },
+ {
+  "query": "Reinforcement learning for intrusion response survey",
+  "sim": 0.73,
+  "doi": "10.1109/icaft66710.2025.11452995",
+  "title": "Deep Reinforcement Learning Framework for Autonomous Intrusion Response Systems",
+  "venue": "2025 1st International Conference on Advancement in Futuristic Technologies (ICAFT)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Bhumika Tiwari",
+   "Navneet Kaur"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Generative AI in cybersecurity: a comprehensive review of LLM applications and vulnerabilities",
+  "sim": 1.0,
+  "doi": "10.1016/j.iotcps.2025.01.001",
+  "title": "Generative AI in cybersecurity: A comprehensive review of LLM applications and vulnerabilities",
+  "venue": "Internet of Things and Cyber-Physical Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Mohamed Amine Ferrag",
+   "Fatima Alwahedi",
+   "Ammar Battah",
+   "Bilel Cherif",
+   "Abdechakour Mechri",
+   "Norbert Tihanyi",
+   "Tamas Bisztray",
+   "Merouane Debbah"
+  ],
+  "cites": 158
+ },
+ {
+  "query": "Large language models for cyber resilience: a comprehensive review",
+  "sim": 0.78,
+  "doi": "10.1016/j.asoc.2024.112663",
+  "title": "Large language models for cyber resilience: A comprehensive review, challenges, and future perspectives",
+  "venue": "Applied Soft Computing",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Weiping Ding",
+   "Mohamed Abdel-Basset",
+   "Ahmed M. Ali",
+   "Nour Moustafa"
+  ],
+  "cites": 43
+ },
+ {
+  "query": "Autonomous cyber defense survey reinforcement learning",
+  "sim": 0.64,
+  "doi": "10.20944/preprints202610.1834.v1",
+  "title": "Autonomous Penetration Testing and Cyber Defense with LLM Agents: A Self-Play Reinforcement Learning Arena",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Brosnan Yuen",
+   "Minh Tu Hoang"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "Security orchestration automation and response machine learning survey",
+  "sim": 0.79,
+  "doi": "10.37544/2191-0073-2023-11-12-41",
+  "title": "Security Orchestration, Automation and Response (SOAR)",
+  "venue": "Technische Sicherheit",
+  "type": "journal-article",
+  "publisher": "VDI Media GmbH",
+  "year": 2023,
+  "authors": [
+   "Ramon Weil"
+  ],
+  "cites": 1
+ },
+ {
+  "query": "A survey on the security of LLM-based agents",
+  "sim": 0.76,
+  "doi": "10.36227/techrxiv.176591818.87526814/v1",
+  "title": "A Survey on Benchmarks of LLM-based GUI Agents",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Yihong Chen",
+   "Shuai Wang",
+   "Yaqing Wang",
+   "Quanming Yao"
+  ],
+  "cites": 1
+ }
+]

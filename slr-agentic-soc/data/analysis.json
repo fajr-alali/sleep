@@ -1,0 +1,1727 @@
+{
+ "st": {
+  "N": 26,
+  "nQ": 15,
+  "nE": 9,
+  "nS": 11,
+  "year": {
+   "2022": 2,
+   "2023": 1,
+   "2024": 3,
+   "2025": 6,
+   "2026": 14
+  },
+  "arch": {
+   "DRL": 7,
+   "GT": 3,
+   "RAG": 1,
+   "LLM-MA": 3,
+   "HYB": 5,
+   "LLM-SA": 3,
+   "NS": 1,
+   "MARL": 2,
+   "PLAN": 1
+  },
+  "aut": {
+   "A4": 12,
+   "A2": 2,
+   "A3": 8,
+   "A1": 4
+  },
+  "task": {
+   "CON": 18,
+   "TRI": 2,
+   "REM": 4,
+   "INV": 9,
+   "PLN": 2,
+   "REP": 2
+  },
+  "ev": {
+   "EMU": 7,
+   "DS": 9,
+   "SIM": 10,
+   "HUM": 1
+  },
+  "tool": {
+   "SDN": 3,
+   "SIEM": 3,
+   "CTI": 2,
+   "KG": 6,
+   "LOG": 8
+  },
+  "safe": {
+   "CONSTR": 8,
+   "XAI": 4,
+   "ROB": 4,
+   "GRD": 6,
+   "VER": 3,
+   "HUM": 1,
+   "PRIV": 1,
+   "ABST": 1,
+   "SRL": 1
+  },
+  "no_safe": [
+   "P02",
+   "P03",
+   "P04",
+   "P06",
+   "P09",
+   "P13",
+   "P24"
+  ],
+  "qa": [
+   1.15,
+   1.77,
+   0.81,
+   0.92,
+   0.5
+  ],
+  "tot": 5.15,
+  "llm": [
+   "P08",
+   "P09",
+   "P10",
+   "P11",
+   "P12",
+   "P13",
+   "P14",
+   "P15",
+   "P20",
+   "P21",
+   "P23",
+   "P24",
+   "P26"
+  ],
+  "rl": [
+   "P01",
+   "P02",
+   "P03",
+   "P04",
+   "P05",
+   "P06",
+   "P07",
+   "P16",
+   "P17",
+   "P18",
+   "P19",
+   "P22",
+   "P25"
+  ],
+  "aut_by_ev": {
+   "A1": {
+    "DS": 4,
+    "HUM": 1
+   },
+   "A2": {
+    "DS": 2
+   },
+   "A3": {
+    "SIM": 3,
+    "DS": 3,
+    "EMU": 2
+   },
+   "A4": {
+    "EMU": 5,
+    "SIM": 7
+   }
+  },
+  "arch_by_aut": {
+   "A1": {
+    "RAG": 1,
+    "HYB": 1,
+    "LLM-SA": 1,
+    "LLM-MA": 1
+   },
+   "A2": {
+    "DRL": 1,
+    "PLAN": 1
+   },
+   "A3": {
+    "DRL": 2,
+    "LLM-MA": 2,
+    "HYB": 1,
+    "LLM-SA": 1,
+    "NS": 1,
+    "MARL": 1
+   },
+   "A4": {
+    "DRL": 4,
+    "GT": 3,
+    "LLM-SA": 1,
+    "HYB": 3,
+    "MARL": 1
+   }
+  },
+  "task_by_arch": {
+   "TRI": {
+    "DRL": 1,
+    "LLM-SA": 1
+   },
+   "INV": {
+    "RAG": 1,
+    "LLM-MA": 3,
+    "LLM-SA": 2,
+    "NS": 1,
+    "MARL": 1,
+    "PLAN": 1
+   },
+   "CON": {
+    "DRL": 6,
+    "GT": 3,
+    "HYB": 4,
+    "LLM-SA": 2,
+    "NS": 1,
+    "MARL": 2
+   },
+   "REM": {
+    "GT": 1,
+    "LLM-SA": 1,
+    "HYB": 2
+   },
+   "PLN": {
+    "RAG": 1,
+    "HYB": 1
+   },
+   "REP": {
+    "HYB": 1,
+    "LLM-MA": 1
+   }
+  },
+  "hum": [
+   "P08",
+   "P12"
+  ],
+  "prod": [],
+  "emu": [
+   "P01",
+   "P02",
+   "P03",
+   "P06",
+   "P07",
+   "P12",
+   "P15"
+  ],
+  "sim": [
+   "P05",
+   "P10",
+   "P11",
+   "P13",
+   "P14",
+   "P17",
+   "P18",
+   "P19",
+   "P25",
+   "P26"
+  ],
+  "a34_no_safe": [
+   "P02",
+   "P03",
+   "P06",
+   "P09",
+   "P13",
+   "P24"
+  ],
+  "sens_arch": {
+   "DRL": 17,
+   "GT": 3,
+   "RAG": 1,
+   "LLM-MA": 4,
+   "HYB": 5,
+   "LLM-SA": 3,
+   "NS": 1,
+   "MARL": 6,
+   "PLAN": 1
+  },
+  "sens_aut": {
+   "A4": 25,
+   "A2": 2,
+   "A3": 9,
+   "A1": 5
+  },
+  "sens_task": {
+   "CON": 31,
+   "TRI": 3,
+   "REM": 5,
+   "INV": 11,
+   "PLN": 2,
+   "REP": 2
+  },
+  "sens_ev": {
+   "EMU": 8,
+   "DS": 13,
+   "SIM": 20,
+   "HUM": 1
+  },
+  "sens_nosafe": 19,
+  "arch_ids": {
+   "DRL": [
+    "P01",
+    "P03",
+    "P04",
+    "P05",
+    "P18",
+    "P19",
+    "P25"
+   ],
+   "GT": [
+    "P02",
+    "P06",
+    "P07"
+   ],
+   "RAG": [
+    "P08"
+   ],
+   "LLM-MA": [
+    "P09",
+    "P23",
+    "P24"
+   ],
+   "HYB": [
+    "P10",
+    "P13",
+    "P14",
+    "P20",
+    "P26"
+   ],
+   "LLM-SA": [
+    "P11",
+    "P12",
+    "P21"
+   ],
+   "NS": [
+    "P15"
+   ],
+   "MARL": [
+    "P16",
+    "P17"
+   ],
+   "PLAN": [
+    "P22"
+   ]
+  },
+  "aut_ids": {
+   "A4": [
+    "P01",
+    "P02",
+    "P03",
+    "P06",
+    "P07",
+    "P11",
+    "P13",
+    "P14",
+    "P17",
+    "P18",
+    "P19",
+    "P26"
+   ],
+   "A2": [
+    "P04",
+    "P22"
+   ],
+   "A3": [
+    "P05",
+    "P09",
+    "P10",
+    "P12",
+    "P15",
+    "P16",
+    "P24",
+    "P25"
+   ],
+   "A1": [
+    "P08",
+    "P20",
+    "P21",
+    "P23"
+   ]
+  },
+  "task_ids": {
+   "CON": [
+    "P01",
+    "P02",
+    "P03",
+    "P05",
+    "P06",
+    "P07",
+    "P10",
+    "P11",
+    "P12",
+    "P13",
+    "P14",
+    "P15",
+    "P16",
+    "P17",
+    "P18",
+    "P19",
+    "P25",
+    "P26"
+   ],
+   "TRI": [
+    "P04",
+    "P21"
+   ],
+   "REM": [
+    "P07",
+    "P12",
+    "P14",
+    "P20"
+   ],
+   "INV": [
+    "P08",
+    "P09",
+    "P12",
+    "P15",
+    "P16",
+    "P21",
+    "P22",
+    "P23",
+    "P24"
+   ],
+   "PLN": [
+    "P08",
+    "P20"
+   ],
+   "REP": [
+    "P10",
+    "P23"
+   ]
+  },
+  "ev_ids": {
+   "EMU": [
+    "P01",
+    "P02",
+    "P03",
+    "P06",
+    "P07",
+    "P12",
+    "P15"
+   ],
+   "DS": [
+    "P04",
+    "P08",
+    "P09",
+    "P16",
+    "P20",
+    "P21",
+    "P22",
+    "P23",
+    "P24"
+   ],
+   "SIM": [
+    "P05",
+    "P10",
+    "P11",
+    "P13",
+    "P14",
+    "P17",
+    "P18",
+    "P19",
+    "P25",
+    "P26"
+   ],
+   "HUM": [
+    "P08"
+   ]
+  },
+  "tool_ids": {
+   "SDN": [
+    "P01",
+    "P03",
+    "P10"
+   ],
+   "SIEM": [
+    "P04",
+    "P08",
+    "P12"
+   ],
+   "CTI": [
+    "P08",
+    "P17"
+   ],
+   "KG": [
+    "P08",
+    "P10",
+    "P15",
+    "P20",
+    "P21",
+    "P26"
+   ],
+   "LOG": [
+    "P09",
+    "P15",
+    "P16",
+    "P20",
+    "P21",
+    "P22",
+    "P23",
+    "P24"
+   ]
+  },
+  "safe_ids": {
+   "CONSTR": [
+    "P01",
+    "P05",
+    "P10",
+    "P15",
+    "P16",
+    "P21",
+    "P22",
+    "P23"
+   ],
+   "XAI": [
+    "P05",
+    "P10",
+    "P11",
+    "P16"
+   ],
+   "ROB": [
+    "P07",
+    "P14",
+    "P17",
+    "P19"
+   ],
+   "GRD": [
+    "P08",
+    "P15",
+    "P20",
+    "P21",
+    "P23",
+    "P26"
+   ],
+   "VER": [
+    "P12",
+    "P15",
+    "P18"
+   ],
+   "HUM": [
+    "P12"
+   ],
+   "PRIV": [
+    "P17"
+   ],
+   "ABST": [
+    "P20"
+   ],
+   "SRL": [
+    "P25"
+   ]
+  }
+ },
+ "P": [
+  {
+   "idx": 21,
+   "doi": "10.1109/tnsm.2022.3158468",
+   "title": "DeepAir: Deep Reinforcement Learning for Adaptive Intrusion Response in Software-Defined Networks",
+   "year": 2022,
+   "venue": "IEEE Transactions on Network and Service Management",
+   "authors": "Trung V. Phan, Thomas Bauschert",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "EMU",
+   "tool": "SDN",
+   "safe": "CONSTR",
+   "qa": [
+    1,
+    2,
+    0,
+    1,
+    1
+   ],
+   "conf": "A",
+   "note": "minimises benign-traffic impact; ~85% attack packets dropped",
+   "tot": 5,
+   "sid": "P01"
+  },
+  {
+   "idx": 35,
+   "doi": "10.1109/tnsm.2022.3176781",
+   "title": "Intrusion Prevention Through Optimal Stopping",
+   "year": 2022,
+   "venue": "IEEE Transactions on Network and Service Management",
+   "authors": "Kim Hammar, Rolf Stadler",
+   "inc": true,
+   "arch": "GT",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "EMU",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    2,
+    2,
+    2,
+    0,
+    1
+   ],
+   "conf": "A",
+   "note": "optimal stopping; simulation + emulation system",
+   "tot": 7,
+   "sid": "P02"
+  },
+  {
+   "idx": 7,
+   "doi": "10.3390/app132111621",
+   "title": "Reinforcement Learning as a Path to Autonomous Intelligent Cyber-Defense Agents in Vehicle Platforms",
+   "year": 2023,
+   "venue": "Applied Sciences",
+   "authors": "Stephen Raio, Kevin Corder, Travis W. Parker et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "EMU",
+   "tool": "SDN",
+   "safe": "",
+   "qa": [
+    2,
+    2,
+    1,
+    0,
+    1
+   ],
+   "conf": "A",
+   "note": "CAN-bus agent on PASTA hardware testbed; 90% cyber resilience",
+   "tot": 6,
+   "sid": "P03"
+  },
+  {
+   "idx": 48,
+   "doi": "10.1016/j.cose.2023.103583",
+   "title": "Combating alert fatigue with AlertPro: Context-aware alert prioritization using reinforcement learning for multi-step attack detection",
+   "year": 2024,
+   "venue": "Computers & Security",
+   "authors": "Xiaoyu Wang, Xiaobo Yang, Xueping Liang et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A2",
+   "task": "TRI",
+   "ev": "DS",
+   "tool": "SIEM",
+   "safe": "",
+   "qa": [
+    1,
+    2,
+    1,
+    0,
+    1
+   ],
+   "conf": "B",
+   "note": "RL alert prioritisation; +30% attack discovery; <0.5 s",
+   "tot": 5,
+   "sid": "P04"
+  },
+  {
+   "idx": 20,
+   "doi": "10.1109/tii.2024.3388672",
+   "title": "Interpretable Cross-Layer Intrusion Response System Based on Deep Reinforcement Learning for Industrial Control Systems",
+   "year": 2024,
+   "venue": "IEEE Transactions on Industrial Informatics",
+   "authors": "Hao Chen, Yingxu Lai, Jing Liu et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A3",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "XAI CONSTR",
+   "qa": [
+    1,
+    1,
+    0,
+    2,
+    0
+   ],
+   "conf": "A",
+   "note": "DRL distilled into decision trees; physical-domain policies",
+   "tot": 4,
+   "sid": "P05"
+  },
+  {
+   "idx": 36,
+   "doi": "10.1109/tnsm.2023.3293413",
+   "title": "Learning Near-Optimal Intrusion Responses Against Dynamic Attackers",
+   "year": 2024,
+   "venue": "IEEE Transactions on Network and Service Management",
+   "authors": "Kim Hammar, Rolf Stadler",
+   "inc": true,
+   "arch": "GT",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "EMU",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    2,
+    2,
+    2,
+    0,
+    1
+   ],
+   "conf": "A",
+   "note": "fictitious self-play vs dynamic attacker",
+   "tot": 7,
+   "sid": "P06"
+  },
+  {
+   "idx": 37,
+   "doi": "10.1109/tifs.2025.3558600",
+   "title": "Adaptive Security Response Strategies Through Conjectural Online Learning",
+   "year": 2025,
+   "venue": "IEEE Transactions on Information Forensics and Security",
+   "authors": "Kim Hammar, Tao Li, Rolf Stadler et al.",
+   "inc": true,
+   "arch": "GT",
+   "aut": "A4",
+   "task": "CON REM",
+   "ev": "EMU",
+   "tool": "",
+   "safe": "ROB",
+   "qa": [
+    2,
+    2,
+    2,
+    1,
+    1
+   ],
+   "conf": "A",
+   "note": "conjectural online learning under model misspecification; testbed",
+   "tot": 8,
+   "sid": "P07"
+  },
+  {
+   "idx": 3,
+   "doi": "10.1109/globecom59602.2025.11432623",
+   "title": "Advancing Autonomous Incident Response: Leveraging LLMs and Cyber Threat Intelligence",
+   "year": 2025,
+   "venue": "GLOBECOM 2025 - 2025 IEEE Global Communications Conference",
+   "authors": "Amine Tellache, Abdelaziz Amara Korba, Amdjed Mokhtari et al.",
+   "inc": true,
+   "arch": "RAG",
+   "aut": "A1",
+   "task": "INV PLN",
+   "ev": "DS HUM",
+   "tool": "SIEM CTI KG",
+   "safe": "GRD",
+   "qa": [
+    0,
+    2,
+    0,
+    1,
+    1
+   ],
+   "conf": "A",
+   "note": "hybrid CTI retrieval + external CTI platform queries; expert cross-validation",
+   "tot": 4,
+   "sid": "P08"
+  },
+  {
+   "idx": 43,
+   "doi": "10.1109/acsac67867.2025.00051",
+   "title": "Clouseau: A Hierarchical Multi-Agent Approach for Autonomous Attack Investigation",
+   "year": 2025,
+   "venue": "2025 IEEE Annual Computer Security Applications Conference (ACSAC)",
+   "authors": "Abdullah Aldaihan, Fahad Alotaibi, Sergio Maffeis",
+   "inc": true,
+   "arch": "LLM-MA",
+   "aut": "A3",
+   "task": "INV",
+   "ev": "DS",
+   "tool": "LOG",
+   "safe": "",
+   "qa": [
+    2,
+    2,
+    1,
+    0,
+    1
+   ],
+   "conf": "A",
+   "note": "hierarchical agents; DARPA OpTC + ATLAS; F1 99.78% single-host",
+   "tot": 6,
+   "sid": "P09"
+  },
+  {
+   "idx": 13,
+   "doi": "10.1016/j.comnet.2025.111162",
+   "title": "Design and evaluation of an Autonomous Cyber Defence agent using DRL and an augmented LLM",
+   "year": 2025,
+   "venue": "Computer Networks",
+   "authors": "Johannes Loevenich, Erik Adler, Tobias H\u00fcrten et al.",
+   "inc": true,
+   "arch": "HYB",
+   "aut": "A3",
+   "task": "CON REP",
+   "ev": "SIM",
+   "tool": "SDN KG",
+   "safe": "CONSTR XAI",
+   "qa": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "conf": "B",
+   "note": "DRL actuation + LLM + rule-based; KG chatbot for human experts",
+   "tot": 4,
+   "sid": "P10"
+  },
+  {
+   "idx": 58,
+   "doi": "10.1109/mis.2025.3568209",
+   "title": "Leveraging Large Language Models for Autonomous Cyber Defense: Insights from CAGE-2 Simulations",
+   "year": 2025,
+   "venue": "IEEE Intelligent Systems",
+   "authors": "Hamoun Mohammadi, Jonathan J. Davis, Mitchell Kiely",
+   "inc": true,
+   "arch": "LLM-SA",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "XAI",
+   "qa": [
+    1,
+    1,
+    1,
+    1,
+    0
+   ],
+   "conf": "A",
+   "note": "LLM agent on CAGE-2; par with best RL agent",
+   "tot": 4,
+   "sid": "P11"
+  },
+  {
+   "idx": 22,
+   "doi": "10.3390/info16050365",
+   "title": "Toward Robust Security Orchestration and Automated Response in Security Operations Centers with a Hyper-Automation Approach Using Agentic Artificial Intelligence",
+   "year": 2025,
+   "venue": "Information",
+   "authors": "Ismail, Rahmat Kurnia, Zilmas Arjuna Brata et al.",
+   "inc": true,
+   "arch": "LLM-SA",
+   "aut": "A3",
+   "task": "INV CON REM",
+   "ev": "EMU",
+   "tool": "SIEM",
+   "safe": "VER HUM",
+   "qa": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "conf": "A",
+   "note": "agentic-LLM SOAR; IVAM investigation-validation-active monitoring",
+   "tot": 4,
+   "sid": "P12"
+  },
+  {
+   "idx": 55,
+   "doi": "10.1109/tnse.2026.3715407",
+   "title": "Cyber Task Automation With Knowledge-Infused Reinforcement Learning and LLM-Guided Policies",
+   "year": 2026,
+   "venue": "IEEE Transactions on Network Science and Engineering",
+   "authors": "Md. Shamim Towhid, Shahrear Iqbal, Euclides Carlos Pinto Neto et al.",
+   "inc": true,
+   "arch": "HYB",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    1,
+    2,
+    1,
+    0,
+    0
+   ],
+   "conf": "A",
+   "note": "LLM-guided RL; >75% faster convergence",
+   "tot": 4,
+   "sid": "P13"
+  },
+  {
+   "idx": 57,
+   "doi": "10.1109/tdsc.2026.3694417",
+   "title": "Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework",
+   "year": 2026,
+   "venue": "IEEE Transactions on Dependable and Secure Computing",
+   "authors": "Yixiao Peng, Hao Hu, Feiyang Li et al.",
+   "inc": true,
+   "arch": "HYB",
+   "aut": "A4",
+   "task": "CON REM",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "ROB",
+   "qa": [
+    1,
+    2,
+    0,
+    1,
+    0
+   ],
+   "conf": "A",
+   "note": "LLM-empowered MARL; +68.5% availability",
+   "tot": 4,
+   "sid": "P14"
+  },
+  {
+   "idx": 11,
+   "doi": "10.3390/app16188925",
+   "title": "EviGuard: Machine-Verifiable Evidence Grounding for LLM-Based Industrial Incident Reasoning",
+   "year": 2026,
+   "venue": "Applied Sciences",
+   "authors": "Haozhe Zhou, Hang Lei, Maolin Yang",
+   "inc": true,
+   "arch": "NS",
+   "aut": "A3",
+   "task": "INV CON",
+   "ev": "EMU",
+   "tool": "LOG KG",
+   "safe": "VER GRD CONSTR",
+   "qa": [
+    2,
+    2,
+    0,
+    2,
+    1
+   ],
+   "conf": "A",
+   "note": "LLM proposes hypotheses; deterministic verifiers; response gate",
+   "tot": 7,
+   "sid": "P15"
+  },
+  {
+   "idx": 16,
+   "doi": "10.1016/j.eswa.2026.132741",
+   "title": "Explainable autonomous cyber defense using adversarial multi-agent reinforcement learning",
+   "year": 2026,
+   "venue": "Expert Systems with Applications",
+   "authors": "Yiyao Zhang, Diksha Goel, Hussain Ahmad",
+   "inc": true,
+   "arch": "MARL",
+   "aut": "A3",
+   "task": "INV CON",
+   "ev": "DS",
+   "tool": "LOG",
+   "safe": "CONSTR XAI",
+   "qa": [
+    1,
+    2,
+    1,
+    2,
+    0
+   ],
+   "conf": "A",
+   "note": "causal DAG restricts admissible responses",
+   "tot": 6,
+   "sid": "P16"
+  },
+  {
+   "idx": 9,
+   "doi": "10.3390/app16168278",
+   "title": "FedMARL-LTI: Federated Multi-Agent Reinforcement Learning with LLM-Compatible Threat Intelligence for Cooperative Cyber Defense",
+   "year": 2026,
+   "venue": "Applied Sciences",
+   "authors": "Fatih \u015eahin",
+   "inc": true,
+   "arch": "MARL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "CTI",
+   "safe": "PRIV ROB",
+   "qa": [
+    1,
+    2,
+    0,
+    2,
+    0
+   ],
+   "conf": "A",
+   "note": "LLM-summarised DP semantic embeddings; Byzantine robustness",
+   "tot": 5,
+   "sid": "P17"
+  },
+  {
+   "idx": 19,
+   "doi": "10.1109/tdsc.2026.3738256",
+   "title": "Formal Modeling and Verification of Deep Reinforcement Learning Agents for Secure and Available Autonomous Cyber Defense",
+   "year": 2026,
+   "venue": "IEEE Transactions on Dependable and Secure Computing",
+   "authors": "Laurin Holz, Johannes Loevenich, Roberto Rigolin F. Lopes et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "VER",
+   "qa": [
+    1,
+    2,
+    1,
+    2,
+    0
+   ],
+   "conf": "B",
+   "note": "probabilistic model checking of DRL ACD policies",
+   "tot": 6,
+   "sid": "P18"
+  },
+  {
+   "idx": 44,
+   "doi": "10.1109/dsn69566.2026.00079",
+   "title": "Generalizable Graph-based Reinforcement Learning Agents for Automated Cyber Defense",
+   "year": 2026,
+   "venue": "2026 56th Annual IEEE International Conference on Dependable Systems and Networks (DSN)",
+   "authors": "Isaiah J. King, Benjamin Bowman, H. Howie Huang",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "ROB",
+   "qa": [
+    1,
+    2,
+    1,
+    0,
+    0
+   ],
+   "conf": "A",
+   "note": "graph observations; zero-shot transfer to new networks",
+   "tot": 4,
+   "sid": "P19"
+  },
+  {
+   "idx": 4,
+   "doi": "10.14722/ndss.2026.240358",
+   "title": "Incident Response Planning Using a Lightweight Large Language Model with Reduced Hallucination",
+   "year": 2026,
+   "venue": "Proceedings 2026 Network and Distributed System Security Symposium",
+   "authors": "Kim Hammar, Tansu Alpcan, Emil Lupu et al.",
+   "inc": true,
+   "arch": "HYB",
+   "aut": "A1",
+   "task": "PLN REM",
+   "ev": "DS",
+   "tool": "LOG KG",
+   "safe": "ABST GRD",
+   "qa": [
+    1,
+    2,
+    2,
+    2,
+    1
+   ],
+   "conf": "B",
+   "note": "fine-tuned lightweight LLM + retrieval + lookahead planning; up to 22% shorter recovery",
+   "tot": 8,
+   "sid": "P20"
+  },
+  {
+   "idx": 10,
+   "doi": "10.3390/app16147054",
+   "title": "Insider Threat Detection and Evidence-Grounded Triage Using a Heterogeneous Dual-Branch Network and a Constrained LLM Agent",
+   "year": 2026,
+   "venue": "Applied Sciences",
+   "authors": "Kai Cheng, Dongkun Li, Weidong Tang et al.",
+   "inc": true,
+   "arch": "LLM-SA",
+   "aut": "A1",
+   "task": "TRI INV",
+   "ev": "DS",
+   "tool": "LOG KG",
+   "safe": "GRD CONSTR",
+   "qa": [
+    0,
+    2,
+    1,
+    1,
+    0
+   ],
+   "conf": "A",
+   "note": "constrained ReAct-style agent; CERT r4.2",
+   "tot": 4,
+   "sid": "P21"
+  },
+  {
+   "idx": 26,
+   "doi": "10.1038/s41598-026-57787-6",
+   "title": "Leveraging reinforcement learning for an efficient windows registry analysis during cyber incident response",
+   "year": 2026,
+   "venue": "Scientific Reports",
+   "authors": "Mohamed Chahine Ghanem, Dominik Wojtczak, Elhadj Benkhelifa et al.",
+   "inc": true,
+   "arch": "PLAN",
+   "aut": "A2",
+   "task": "INV",
+   "ev": "DS",
+   "tool": "LOG",
+   "safe": "CONSTR",
+   "qa": [
+    1,
+    1,
+    0,
+    1,
+    1
+   ],
+   "conf": "A",
+   "note": "DP planner with bounded RL refinement for forensic registry analysis",
+   "tot": 4,
+   "sid": "P22"
+  },
+  {
+   "idx": 15,
+   "doi": "10.3390/electronics15132949",
+   "title": "Local LLM-Based Cyber Incident Analysis in Air-Gapped Networks via Teacher\u2013Student Knowledge Distillation and Agentic Orchestration",
+   "year": 2026,
+   "venue": "Electronics",
+   "authors": "Sunghun Jang, MyoungRak Lee, Taeshik Shon",
+   "inc": true,
+   "arch": "LLM-MA",
+   "aut": "A1",
+   "task": "INV REP",
+   "ev": "DS",
+   "tool": "LOG",
+   "safe": "GRD CONSTR",
+   "qa": [
+    0,
+    1,
+    1,
+    1,
+    1
+   ],
+   "conf": "A",
+   "note": "air-gapped local LLM; agent orchestration suppresses hallucination; Atomic Red Team",
+   "tot": 4,
+   "sid": "P23"
+  },
+  {
+   "idx": 60,
+   "doi": "10.1007/978-3-032-38692-2_19",
+   "title": "Minos: A Multi-agent Collaborative Framework for Provenance-Based Backward Tracking",
+   "year": 2026,
+   "venue": "ESORICS 2026 (LNCS)",
+   "authors": "Jiahui Wang, Zhenyuan Li, Zhengkai Wang et al.",
+   "inc": true,
+   "arch": "LLM-MA",
+   "aut": "A3",
+   "task": "INV",
+   "ev": "DS",
+   "tool": "LOG",
+   "safe": "",
+   "qa": [
+    2,
+    2,
+    1,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "provenance backward tracking; 14 scenarios, 5 public datasets",
+   "tot": 5,
+   "sid": "P24"
+  },
+  {
+   "idx": 18,
+   "doi": "10.1109/tce.2026.3674866",
+   "title": "Safety-Aware Intrusion Response System Based on Safe Reinforcement Learning for Cyber-Physical Systems",
+   "year": 2026,
+   "venue": "IEEE Transactions on Consumer Electronics",
+   "authors": "Lin Chen, Yingxu Lai, Peng Zhao et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A3",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "SRL",
+   "qa": [
+    1,
+    2,
+    0,
+    2,
+    0
+   ],
+   "conf": "A",
+   "note": "CMDP safety cost; safety cost 5.07 -> 0",
+   "tot": 5,
+   "sid": "P25"
+  },
+  {
+   "idx": 56,
+   "doi": "10.1016/j.comnet.2026.112349",
+   "title": "Towards generic defensive cyber agents: Leveraging large language models and RAG-based few-shot learning",
+   "year": 2026,
+   "venue": "Computer Networks",
+   "authors": "Muhammad Omer Farooq",
+   "inc": true,
+   "arch": "HYB",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "KG",
+   "safe": "GRD",
+   "qa": [
+    1,
+    2,
+    1,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "RAG over RL observation-action tuples; few-shot",
+   "tot": 4,
+   "sid": "P26"
+  }
+ ],
+ "Q": [
+  {
+   "idx": 8,
+   "doi": "10.3390/app15020951",
+   "title": "ARCS: Adaptive Reinforcement Learning Framework for Automated Cybersecurity Incident Response Strategy Optimization",
+   "year": 2025,
+   "venue": "Applied Sciences",
+   "authors": "Shaochen Ren, Jianian Jin, Guanchong Niu et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON REM",
+   "ev": "DS",
+   "tool": "SIEM",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "A",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 12,
+   "doi": "10.1016/j.comcom.2025.108265",
+   "title": "Autonomous cyber defense for AIoT using Graph Attention Network-Enhanced reinforcement learning",
+   "year": 2025,
+   "venue": "Computer Communications",
+   "authors": "Yihang Shi, Huajun Zhang, Lin Shi et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 14,
+   "doi": "10.1016/j.cose.2024.103871",
+   "title": "A method of network attack-defense game and collaborative defense decision-making based on hierarchical multi-agent reinforcement learning",
+   "year": 2024,
+   "venue": "Computers & Security",
+   "authors": "Yunlong Tang, Jing Sun, Huan Wang et al.",
+   "inc": true,
+   "arch": "MARL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 17,
+   "doi": "10.1109/access.2024.3418931",
+   "title": "Scalable and Autonomous Network Defense Using Reinforcement Learning",
+   "year": 2024,
+   "venue": "IEEE Access",
+   "authors": "Robert G. Campbell, Magdalini Eirinaki, Younghee Park",
+   "inc": true,
+   "arch": "MARL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "A",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 24,
+   "doi": "10.1038/s41598-026-76851-9",
+   "title": "A reinforcement learning-driven autonomous threat hunting agent with hypothesis-guided graph traversal for APT campaign discovery",
+   "year": 2026,
+   "venue": "Scientific Reports",
+   "authors": "Abdullah Abdulkarim Alnajim",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "INV",
+   "ev": "SIM",
+   "tool": "LOG",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 25,
+   "doi": "10.1038/s41598-026-45937-9",
+   "title": "Artificial intelligence driven multi agent framework for adaptive cyber attack simulation and automated incident response in cyber range environments",
+   "year": 2026,
+   "venue": "Scientific Reports",
+   "authors": "Alka Agrawal, Mohd Nadeem, Ahmed Al Nuaim et al.",
+   "inc": true,
+   "arch": "MARL",
+   "aut": "A4",
+   "task": "TRI CON",
+   "ev": "SIM",
+   "tool": "SIEM",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    1,
+    0,
+    0
+   ],
+   "conf": "A",
+   "note": "",
+   "tot": 3
+  },
+  {
+   "idx": 27,
+   "doi": "10.1038/s41598-026-64427-6",
+   "title": "Explainability-driven adaptive cyber deception control system for autonomous network defense",
+   "year": 2026,
+   "venue": "Scientific Reports",
+   "authors": "Shreyashi Deb Roy, Ganesh Khekare, Sejal Chhajed",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "XAI",
+   "qa": [
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "conf": "A",
+   "note": "adaptive deception control",
+   "tot": 3
+  },
+  {
+   "idx": 28,
+   "doi": "10.3390/s26185775",
+   "title": "A Federated Multi-Agent Communication Framework for Autonomous Cyber Defense in Edge\u2013Cloud IoT Environments",
+   "year": 2026,
+   "venue": "Sensors",
+   "authors": "Hakan Aydin",
+   "inc": true,
+   "arch": "LLM-MA",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "DS",
+   "tool": "",
+   "safe": "PRIV",
+   "qa": [
+    0,
+    1,
+    1,
+    1,
+    0
+   ],
+   "conf": "A",
+   "note": "conceptual; only detector implemented",
+   "tot": 3
+  },
+  {
+   "idx": 45,
+   "doi": "10.1016/j.array.2026.101081",
+   "title": "An adaptive firewall framework using deep reinforcement learning for threat-aware cyber threat detection and mitigation policy learning",
+   "year": 2026,
+   "venue": "Array",
+   "authors": "Mohammad Zahangir Alam, Sharmin Sultana",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "DS",
+   "tool": "FW",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 46,
+   "doi": "10.1016/j.comnet.2025.111604",
+   "title": "Deep Q-ICAN: A deep reinforcement learning-based approach for real-time CPA attack detection and mitigation in NDN architecture",
+   "year": 2025,
+   "venue": "Computer Networks",
+   "authors": "Abdelhak Hidouri, Haifa Touati, Mohamed Hadded et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 49,
+   "doi": "10.1016/j.cose.2024.104180",
+   "title": "GRAIN: Graph neural network and reinforcement learning aided causality discovery for multi-step attack scenario reconstruction",
+   "year": 2025,
+   "venue": "Computers & Security",
+   "authors": "Fengrui Xiao, Shuangwu Chen, Jian Yang et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A1",
+   "task": "INV",
+   "ev": "DS",
+   "tool": "LOG",
+   "safe": "",
+   "qa": [
+    0,
+    2,
+    1,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 3
+  },
+  {
+   "idx": 52,
+   "doi": "10.1109/jiot.2024.3423022",
+   "title": "Deep-Reinforcement-Learning-Based Self-Evolving Moving Target Defense Approach Against Unknown Attacks",
+   "year": 2024,
+   "venue": "IEEE Internet of Things Journal",
+   "authors": "Yuan Cao, Kun Liu, Yeming Lin et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "A",
+   "note": "",
+   "tot": 2
+  },
+  {
+   "idx": 53,
+   "doi": "10.1016/j.jnca.2022.103444",
+   "title": "A flexible SDN-based framework for slow-rate DDoS attack mitigation by using deep reinforcement learning",
+   "year": 2022,
+   "venue": "Journal of Network and Computer Applications",
+   "authors": "Noe M. Yungaicela-Naula, Cesar Vargas-Rosales, Jes\u00fas Arturo P\u00e9rez-D\u00edaz et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "EMU",
+   "tool": "SDN",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    1
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 3
+  },
+  {
+   "idx": 54,
+   "doi": "10.1038/s41598-026-75705-8",
+   "title": "Digital twin\u2013guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids",
+   "year": 2026,
+   "venue": "Scientific Reports",
+   "authors": "Nalini Manogaran, Yasotha Berkmans, Malarvizhi Nandagopal et al.",
+   "inc": true,
+   "arch": "DRL",
+   "aut": "A3",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "DT",
+   "safe": "VER",
+   "qa": [
+    1,
+    1,
+    0,
+    1,
+    0
+   ],
+   "conf": "B",
+   "note": "digital-twin-guided mitigation",
+   "tot": 3
+  },
+  {
+   "idx": 59,
+   "doi": "10.1007/s40747-026-02449-3",
+   "title": "AD-CTIDRL: a multi-agent method for threat intelligence-enhanced automated cyber defense",
+   "year": 2026,
+   "venue": "Complex & Intelligent Systems",
+   "authors": "Yujie Fu, Guowei Shen, Chun Guo et al.",
+   "inc": true,
+   "arch": "MARL",
+   "aut": "A4",
+   "task": "CON",
+   "ev": "SIM",
+   "tool": "CTI",
+   "safe": "",
+   "qa": [
+    1,
+    1,
+    0,
+    0,
+    0
+   ],
+   "conf": "B",
+   "note": "",
+   "tot": 2
+  }
+ ],
+ "E": [
+  {
+   "idx": 0,
+   "doi": "10.1109/acsacw69556.2025.00054",
+   "title": "AgentNIRS: An LLM-Driven Agent for Network Intrusion Response",
+   "year": 2025,
+   "venue": "2025 Annual Computer Security Applications Conference Workshops (ACSAC Workshops)",
+   "authors": "Rachida Saroui, Thomas Marchioro, Alexis Olivereau",
+   "reason": "EC1: ACSAC *workshop* paper (main-track only)"
+  },
+  {
+   "idx": 1,
+   "doi": "10.1109/acsacw69556.2025.00047",
+   "title": "IntelForge: Multi-Agent LLM Framework for Cyber Threat Intelligence Enrichment",
+   "year": 2025,
+   "venue": "2025 Annual Computer Security Applications Conference Workshops (ACSAC Workshops)",
+   "authors": "Noam Tarshish, Daniel Hodisan, Asaf Shabtai",
+   "reason": "EC1: ACSAC *workshop* paper; CTI enrichment"
+  },
+  {
+   "idx": 2,
+   "doi": "10.1109/sp63933.2026.00111",
+   "title": "LLMs in the SOC: An Empirical Study of Human-AI Collaboration in Security Operations Centres",
+   "year": 2026,
+   "venue": "2026 IEEE Symposium on Security and Privacy (SP)",
+   "authors": "Ronal Singh, Shahroz Tariq, Fatemeh Jalalvand et al.",
+   "reason": "EC4: empirical study of LLM *assistant* use by SOC analysts, no agentic system (used as context)"
+  },
+  {
+   "idx": 5,
+   "doi": "10.1145/3832783.3834521",
+   "title": "LLM-Assisted Joint Ticket and Log Analysis for Incident Triage in Intelligent and Connected Vehicles",
+   "year": 2026,
+   "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering",
+   "authors": "Ruowei Fu, Shenglin Zhang, Wenwei Gu et al.",
+   "reason": "EC3: vehicle software incident triage (operational, not security)"
+  },
+  {
+   "idx": 6,
+   "doi": "10.1145/3832783.3834335",
+   "title": "GALA: Graph-Augmented LLM Agents for Root Cause Analysis and Incident Response in Microservices",
+   "year": 2026,
+   "venue": "Proceedings of the 41st IEEE/ACM International Conference on Automated Software Engineering",
+   "authors": "Yifang Tian, Yaming Liu, Zichun Chong et al.",
+   "reason": "EC3: microservice reliability RCA (operational, not security)"
+  },
+  {
+   "idx": 23,
+   "doi": "10.3390/jcp5030055",
+   "title": "Leveraging Large Language Models for Scalable and Explainable Cybersecurity Log Analysis",
+   "year": 2025,
+   "venue": "Journal of Cybersecurity and Privacy",
+   "authors": "Giulia Palma, Gaia Cecchi, Mario Caronna et al.",
+   "reason": "EC4/EC3: LLM log classification (no agent); evaluated on a vulnerability-detection task"
+  },
+  {
+   "idx": 47,
+   "doi": "10.1016/j.comnet.2026.112541",
+   "title": "MORPH-IDS: A context-driven Multi-Agent Reinforcement Learning framework for drift-aware moving target defense in adversarial-robust intrusion detection",
+   "year": 2026,
+   "venue": "Computer Networks",
+   "authors": "Truong Duc Hao, Hong Huy Hoang, Le Hong Hien et al.",
+   "reason": "EC4: MARL moving-target defence of the IDS itself (detection robustness, not incident response)"
+  },
+  {
+   "idx": 50,
+   "doi": "10.1016/j.fsidi.2026.302187",
+   "title": "Evidence-borne prompt injection in LLM-assisted textual evidence triage",
+   "year": 2026,
+   "venue": "Forensic Science International: Digital Investigation",
+   "authors": "Dongho Kim, Damin Kim, Moohong Min",
+   "reason": "EC4/EC3: attack on LLM-assisted forensic text triage (assistant, not SOC IR agent) - cited as context"
+  },
+  {
+   "idx": 51,
+   "doi": "10.1109/access.2026.3650833",
+   "title": "Agentic Intelligence for Unified Cyber Defense: A Self-Adaptive Framework for Threat Detection Across Cloud, Edge, and IoT Systems",
+   "year": 2026,
+   "venue": "IEEE Access",
+   "authors": "B. Vijetha",
+   "reason": "EC4: agentic controller only re-trains a detector (detection, no response)"
+  }
+ ],
+ "S": [
+  {
+   "doi": "10.1145/3305268",
+   "title": "A Multi-Vocal Review of Security Orchestration",
+   "year": 2019,
+   "venue": "ACM Computing Surveys",
+   "authors": "Chadni Islam, Muhammad Ali Babar, Surya Nepal"
+  },
+  {
+   "doi": "10.1016/j.cose.2022.102984",
+   "title": "Intrusion response systems for cyber-physical systems: A comprehensive survey",
+   "year": 2023,
+   "venue": "Computers & Security",
+   "authors": "May Bashendy, Ashraf Tantawy, Abdelkarim Erradi"
+  },
+  {
+   "doi": "10.1109/access.2024.3505983",
+   "title": "Application of Large Language Models in Cybersecurity: A Systematic Literature Review",
+   "year": 2024,
+   "venue": "IEEE Access",
+   "authors": "Ismayil Hasanov, Seppo Virtanen, Antti Hakkala et al."
+  },
+  {
+   "doi": "10.1016/j.iotcps.2025.01.001",
+   "title": "Generative AI in cybersecurity: A comprehensive review of LLM applications and vulnerabilities",
+   "year": 2025,
+   "venue": "Internet of Things and Cyber-Physical Systems",
+   "authors": "Mohamed Amine Ferrag, Fatima Alwahedi, Ammar Battah et al."
+  },
+  {
+   "doi": "10.1016/j.asoc.2024.112663",
+   "title": "Large language models for cyber resilience: A comprehensive review, challenges, and future perspectives",
+   "year": 2025,
+   "venue": "Applied Soft Computing",
+   "authors": "Weiping Ding, Mohamed Abdel-Basset, Ahmed M. Ali et al."
+  },
+  {
+   "doi": "10.1186/s42400-025-00361-w",
+   "title": "When LLMs meet cybersecurity: a systematic literature review",
+   "year": 2025,
+   "venue": "Cybersecurity",
+   "authors": "Jie Zhang, Haoyu Bu, Hui Wen et al."
+  },
+  {
+   "doi": "10.1016/j.icte.2026.09.017",
+   "title": "A survey of Large Language Models in Cyber Threat Intelligence: Toward a regulation-aware architecture for secure ICT systems",
+   "year": 2026,
+   "venue": "ICT Express",
+   "authors": "Andreas Ekelhart, Sebastian Schrittwieser, Gerald Sendera et al."
+  },
+  {
+   "doi": "10.3390/electronics15122740",
+   "title": "Agentic AI and Large Language Models for Autonomous IoT Cybersecurity: A Systematic Survey, Taxonomy, and Research Roadmap",
+   "year": 2026,
+   "venue": "Electronics",
+   "authors": "Vinoth Nageshwaran, Soundararajan Ezekiel"
+  },
+  {
+   "doi": "10.1016/j.array.2026.101367",
+   "title": "From alert fatigue to autonomous defense: A systematic literature review of AI-driven SIEM\u2013SOAR integration in security operations centers",
+   "year": 2026,
+   "venue": "Array",
+   "authors": "Issa Ahmad El-Attar, Ali Attar, Mohammed El-Hajj"
+  },
+  {
+   "doi": "10.3390/jcp6050159",
+   "title": "LLM-Based Agents for Cybersecurity: A Systematic Review of Architectures, Applications, and Open Challenges",
+   "year": 2026,
+   "venue": "Journal of Cybersecurity and Privacy",
+   "authors": "George Fatouros, Konstantinos Mavrogiorgos, Georgios Makridis et al."
+  },
+  {
+   "doi": "10.1016/j.knosys.2026.117001",
+   "title": "Vulnerabilities in autonomous execution: A survey of security threats and defenses in LLM-driven agentic and multi-agent systems",
+   "year": 2026,
+   "venue": "Knowledge-Based Systems",
+   "authors": "Vincenzo Sammartino"
+  }
+ ]
+}

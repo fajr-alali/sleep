@@ -1,0 +1,6 @@
+DeepStage: Learning Autonomous Defense Policies Against Multi-Stage APT Campaigns
+DeepXplain: XAI-Guided Autonomous Defense Against Multi-Stage APT Campaigns
+HunterAgent: Neuro-Symbolic Attack Trace Reconstruction under Anti-Forensics
+ProvAgent: Threat Detection Based on Identity-Behavior Binding and Multi-Agent Collaborative Attack Investigation
+AUTOMA: Automated Generation of Attack Hypotheses and Their Variants for Threat Hunting Using Knowledge Discovery
+Minos: A Multi-Agent Collaborative Framework for Provenance-Based Backward Tracking

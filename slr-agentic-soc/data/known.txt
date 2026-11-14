@@ -1,0 +1,16 @@
+Intrusion Prevention Through Optimal Stopping
+Learning Near-Optimal Intrusion Responses Against Dynamic Attackers
+Automated Security Response Through Online Learning With Adaptive Conjectures
+Deep Reinforcement Learning for Cyber Security
+When LLMs meet cybersecurity: a systematic literature review
+Large Language Models for Cyber Security: A Systematic Literature Review
+A Multi-Vocal Review of Security Orchestration
+Intrusion response systems for cyber-physical systems: A comprehensive survey
+A survey on large language model (LLM) security and privacy: The Good, The Bad, and The Ugly
+A comprehensive survey of AI-enabled phishing attacks detection
+Reinforcement learning for intrusion response survey
+Generative AI in cybersecurity: a comprehensive review of LLM applications and vulnerabilities
+Large language models for cyber resilience: a comprehensive review
+Autonomous cyber defense survey reinforcement learning
+Security orchestration automation and response machine learning survey
+A survey on the security of LLM-based agents

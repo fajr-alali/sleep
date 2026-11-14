@@ -1,0 +1,21 @@
+Cyber Task Automation With Knowledge-Infused Reinforcement Learning and LLM-Guided Policies
+Towards generic defensive cyber agents: Leveraging large language models and RAG-based few-shot learning
+Enhancing Cloud Network Resilience via a Robust LLM-Empowered Multi-Agent Reinforcement Learning Framework
+Leveraging Large Language Models for Autonomous Cyber Defense: Insights from CAGE-2 Simulations
+AD-CTIDRL: a multi-agent method for threat intelligence-enhanced automated cyber defense
+Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning
+In-Context Autonomous Network Incident Response: An End-to-End Large Language Model Agent Approach
+Hallucination-Resistant Security Planning with a Large Language Model
+Design of an Autonomous Cyber Defence Agent using Hybrid AI models
+Explaining Hybrid RL Agents for Cyber Defense using SHAP and Reward Decomposition
+SecOps-Agent: Policy-Grounded LLM-Assisted Security Incident Response for Production Environments
+Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations
+Autonomous Multi-agent Cyber Defense: A Novel Approach Using Reinforcement Learning with Hierarchical LLM Critics
+Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense
+Towards Hierarchical Cyber Defense with Large Language Models: From Planning to Execution
+Large Language Model Integration with Reinforcement Learning to Augment Decision-Making in Autonomous Cyber Operations
+Can LLM Agents Replace Reinforcement Learning Agents in Cyber Defence Automation: A Case Study Using the DARPA CAGE-2 Challenge
+Large Language Models are Autonomous Cyber Defenders
+A Decision-Support System for Incident Response Using a Lightweight Large Language Model
+Automated Incident Response Playbooks Using Policy-Driven LLM Agents in SOC Operations
+Enhancing Security Operation Center: Wazuh Security Event Response with Retrieval-Augmented-Generation-Driven Copilot

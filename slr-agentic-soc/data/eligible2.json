@@ -1,0 +1,934 @@
+[
+ {
+  "doi": "10.1109/icsecs65227.2025.11279087",
+  "title": "Network Anomaly Detection for Intrusion Detection Systems Using Q-Learning and Deep Q-Learning: A Reinforcement Learning Approach",
+  "venue": "2025 IEEE 9th International Conference on Software Engineering & Computer Systems (ICSECS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Adhitama Wichaksono",
+   "Parman Sukarno",
+   "Aulia Arif Wardana"
+  ],
+  "cites": 1,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/acsac67867.2025.00051",
+  "title": "Clouseau: A Hierarchical Multi-Agent Approach for Autonomous Attack Investigation",
+  "venue": "2025 IEEE Annual Computer Security Applications Conference (ACSAC)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Abdullah Aldaihan",
+   "Fahad Alotaibi",
+   "Sergio Maffeis"
+  ],
+  "cites": 4,
+  "queries": [
+   "LLM agent security alert investigation"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/spw67851.2025.00053",
+  "title": "In-Progress: Reinforcement Learning for Cyberattack Defense in Autonomous Intersection Management Systems",
+  "venue": "2025 IEEE Security and Privacy Workshops (SPW)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2025,
+  "authors": [
+   "Wesley Duclos",
+   "Yujing Zhou",
+   "Jian Wang",
+   "Yongxin Liu",
+   "Huihui Wang"
+  ],
+  "cites": 0,
+  "queries": [
+   "moving target defense reinforcement learning autonomous"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/dsn69566.2026.00079",
+  "title": "Generalizable Graph-based Reinforcement Learning Agents for Automated Cyber Defense",
+  "venue": "2026 56th Annual IEEE International Conference on Dependable Systems and Networks (DSN)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Isaiah J. King",
+   "Benjamin Bowman",
+   "H. Howie Huang"
+  ],
+  "cites": 0,
+  "queries": [
+   "cyber defense agent CybORG reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/eurosp68448.2026.00067",
+  "title": "Automated Stealthy Wear-Out Attack on Digital Twins With Deep Reinforcement Learning",
+  "venue": "2026 IEEE 11th European Symposium on Security and Privacy (EuroS&P)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2026,
+  "authors": [
+   "Joshua Haworth",
+   "Aryan Pasikhani",
+   "George Pavlides",
+   "Prosanta Gope",
+   "John Clark"
+  ],
+  "cites": 0,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1109/infocomwkshps54753.2022.9798344",
+  "title": "A Deep Reinforcement Learning based Intrusion Detection Strategy for Smart Vehicular Networks",
+  "venue": "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2022,
+  "authors": [
+   "Zhihao Wang",
+   "Dingde Jiang",
+   "Zhihan Lv",
+   "Houbing Song"
+  ],
+  "cites": 19,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.14722/ndss.2021.24188",
+  "title": "SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning",
+  "venue": "Proceedings 2021 Network and Distributed System Security Symposium",
+  "type": "proceedings-article",
+  "publisher": "Internet Society",
+  "year": 2021,
+  "authors": [
+   "Charlie Hou",
+   "Mingxun Zhou",
+   "Yan Ji",
+   "Phil Daian",
+   "Florian Tram\u00e8r",
+   "Giulia Fanti",
+   "Ari Juels"
+  ],
+  "cites": 34,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.14722/sdiotsec.2026.23097",
+  "title": "DQN-IDS: A Deep Reinforcement Learning Approach for Open Set-Enabled Intrusion Detection",
+  "venue": "Proceedings 2026 Workshop on Security and Privacy in Standardized IoT",
+  "type": "proceedings-article",
+  "publisher": "Internet Society",
+  "year": 2026,
+  "authors": [
+   "Shreyash Tiwari",
+   "Nathaniel D. Bastian",
+   "Gokhan Kul"
+  ],
+  "cites": 1,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3576915.3624390",
+  "title": "Poster: Query-efficient Black-box Attack for Image Forgery Localization via Reinforcement Learning",
+  "venue": "Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "year": 2023,
+  "authors": [
+   "Xianbo Mo",
+   "Shunquan Tan",
+   "Bin Li",
+   "Jiwu Huang"
+  ],
+  "cites": 2,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1145/3564625.3567969",
+  "title": "DRAGON: Deep Reinforcement Learning for Autonomous Grid Operation and Attack Detection",
+  "venue": "Proceedings of the 38th Annual Computer Security Applications Conference",
+  "type": "proceedings-article",
+  "publisher": "ACM",
+  "year": 2022,
+  "authors": [
+   "Matthew Landen",
+   "Keywhan Chung",
+   "Moses Ike",
+   "Sarah Mackay",
+   "Jean-Paul Watson",
+   "Wenke Lee"
+  ],
+  "cites": 11,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "conference"
+ },
+ {
+  "doi": "10.1007/s10489-026-07428-2",
+  "title": "Iterative Demand Response Algorithm for Human-Computer Cooperation Integrating Knowledge of Large Language Model",
+  "venue": "Applied Intelligence",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Jun Yin"
+  ],
+  "cites": 0,
+  "queries": [
+   "large language model incident response automation"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/app16021048",
+  "title": "Deep Reinforcement Learning Algorithms for Intrusion Detection: A Bibliometric Analysis and Systematic Review",
+  "venue": "Applied Sciences",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Lekhetho Joseph Mpoporo",
+   "Pius Adewale Owolawi",
+   "Chunling Tu"
+  ],
+  "cites": 4,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.array.2026.100896",
+  "title": "ULTIMATE: A Multi-Agent Deep Reinforcement Learning Framework for false-positive optimized enterprise intrusion detection",
+  "venue": "Array",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Samia Saidane",
+   "Francesco Telch",
+   "Kussai Shahin",
+   "Panagiotis Gkonis",
+   "Fabrizio Granelli"
+  ],
+  "cites": 1,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.array.2026.101081",
+  "title": "An adaptive firewall framework using deep reinforcement learning for threat-aware cyber threat detection and mitigation policy learning",
+  "venue": "Array",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Mohammad Zahangir Alam",
+   "Sharmin Sultana"
+  ],
+  "cites": 0,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning",
+   "autonomous response advanced persistent threat reinforcement learning",
+   "reinforcement learning cyber attack mitigation software defined network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s10586-026-06282-8",
+  "title": "Attention-based intrusion detection in MQTT-IoT network: a federated learning and deep reinforcement learning approach",
+  "venue": "Cluster Computing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Munmun Swain",
+   "Kamalakanta Sethi",
+   "Nikhil Tripathi"
+  ],
+  "cites": 0,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.comnet.2025.111604",
+  "title": "Deep Q-ICAN: A deep reinforcement learning-based approach for real-time CPA attack detection and mitigation in NDN architecture",
+  "venue": "Computer Networks",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Abdelhak Hidouri",
+   "Haifa Touati",
+   "Mohamed Hadded",
+   "Mohamed Amin Asri",
+   "Nasreddine Hajlaoui",
+   "Paul Muhlethaler",
+   "Samia Bouzefrane"
+  ],
+  "cites": 4,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.comnet.2026.112541",
+  "title": "MORPH-IDS: A context-driven Multi-Agent Reinforcement Learning framework for drift-aware moving target defense in adversarial-robust intrusion detection",
+  "venue": "Computer Networks",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Truong Duc Hao",
+   "Hong Huy Hoang",
+   "Le Hong Hien",
+   "Dang Van Huynh",
+   "Quan Le-Trung",
+   "Van-Hau Pham",
+   "Phan The Duy"
+  ],
+  "cites": 1,
+  "queries": [
+   "moving target defense reinforcement learning autonomous"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2023.103259",
+  "title": "ATS-O2A: A state-based adversarial attack strategy on deep reinforcement learning",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Xiangjuan Li",
+   "Yang Li",
+   "Zhaowen Feng",
+   "Zhaoxuan Wang",
+   "Quan Pan"
+  ],
+  "cites": 15,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2023.103583",
+  "title": "Combating alert fatigue with AlertPro: Context-aware alert prioritization using reinforcement learning for multi-step attack detection",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2024,
+  "authors": [
+   "Xiaoyu Wang",
+   "Xiaobo Yang",
+   "Xueping Liang",
+   "Xiu Zhang",
+   "Wei Zhang",
+   "Xiaorui Gong"
+  ],
+  "cites": 54,
+  "queries": [
+   "LLM agent security alert investigation",
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.cose.2024.104180",
+  "title": "GRAIN: Graph neural network and reinforcement learning aided causality discovery for multi-step attack scenario reconstruction",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Fengrui Xiao",
+   "Shuangwu Chen",
+   "Jian Yang",
+   "Huasen He",
+   "Xiaofeng Jiang",
+   "Xiaobin Tan",
+   "Dong Jin"
+  ],
+  "cites": 17,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics13193855",
+  "title": "Optimizing the Effectiveness of Moving Target Defense in a Probabilistic Attack Graph: A Deep Reinforcement Learning Approach",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Qiuxiang Li",
+   "Jianping Wu"
+  ],
+  "cites": 8,
+  "queries": [
+   "moving target defense reinforcement learning autonomous"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/electronics13030555",
+  "title": "Employing Deep Reinforcement Learning to Cyber-Attack Simulation for Enhancing Cybersecurity",
+  "venue": "Electronics",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2024,
+  "authors": [
+   "Sang Ho Oh",
+   "Jeongyoon Kim",
+   "Jae Hoon Nah",
+   "Jongyoul Park"
+  ],
+  "cites": 48,
+  "queries": [
+   "reinforcement learning cyber attack mitigation software defined network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.engappai.2026.115549",
+  "title": "Adaptive intrusion detection in industrial internet of things using deep reinforcement learning against advanced persistent threat attacks",
+  "venue": "Engineering Applications of Artificial Intelligence",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Feifei Wu",
+   "Kai Liu"
+  ],
+  "cites": 0,
+  "queries": [
+   "autonomous response advanced persistent threat reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.fsidi.2026.302187",
+  "title": "Evidence-borne prompt injection in LLM-assisted textual evidence triage",
+  "venue": "Forensic Science International: Digital Investigation",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Dongho Kim",
+   "Damin Kim",
+   "Moohong Min"
+  ],
+  "cites": 0,
+  "queries": [
+   "LLM digital forensics incident investigation agent"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2024.3477415",
+  "title": "Intrusion Detection in Industrial Control Systems Based on Deep Reinforcement Learning",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Fisayo Sangoleye",
+   "Jay Johnson",
+   "Eirini Eleni Tsiropoulou"
+  ],
+  "cites": 34,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2024.3471076",
+  "title": "Integrating AI Deep Reinforcement Learning With Evolutionary Algorithms for Advanced Threat Detection in Smart City Energy Management",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Fenghua Liu",
+   "Xiaoming Li"
+  ],
+  "cites": 16,
+  "queries": [
+   "autonomous response advanced persistent threat reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2025.3585445",
+  "title": "Adaptive Defense: Zero-Day Attack Detection in NIDS With Deep Reinforcement Learning",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Khorshed Alam",
+   "Md Fahad Monir",
+   "Md Junayed Hossain",
+   "Mohammad Shorif Uddin",
+   "Md. Tarek Habib"
+  ],
+  "cites": 26,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2026.3650833",
+  "title": "Agentic Intelligence for Unified Cyber Defense: A Self-Adaptive Framework for Threat Detection Across Cloud, Edge, and IoT Systems",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "B. Vijetha"
+  ],
+  "cites": 13,
+  "queries": [
+   "agentic artificial intelligence cyber defense"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/access.2026.3664389",
+  "title": "An Intellectual Zero Trust Security Framework Using Deep Reinforcement Learning for Predictive Threat Mitigation in AI-Based Fraud Detection Systems",
+  "venue": "IEEE Access",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Ankur Mahida"
+  ],
+  "cites": 2,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/jiot.2024.3423022",
+  "title": "Deep-Reinforcement-Learning-Based Self-Evolving Moving Target Defense Approach Against Unknown Attacks",
+  "venue": "IEEE Internet of Things Journal",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2024,
+  "authors": [
+   "Yuan Cao",
+   "Kun Liu",
+   "Yeming Lin",
+   "Luyao Wang",
+   "Yuanqing Xia"
+  ],
+  "cites": 27,
+  "queries": [
+   "moving target defense reinforcement learning autonomous"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tai.2024.3443787",
+  "title": "Intrusion Detection Approach for Industrial Internet of Things Traffic Using Deep Recurrent Reinforcement Learning Assisted Federated Learning",
+  "venue": "IEEE Transactions on Artificial Intelligence",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Amandeep Kaur"
+  ],
+  "cites": 45,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tifs.2022.3149148",
+  "title": "Reinforcement Learning Enabled Intelligent Energy Attack in Green IoT Networks",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Long Li",
+   "Yu Luo",
+   "Jing Yang",
+   "Lina Pu"
+  ],
+  "cites": 19,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tifs.2021.3135748",
+  "title": "Salience-Aware Face Presentation Attack Detection via Deep Reinforcement Learning",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Bingyao Yu",
+   "Jiwen Lu",
+   "Xiu Li",
+   "Jie Zhou"
+  ],
+  "cites": 17,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tifs.2025.3560203",
+  "title": "Grey-Box Adversarial Attack on Communication in Communicative Multi-Agent Reinforcement Learning",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2025,
+  "authors": [
+   "Xiao Ma",
+   "Wu-Jun Li"
+  ],
+  "cites": 2,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tifs.2026.3734734",
+  "title": "Attack Path Discovery for Industrial Control System Based on Knowledge-Enhanced Attack Graphs and Causal-Aware Reinforcement Learning",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Peihang Xu",
+   "Chunjie Zhou",
+   "Sardar Shan Ali Naqvi",
+   "Minglu Wang",
+   "Xuqing Liang"
+  ],
+  "cites": 1,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tnse.2025.3581689",
+  "title": "GCB-PPO2: A Hybrid Deep Reinforcement Learning Intrusion Detection System for Under-Represented Attack Categories in SDN",
+  "venue": "IEEE Transactions on Network Science and Engineering",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Chen Jue",
+   "Tao Hongyu",
+   "Cui Meng",
+   "Peng Haidong",
+   "Qiu Xihe"
+  ],
+  "cites": 4,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1109/tnsm.2025.3625278",
+  "title": "Generative Adversarial Networks Based Low-Rate Denial of Service Attack Detection and Mitigation in Software-Defined Networks",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2026,
+  "authors": [
+   "Manjuluri Anil Kumar",
+   "Balaprakasa Rao Killi",
+   "Eiji Oki"
+  ],
+  "cites": 5,
+  "queries": [
+   "reinforcement learning cyber attack mitigation software defined network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jisa.2025.104138",
+  "title": "An optimized reinforcement learning based MTD mutation strategy for securing edge IoT against DDoS attack",
+  "venue": "Journal of Information Security and Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2025,
+  "authors": [
+   "Amir Javadpour",
+   "Forough Ja\u2019fari",
+   "Chafika Benza\u00efd",
+   "Tarik Taleb"
+  ],
+  "cites": 7,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1016/j.jnca.2022.103444",
+  "title": "A flexible SDN-based framework for slow-rate DDoS attack mitigation by using deep reinforcement learning",
+  "venue": "Journal of Network and Computer Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2022,
+  "authors": [
+   "Noe M. Yungaicela-Naula",
+   "Cesar Vargas-Rosales",
+   "Jes\u00fas Arturo P\u00e9rez-D\u00edaz",
+   "Diego Fernando Carrera"
+  ],
+  "cites": 96,
+  "queries": [
+   "reinforcement learning cyber attack mitigation software defined network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11042-023-16894-6",
+  "title": "Ensemble of deep reinforcement learning with optimization model for DDoS attack detection and classification in cloud based software defined networks",
+  "venue": "Multimedia Tools and Applications",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "Kiran Kumar Paidipati",
+   "Chinnarao Kurangi",
+   "J. Uthayakumar",
+   "S. Padmanayaki",
+   "D. Pradeepa",
+   "S. Nithinsha"
+  ],
+  "cites": 21,
+  "queries": [
+   "reinforcement learning cyber attack mitigation software defined network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-022-19366-3",
+  "title": "ID-RDRL: a deep reinforcement learning-based feature selection intrusion detection model",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2022,
+  "authors": [
+   "Kezhou Ren",
+   "Yifan Zeng",
+   "Zhiqin Cao",
+   "Yingchao Zhang"
+  ],
+  "cites": 83,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-71938-9",
+  "title": "Modeling hierarchical response accuracy of large language models using a Bayesian generalized linear mixed model",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Busra Emir",
+   "Gonca Ay Keselik"
+  ],
+  "cites": 0,
+  "queries": [
+   "large language model incident response automation"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1038/s41598-026-75705-8",
+  "title": "Digital twin\u2013guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids",
+  "venue": "Scientific Reports",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Nalini Manogaran",
+   "Yasotha Berkmans",
+   "Malarvizhi Nandagopal",
+   "Amshavalli Ramaiya Surulivel",
+   "Joshi Aseervatham",
+   "Sonu Kumar Das",
+   "Gyanendra Kumar"
+  ],
+  "cites": 0,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning",
+   "reinforcement learning cyber attack mitigation software defined network"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s25030870",
+  "title": "Enhancing Security Operations Center: Wazuh Security Event Response with Retrieval-Augmented-Generation-Driven Copilot",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   " Ismail",
+   "Rahmat Kurnia",
+   "Farid Widyatama",
+   "Ilham Mirwansyah Wibawa",
+   "Zilmas Arjuna Brata",
+   " Ukasyah",
+   "Ghitha Afina Nelistiani",
+   "Howon Kim"
+  ],
+  "cites": 22,
+  "queries": [
+   "autonomous security operations center"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s25072056",
+  "title": "Reinforcement Q-Learning-Based Adaptive Encryption Model for Cyberthreat Mitigation in Wireless Sensor Networks",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2025,
+  "authors": [
+   "Sreeja Balachandran Nair Premakumari",
+   "Gopikrishnan Sundaram",
+   "Marco Rivera",
+   "Patrick Wheeler",
+   "Ricardo E. P\u00e9rez Guzm\u00e1n"
+  ],
+  "cites": 26,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/s26041368",
+  "title": "Adaptive Threat Mitigation in PoW Blockchains (Part II): A Deep Reinforcement Learning Approach to Countering Evasive Adversaries",
+  "venue": "Sensors",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Rafa\u0142 Skowro\u0144ski"
+  ],
+  "cites": 2,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.3390/sym18081249",
+  "title": "DGWO: A Deep Reinforcement Learning-Driven Grey Wolf Optimizer for Feature Selection in Network Intrusion Detection Systems",
+  "venue": "Symmetry",
+  "type": "journal-article",
+  "publisher": "MDPI AG",
+  "year": 2026,
+  "authors": [
+   "Qianqian Zhang",
+   "Ting Shu",
+   "Jinsong Xia"
+  ],
+  "cites": 0,
+  "queries": [
+   "intrusion response system deep reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11227-026-08687-z",
+  "title": "Adaptive reinforcement learning based projected gradient descent attack",
+  "venue": "The Journal of Supercomputing",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2026,
+  "authors": [
+   "Zihan Zhu",
+   "Yuexin Zhang",
+   "Ayong Ye",
+   "Xiaoding Wang",
+   "Chengling Wang",
+   "Tianqing Zhu"
+  ],
+  "cites": 0,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ },
+ {
+  "doi": "10.1007/s11277-023-10407-2",
+  "title": "A Deep Reinforcement Learning-based DDoS Attack Mitigation Scheme for Securing Big Data in Fog-Assisted Cloud Environment",
+  "venue": "Wireless Personal Communications",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC",
+  "year": 2023,
+  "authors": [
+   "Sengathir Janakiraman",
+   "M. Deva Priya"
+  ],
+  "cites": 18,
+  "queries": [
+   "self-adaptive security response attack mitigation reinforcement learning"
+  ],
+  "route": "journal"
+ }
+]

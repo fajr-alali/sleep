@@ -1,0 +1,48 @@
+#43 2025 | 2025 IEEE Annual Computer Security Applications Conference (ACSAC) | 10.1109/acsac67867.2025.00051
+T: Clouseau: A Hierarchical Multi-Agent Approach for Autonomous Attack Investigation
+A: Cyberattack investigations are crucial for understanding the Tactics, Techniques, and Procedures of adversaries, but they face increasing challenges due to the complexity, scale, and volume of modern cyber incidents. Current approaches, such as heuristic-based and learning-based methods, struggle with scalability and reliance on labeled data, leading to difficulties in adapting to new threats. In this paper, we present Clouseau,a hierarchical multi-agent approach that leverages the reasoning capabilities of Large Language Models (LLMs) to autonomously investigate cyberattacks from a single Point-Of-Interest while requiring neither prior training nor predefined heuristics. We evaluated Clouseauon 21 diverse attack scenarios, including complex cases from DARPA's OpTC engagements and Advanced Persistent Threat (APT) attack scenarios from the ATLAS dataset. In single-host settings, Clouseauachieves an average F1 score of 99.78%, surpassing strong baselines by more than 33%. To demonstrate 
+
+#44 2026 | 2026 56th Annual IEEE International Conference on Dependable Systems and Networks (DSN) | 10.1109/dsn69566.2026.00079
+T: Generalizable Graph-based Reinforcement Learning Agents for Automated Cyber Defense
+A: Deep reinforcement learning (RL) is emerging as a viable strategy for automated cyber defense (ACD). The traditional RL approach represents networks as a list of computers in various states of safety or threat. Unfortunately, these models are forced to overfit to specific network topologies, rendering them ineffective when faced with even small environmental perturbations. In this work, we frame ACD as a two-player context-based partially observable Markov decision problem with observations represented as attributed graphs. This approach allows our agents to reason through the lens of relational inductive bias. Agents learn how to reason about hosts interacting with other system entities in a more general manner, and their actions are understood as edits to the graph representing the environment. By introducing this bias, we will show that our agents can better reason about the states of networks and zero-shot adapt to new ones. We show that this approach outperforms the state-of-the-a
+
+#45 2026 | Array | 10.1016/j.array.2026.101081
+T: An adaptive firewall framework using deep reinforcement learning for threat-aware cyber threat detection and mitigation policy learning
+A: 
+
+#46 2025 | Computer Networks | 10.1016/j.comnet.2025.111604
+T: Deep Q-ICAN: A deep reinforcement learning-based approach for real-time CPA attack detection and mitigation in NDN architecture
+A: 
+
+#47 2026 | Computer Networks | 10.1016/j.comnet.2026.112541
+T: MORPH-IDS: A context-driven Multi-Agent Reinforcement Learning framework for drift-aware moving target defense in adversarial-robust intrusion detection
+A: 
+
+#48 2024 | Computers & Security | 10.1016/j.cose.2023.103583
+T: Combating alert fatigue with AlertPro: Context-aware alert prioritization using reinforcement learning for multi-step attack detection
+A: 
+
+#49 2025 | Computers & Security | 10.1016/j.cose.2024.104180
+T: GRAIN: Graph neural network and reinforcement learning aided causality discovery for multi-step attack scenario reconstruction
+A: 
+
+#50 2026 | Forensic Science International: Digital Investigation | 10.1016/j.fsidi.2026.302187
+T: Evidence-borne prompt injection in LLM-assisted textual evidence triage
+A: 
+
+#51 2026 | IEEE Access | 10.1109/access.2026.3650833
+T: Agentic Intelligence for Unified Cyber Defense: A Self-Adaptive Framework for Threat Detection Across Cloud, Edge, and IoT Systems
+A: The rapid expansion of cloud, edge, and Internet of Things environments has increased both the scale and complexity of modern cyber-attacks. Conventional detection systems that operate effectively under stationary conditions often degrade when attacker behaviour or underlying data distributions change. This work introduces the Agentic Intelligence Self-Adaptive Framework (AISAF), a unified and self-adjusting threat detection model designed for heterogeneous computing environments. AISAF employs a hybrid CNN, LSTM, and Transformer backbone to capture spatial, temporal, and contextual dependencies in network traffic. Concept drift is detected through lightweight behavioural monitoring that tracks latent-space deviations and prediction-confidence variations in streaming data. When meaningful drift is detected, an agentic meta-optimization controller selectively updates only the affected submodules, reducing retraining cost while preventing catastrophic forgetting. An attention-based expla
+
+#52 2024 | IEEE Internet of Things Journal | 10.1109/jiot.2024.3423022
+T: Deep-Reinforcement-Learning-Based Self-Evolving Moving Target Defense Approach Against Unknown Attacks
+A: Deep reinforcement learning (DRL)-based moving target defense (MTD) emerges as an outstanding method to enhance the security of highly hostile Internet of Things (IoT) environments. However, due to the gap between certain stationary learning environment and real-world, even a well-trained DRL model may not adapt to unknown attacks in the real-world network environments. Therefore, we present a DRL-based self-evolving MTD approach against unknown attacks. First, we formulate the defense in a dynamic network environment as a Markov decision process (MDP), and utilize a DRL model based on actor-critic framework to obtain the optimal sequential defense strategies. Second, we deploy honeypots within the network environments to capture the traffic features of unknown attacks. These features are then specifically labeled to enable the DRL model to learn the characteristics of unknown attacks and identify them. Third, we design an actor network based on ResNet architecture to perceive the netw
+
+#53 2022 | Journal of Network and Computer Applications | 10.1016/j.jnca.2022.103444
+T: A flexible SDN-based framework for slow-rate DDoS attack mitigation by using deep reinforcement learning
+A: 
+
+#54 2026 | Scientific Reports | 10.1038/s41598-026-75705-8
+T: Digital twin–guided graph-transformer with meta-reinforcement learning for real-time adaptive cyber-attack mitigation in smart grids
+A: 
+
