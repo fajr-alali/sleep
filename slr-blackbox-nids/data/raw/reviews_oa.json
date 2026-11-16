@@ -1,0 +1,134 @@
+{
+ "10.1109/COMST.2022.3233793": {
+  "title": "Adversarial Machine Learning for Network Intrusion Detection Systems: A Comprehensive Survey",
+  "journal": "IEEE Communications Surveys & Tutorials",
+  "issn": "1553-877X,2373-745X",
+  "year": 2023,
+  "is_oa": false,
+  "pdf": null,
+  "url": null,
+  "host": null,
+  "version": null
+ },
+ "10.1016/j.comnet.2022.109073": {
+  "title": "Adversarial machine learning for network intrusion detection: A comparative study",
+  "journal": "Computer Networks",
+  "issn": "1389-1286,1872-7069",
+  "year": 2022,
+  "is_oa": true,
+  "pdf": null,
+  "url": "https://hal.science/hal-03726213",
+  "host": "repository",
+  "version": "submittedVersion"
+ },
+ "10.3390/fi15020062": {
+  "title": "Adversarial Machine Learning Attacks against Intrusion Detection Systems: A Survey on Strategies and Defense",
+  "journal": "Future Internet",
+  "issn": "1999-5903",
+  "year": 2023,
+  "is_oa": true,
+  "pdf": "https://www.mdpi.com/1999-5903/15/2/62/pdf?version=1676458247",
+  "url": "https://www.mdpi.com/1999-5903/15/2/62/pdf?version=1676458247",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.1109/ACCESS.2020.2974752": {
+  "title": "Adversarial Machine Learning Applied to Intrusion and Malware Scenarios: A Systematic Review",
+  "journal": "IEEE Access",
+  "issn": "2169-3536",
+  "year": 2020,
+  "is_oa": true,
+  "pdf": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09001114.pdf",
+  "url": "https://ieeexplore.ieee.org/ielx7/6287639/8948470/09001114.pdf",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.3390/electronics13245030": {
+  "title": "A Systematic Study of Adversarial Attacks Against Network Intrusion Detection Systems",
+  "journal": "Electronics",
+  "issn": "2079-9292",
+  "year": 2024,
+  "is_oa": true,
+  "pdf": "https://www.mdpi.com/2079-9292/13/24/5030/pdf?version=1734757231",
+  "url": "https://www.mdpi.com/2079-9292/13/24/5030/pdf?version=1734757231",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.1109/ACCESS.2026.3733985": {
+  "title": "Adversarial Robustness of Deep Learning-Based Intrusion Detection Systems: A Systematic Literature Review of Attacks, Defenses, Datasets, and Open Challenges",
+  "journal": "IEEE Access",
+  "issn": "2169-3536",
+  "year": 2026,
+  "is_oa": true,
+  "pdf": null,
+  "url": "https://doi.org/10.1109/access.2026.3733985",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.1109/ACCESS.2026.3720554": {
+  "title": "Adversarial Evasion in Machine-Learning-Based Network Intrusion Detection: A Systematic Review, Threat Modeling, and Research Roadmap",
+  "journal": "IEEE Access",
+  "issn": "2169-3536",
+  "year": 2026,
+  "is_oa": true,
+  "pdf": null,
+  "url": "https://doi.org/10.1109/access.2026.3720554",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.1016/j.cosrev.2026.100995": {
+  "title": "Understanding the adversary: A survey of adversarial machine learning in network intrusion detection",
+  "journal": "Computer Science Review",
+  "issn": "1574-0137,1876-7745",
+  "year": 2026,
+  "is_oa": true,
+  "pdf": null,
+  "url": "https://doi.org/10.1016/j.cosrev.2026.100995",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.1109/TAI.2025.3641908": {
+  "title": "Contrast Duality of Adversarial Learningin Network Intrusion: A Review",
+  "journal": "IEEE Transactions on Artificial Intelligence",
+  "issn": "2691-4581",
+  "year": 2025,
+  "is_oa": true,
+  "pdf": "https://arxiv.org/pdf/2412.13880",
+  "url": "https://arxiv.org/pdf/2412.13880",
+  "host": "repository",
+  "version": "submittedVersion"
+ },
+ "10.3390/fi16010032": {
+  "title": "A Holistic Review of Machine Learning Adversarial Attacks in IoT Networks",
+  "journal": "Future Internet",
+  "issn": "1999-5903",
+  "year": 2024,
+  "is_oa": true,
+  "pdf": "https://www.mdpi.com/1999-5903/16/1/32/pdf?version=1705676320",
+  "url": "https://www.mdpi.com/1999-5903/16/1/32/pdf?version=1705676320",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.1145/3785665": {
+  "title": "Adversarial Machine Learning in IoT Security: A Comprehensive Survey",
+  "journal": "ACM Computing Surveys",
+  "issn": "0360-0300,1557-7341",
+  "year": 2025,
+  "is_oa": true,
+  "pdf": null,
+  "url": "https://doi.org/10.1145/3785665",
+  "host": "publisher",
+  "version": "publishedVersion"
+ },
+ "10.3390/jcp2010010": {
+  "title": "Functionality-Preserving Adversarial Machine Learning for Robust Classification in Cybersecurity and Intrusion Detection Domains: A Survey",
+  "journal": "Journal of Cybersecurity and Privacy",
+  "issn": "2624-800X",
+  "year": 2022,
+  "is_oa": true,
+  "pdf": "https://www.mdpi.com/2624-800X/2/1/10/pdf?version=1647919586",
+  "url": "https://www.mdpi.com/2624-800X/2/1/10/pdf?version=1647919586",
+  "host": "publisher",
+  "version": "publishedVersion"
+ }
+}

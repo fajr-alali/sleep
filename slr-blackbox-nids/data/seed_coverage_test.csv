@@ -1,0 +1,15 @@
+seed_title,doi,venue,verified_journal_seed,found_by_initial_S2_queries,found_after_amendment(S2-amend1 or Crossref)
+Adversarial Attacks Against Deep Learning-Based Network Intrusion Detection Systems and Defense Mechanisms,10.1109/tnet.2021.3137084,IEEE/ACM Transactions on Networking,yes,True,True
+Evaluating and Improving Adversarial Robustness of Machine Learning-Based Network Intrusion Detectors,10.1109/jsac.2021.3087242,IEEE Journal on Selected Areas in Communications,yes,True,True
+Adversarial machine learning in Network Intrusion Detection Systems,10.1016/j.eswa.2021.115782,Expert Systems with Applications,yes,False,True
+Adv-Bot: Realistic adversarial botnet attacks against network intrusion detection systems,10.1016/j.cose.2023.103176,Computers & Security,yes,True,True
+TAD: Transfer learning-based multi-adversarial detection of evasion attacks against network intrusion detection systems,10.1016/j.future.2022.08.011,Future Generation Computer Systems,yes,True,True
+Deep Reinforcement Adversarial Learning Against Botnet Evasion Attacks,10.1109/tnsm.2020.3031843,IEEE Transactions on Network and Service Management,yes,False,True
+Adversarial Attacks Against Network Intrusion Detection in IoT Systems,10.1109/aiiot52608.2021.9454214,2021 IEEE World AI IoT Congress (AIIoT),no (Crossref returned a different record),True,True
+TANTRA: Timing-Based Adversarial Network Traffic Reshaping Attack,10.1109/tifs.2022.3201377,IEEE Transactions on Information Forensics and Security,yes,True,True
+DIGFuPAS: Deceive IDS with GAN and function-preserving on adversarial samples in SDN-enabled networks,10.1016/j.cose.2021.102367,Computers & Security,yes,True,True
+Fooling intrusion detection systems using adversarially autoencoder,10.1016/j.dcan.2020.11.001,Digital Communications and Networks,yes,False,True
+Defending network intrusion detection systems against adversarial evasion attacks,10.1016/j.future.2020.04.013,Future Generation Computer Systems,yes,True,True
+Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems,10.1145/3469659,Digital Threats: Research and Practice,yes,True,True
+Adversarial examples for network intrusion detection systems,10.2139/ssrn.7042179,,no (Crossref returned a different record),False,False
+A gradient-based approach for adversarial attack on deep learning-based network intrusion detection systems,10.1016/j.asoc.2023.110173,Applied Soft Computing,yes,True,True

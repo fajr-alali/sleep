@@ -1,0 +1,247 @@
+[
+ {
+  "query": "Adversarial Attacks Against Deep Learning-Based Network Intrusion Detection Systems and Defense Mechanisms",
+  "sim": 1.0,
+  "doi": "10.1109/tnet.2021.3137084",
+  "title": "Adversarial Attacks Against Deep Learning-Based Network Intrusion Detection Systems and Defense Mechanisms",
+  "venue": "IEEE/ACM Transactions on Networking",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Chaoyun Zhang",
+   "Xavier Costa-Perez",
+   "Paul Patras"
+  ],
+  "cites": 197
+ },
+ {
+  "query": "Evaluating and Improving Adversarial Robustness of Machine Learning-Based Network Intrusion Detectors",
+  "sim": 1.0,
+  "doi": "10.1109/jsac.2021.3087242",
+  "title": "Evaluating and Improving Adversarial Robustness of Machine Learning-Based Network Intrusion Detectors",
+  "venue": "IEEE Journal on Selected Areas in Communications",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2021,
+  "authors": [
+   "Dongqi Han",
+   "Zhiliang Wang",
+   "Ying Zhong",
+   "Wenqi Chen",
+   "Jiahai Yang",
+   "Shuqiang Lu",
+   "Xingang Shi",
+   "Xia Yin"
+  ],
+  "cites": 199
+ },
+ {
+  "query": "Adversarial machine learning in Network Intrusion Detection Systems",
+  "sim": 1.0,
+  "doi": "10.1016/j.eswa.2021.115782",
+  "title": "Adversarial machine learning in Network Intrusion Detection Systems",
+  "venue": "Expert Systems with Applications",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2021,
+  "authors": [
+   "Elie Alhajjar",
+   "Paul Maxwell",
+   "Nathaniel Bastian"
+  ],
+  "cites": 226
+ },
+ {
+  "query": "Adv-Bot: Realistic adversarial botnet attacks against network intrusion detection systems",
+  "sim": 1.0,
+  "doi": "10.1016/j.cose.2023.103176",
+  "title": "Adv-Bot: Realistic adversarial botnet attacks against network intrusion detection systems",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Islam Debicha",
+   "Benjamin Cochez",
+   "Tayeb Kenaza",
+   "Thibault Debatty",
+   "Jean-Michel Dricot",
+   "Wim Mees"
+  ],
+  "cites": 77
+ },
+ {
+  "query": "TAD: Transfer learning-based multi-adversarial detection of evasion attacks against network intrusion detection systems",
+  "sim": 1.0,
+  "doi": "10.1016/j.future.2022.08.011",
+  "title": "TAD: Transfer learning-based multi-adversarial detection of evasion attacks against network intrusion detection systems",
+  "venue": "Future Generation Computer Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Islam Debicha",
+   "Richard Bauwens",
+   "Thibault Debatty",
+   "Jean-Michel Dricot",
+   "Tayeb Kenaza",
+   "Wim Mees"
+  ],
+  "cites": 81
+ },
+ {
+  "query": "Deep Reinforcement Adversarial Learning Against Botnet Evasion Attacks",
+  "sim": 1.0,
+  "doi": "10.1109/tnsm.2020.3031843",
+  "title": "Deep Reinforcement Adversarial Learning Against Botnet Evasion Attacks",
+  "venue": "IEEE Transactions on Network and Service Management",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2020,
+  "authors": [
+   "Giovanni Apruzzese",
+   "Mauro Andreolini",
+   "Mirco Marchetti",
+   "Andrea Venturi",
+   "Michele Colajanni"
+  ],
+  "cites": 111
+ },
+ {
+  "query": "Adversarial Attacks Against Network Intrusion Detection in IoT Systems",
+  "sim": 0.82,
+  "doi": "10.1109/aiiot52608.2021.9454214",
+  "title": "Adversarial Black-Box Attacks Against Network Intrusion Detection Systems: A Survey",
+  "venue": "2021 IEEE World AI IoT Congress (AIIoT)",
+  "type": "proceedings-article",
+  "publisher": "IEEE",
+  "year": 2021,
+  "authors": [
+   "Huda Ali Alatwi",
+   "Amjad Aldweesh"
+  ],
+  "cites": 21
+ },
+ {
+  "query": "TANTRA: Timing-Based Adversarial Network Traffic Reshaping Attack",
+  "sim": 1.0,
+  "doi": "10.1109/tifs.2022.3201377",
+  "title": "TANTRA: Timing-Based Adversarial Network Traffic Reshaping Attack",
+  "venue": "IEEE Transactions on Information Forensics and Security",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "year": 2022,
+  "authors": [
+   "Yam Sharon",
+   "David Berend",
+   "Yang Liu",
+   "Asaf Shabtai",
+   "Yuval Elovici"
+  ],
+  "cites": 60
+ },
+ {
+  "query": "DIGFuPAS: Deceive IDS with GAN and function-preserving on adversarial samples in SDN-enabled networks",
+  "sim": 1.0,
+  "doi": "10.1016/j.cose.2021.102367",
+  "title": "DIGFuPAS: Deceive IDS with GAN and function-preserving on adversarial samples in SDN-enabled networks",
+  "venue": "Computers & Security",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2021,
+  "authors": [
+   "Phan The Duy",
+   "Le Khac Tien",
+   "Nghi Hoang Khoa",
+   "Do Thi Thu Hien",
+   "Anh Gia-Tuan Nguyen",
+   "Van-Hau Pham"
+  ],
+  "cites": 67
+ },
+ {
+  "query": "Fooling intrusion detection systems using adversarially autoencoder",
+  "sim": 1.0,
+  "doi": "10.1016/j.dcan.2020.11.001",
+  "title": "Fooling intrusion detection systems using adversarially autoencoder",
+  "venue": "Digital Communications and Networks",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2021,
+  "authors": [
+   "Junjun Chen",
+   "Di Wu",
+   "Ying Zhao",
+   "Nabin Sharma",
+   "Michael Blumenstein",
+   "Shui Yu"
+  ],
+  "cites": 38
+ },
+ {
+  "query": "Defending network intrusion detection systems against adversarial evasion attacks",
+  "sim": 1.0,
+  "doi": "10.1016/j.future.2020.04.013",
+  "title": "Defending network intrusion detection systems against adversarial evasion attacks",
+  "venue": "Future Generation Computer Systems",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2020,
+  "authors": [
+   "Marek Pawlicki",
+   "Micha\u0142 Chora\u015b",
+   "Rafa\u0142 Kozik"
+  ],
+  "cites": 175
+ },
+ {
+  "query": "Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems",
+  "sim": 1.0,
+  "doi": "10.1145/3469659",
+  "title": "Modeling Realistic Adversarial Attacks against Network Intrusion Detection Systems",
+  "venue": "Digital Threats: Research and Practice",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "year": 2022,
+  "authors": [
+   "Giovanni Apruzzese",
+   "Mauro Andreolini",
+   "Luca Ferretti",
+   "Mirco Marchetti",
+   "Michele Colajanni"
+  ],
+  "cites": 173
+ },
+ {
+  "query": "Adversarial examples for network intrusion detection systems",
+  "sim": 0.84,
+  "doi": "10.2139/ssrn.7042179",
+  "title": "Adversarial Robustness in Network Intrusion Detection Systems",
+  "venue": "",
+  "type": "posted-content",
+  "publisher": "Elsevier BV",
+  "year": 2026,
+  "authors": [
+   "Magnus Briggt",
+   "Margaret Cullen"
+  ],
+  "cites": 0
+ },
+ {
+  "query": "A gradient-based approach for adversarial attack on deep learning-based network intrusion detection systems",
+  "sim": 1.0,
+  "doi": "10.1016/j.asoc.2023.110173",
+  "title": "A gradient-based approach for adversarial attack on deep learning-based network intrusion detection systems",
+  "venue": "Applied Soft Computing",
+  "type": "journal-article",
+  "publisher": "Elsevier BV",
+  "year": 2023,
+  "authors": [
+   "Hesamodin Mohammadian",
+   "Ali A. Ghorbani",
+   "Arash Habibi Lashkari"
+  ],
+  "cites": 93
+ }
+]

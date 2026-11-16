@@ -1,0 +1,1999 @@
+[
+ {
+  "i": 0,
+  "role": "candidate",
+  "doi": "10.1109/access.2020.3008433",
+  "type": "journal-article",
+  "title": "A Brute-Force Black-Box Method to Attack Machine Learning-Based Systems in Cybersecurity",
+  "journal": "IEEE Access",
+  "issn": [
+   "2169-3536"
+  ],
+  "issn_type": [
+   {
+    "value": "2169-3536",
+    "type": "electronic"
+   }
+  ],
+  "volume": "8",
+  "issue": null,
+  "page": "128250-128263",
+  "online": "2020",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Sicong Zhang",
+   "Xiaoyao Xie",
+   "Yang Xu"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9138418/",
+  "flags": [],
+  "abstract_s2": "Machine learning algorithms are widely utilized in cybersecurity. However, recent studies show that machine learning algorithms are vulnerable to adversarial examples. This poses new threats to the security-critical applications in cybersecurity. Currently, there is still a short of study on adversarial examples in the domain of cybersecurity. In this paper, we propose a new method known as the brute-force attack method to better evaluate the robustness of the machine learning classifiers in cybersecurity against adversarial examples. The proposed method, which works in a black-box way and covers some shortages of the existing adversarial attack methods based on generative adversarial networks, is simple to implement and only needs the output of the target classifiers to generate adversarial examples. To have a comprehensive evaluation of the attack performance of the proposed method, we use our method to generate adversarial examples against the common machine learning based security systems in cybersecurity including host intrusion detection systems, Android malware detection systems, and network intrusion detection systems. We compare the attack performance of the proposed method against these security systems with that of state-of-the-art adversarial attack methods based on generative adversarial networks. The preliminary experimental results show that the proposed method, which is more efficient in computation and outperforms the state-of-the-art attack methods based on generative adversarial networks, can be used to evaluate the robustness of various machine learning based systems in cybersecurity against adversarial examples."
+ },
+ {
+  "i": 5,
+  "role": "candidate",
+  "doi": "10.1109/jsac.2021.3087242",
+  "type": "journal-article",
+  "title": "Evaluating and Improving Adversarial Robustness of Machine Learning-Based Network Intrusion Detectors",
+  "journal": "IEEE Journal on Selected Areas in Communications",
+  "issn": [
+   "0733-8716",
+   "1558-0008"
+  ],
+  "issn_type": [
+   {
+    "value": "0733-8716",
+    "type": "print"
+   },
+   {
+    "value": "1558-0008",
+    "type": "electronic"
+   }
+  ],
+  "volume": "39",
+  "issue": "8",
+  "page": "2632-2647",
+  "online": "2021-8",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Dongqi Han",
+   "Zhiliang Wang",
+   "Ying Zhong",
+   "Wenqi Chen",
+   "Jiahai Yang",
+   "Shuqiang Lu",
+   "Xingang Shi",
+   "Xia Yin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9448103/",
+  "flags": [],
+  "abstract_s2": "Machine learning (ML), especially deep learning (DL) techniques have been increasingly used in anomaly-based network intrusion detection systems (NIDS). However, ML/DL has shown to be extremely vulnerable to adversarial attacks, especially in such security-sensitive systems. Many adversarial attacks have been proposed to evaluate the robustness of ML-based NIDSs. Unfortunately, existing attacks mostly focused on feature-space and/or white-box attacks, which make impractical assumptions in real-world scenarios, leaving the study on practical gray/black-box attacks largely unexplored. To bridge this gap, we conduct the first systematic study of the gray/black-box traffic-space adversarial attacks to evaluate the robustness of ML-based NIDSs. Our work outperforms previous ones in the following aspects: (i) practical \u2014the proposed attack can automatically mutate original traffic with extremely limited knowledge and affordable overhead while preserving its functionality; (ii) generic \u2014the proposed attack is effective for evaluating the robustness of various NIDSs using diverse ML/DL models and non-payload-based features; (iii) explainable \u2014we propose an explanation method for the fragile robustness of ML-based NIDSs. Based on this, we also propose a defense scheme against adversarial attacks to improve system robustness. We extensively evaluate the robustness of various NIDSs using diverse feature sets and ML/DL models. Experimental results show our attack is effective (e.g., >97% evasion rate in half cases for Kitsune, a state-of-the-art NIDS) with affordable execution cost and the proposed defense method can effectively mitigate such attacks (evasion rate is reduced by >50% in most cases)."
+ },
+ {
+  "i": 7,
+  "role": "candidate",
+  "doi": "10.1109/jiot.2020.3048038",
+  "type": "journal-article",
+  "title": "Adversarial Attacks Against Network Intrusion Detection in IoT Systems",
+  "journal": "IEEE Internet of Things Journal",
+  "issn": [
+   "2327-4662",
+   "2372-2541"
+  ],
+  "issn_type": [
+   {
+    "value": "2327-4662",
+    "type": "electronic"
+   },
+   {
+    "value": "2372-2541",
+    "type": "electronic"
+   }
+  ],
+  "volume": "8",
+  "issue": "13",
+  "page": "10327-10335",
+  "online": "2021-7-1",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Han Qiu",
+   "Tian Dong",
+   "Tianwei Zhang",
+   "Jialiang Lu",
+   "Gerard Memmi",
+   "Meikang Qiu"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9311132/",
+  "flags": [],
+  "abstract_s2": "Deep learning (DL) has gained popularity in network intrusion detection, due to its strong capability of recognizing subtle differences between normal and malicious network activities. Although a variety of methods have been designed to leverage DL models for security protection, whether these systems are vulnerable to adversarial examples (AEs) is unknown. In this article, we design a novel adversarial attack against DL-based network intrusion detection systems (NIDSs) in the Internet-of-Things environment, with only black-box accesses to the DL model in such NIDS. We introduce two techniques: 1) model extraction is adopted to replicate the black-box model with a small amount of training data and 2) a saliency map is then used to disclose the impact of each packet attribute on the detection results, and the most critical features. This enables us to efficiently generate AEs using conventional methods. With these tehniques, we successfully compromise one state-of-the-art NIDS, Kitsune: the adversary only needs to modify less than 0.005% of bytes in the malicious packets to achieve an average 94.31% attack success rate."
+ },
+ {
+  "i": 12,
+  "role": "candidate",
+  "doi": "10.1109/tnet.2021.3137084",
+  "type": "journal-article",
+  "title": "Adversarial Attacks Against Deep Learning-Based Network Intrusion Detection Systems and Defense Mechanisms",
+  "journal": "IEEE/ACM Transactions on Networking",
+  "issn": [
+   "1063-6692",
+   "1558-2566"
+  ],
+  "issn_type": [
+   {
+    "value": "1063-6692",
+    "type": "print"
+   },
+   {
+    "value": "1558-2566",
+    "type": "electronic"
+   }
+  ],
+  "volume": "30",
+  "issue": "3",
+  "page": "1294-1311",
+  "online": "2022-6",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Chaoyun Zhang",
+   "Xavier Costa-Perez",
+   "Paul Patras"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9674195/",
+  "flags": [],
+  "abstract_s2": "Neural networks (NNs) are increasingly popular in developing NIDS, yet can prove vulnerable to adversarial examples. Through these, attackers that may be oblivious to the precise mechanics of the targeted NIDS add subtle perturbations to malicious traffic features, with the aim of evading detection and disrupting critical systems. Defending against such adversarial attacks is of high importance, but requires to address daunting challenges. Here, we introduce TIKI- TAKA, a general framework for (i) assessing the robustness of state-of-the-art deep learning-based NIDS against adversarial manipulations, and which (ii) incorporates defense mechanisms that we propose to increase resistance to attacks employing such evasion techniques. Specifically, we select five cutting-edge adversarial attack types to subvert three popular malicious traffic detectors that employ NNs. We experiment with publicly available datasets and consider both one-to-all and one-to-one classification scenarios, i.e., discriminating illicit vs benign traffic and respectively identifying specific types of anomalous traffic among many observed. The results obtained reveal that attackers can evade NIDS with up to 35.7% success rates, by only altering time-based features of the traffic generated. To counteract these weaknesses, we propose three defense mechanisms: model voting ensembling, ensembling adversarial training, and query detection. We demonstrate that these methods can restore intrusion detection rates to nearly 100% against most types of malicious traffic, and attacks with potentially catastrophic consequences (e.g., botnet) can be thwarted. This confirms the effectiveness of our solutions and makes the case for their adoption when designing robust and reliable deep anomaly detectors."
+ },
+ {
+  "i": 15,
+  "role": "candidate",
+  "doi": "10.3233/ida-216134",
+  "type": "journal-article",
+  "title": "Generate qualified adversarial attacks and foster enhanced models based on generative adversarial networks",
+  "journal": "Intelligent Data Analysis",
+  "issn": [
+   "1088-467X",
+   "1571-4128"
+  ],
+  "issn_type": [
+   {
+    "value": "1088-467X",
+    "type": "print"
+   },
+   {
+    "value": "1571-4128",
+    "type": "electronic"
+   }
+  ],
+  "volume": "26",
+  "issue": "5",
+  "page": "1359-1377",
+  "online": "2022-9-5",
+  "publisher": "SAGE Publications",
+  "authors": [
+   "Junpeng He",
+   "Lei Luo",
+   "Kun Xiao",
+   "Xiyu Fang",
+   "Yun Li"
+  ],
+  "url": "https://journals.sagepub.com/doi/full/10.3233/IDA-216134",
+  "flags": [],
+  "abstract_s2": "In cybersecurity, intrusion detection systems (IDSes) are of vital importance, allowing different companies and their departments to identify malicious attacks from magnanimous network traffic; however, the effectiveness and stability of these artificial intelligence-based systems are challenged when coping with adversarial attacks. This work explores a creative framework based on a generative adversarial network (GAN) with a series of training algorithms that aims to generate instances of adversarial attacks and utilize them to help establish a new IDS based on a neural network that can replace the old IDS without knowledge of any of its parameters. Furthermore, to verify the quality of the generated attacks, a transfer mechanism is proposed for calculating the Frechet inception distance (FID). Experiments show that based on the original CICIDS2017 dataset, the proposed framework can generate four types of adversarial attacks (DDoS, DoS, Bruteforce, and Infiltration), which precipitate four types of classifiers (Decision Tree, Random Forest, Adaboost, and Deep Neural Network), set as black-box old IDSes, with low detection rates; additionally, the IDSes that the proposed framework newly establish have an average detection rate of 98% in coping with both generated adversarial and original attacks."
+ },
+ {
+  "i": 16,
+  "role": "candidate",
+  "doi": "10.1109/jiot.2021.3130434",
+  "type": "journal-article",
+  "title": "Hierarchical Adversarial Attacks Against Graph-Neural-Network-Based IoT Network Intrusion Detection System",
+  "journal": "IEEE Internet of Things Journal",
+  "issn": [
+   "2327-4662",
+   "2372-2541"
+  ],
+  "issn_type": [
+   {
+    "value": "2327-4662",
+    "type": "electronic"
+   },
+   {
+    "value": "2372-2541",
+    "type": "electronic"
+   }
+  ],
+  "volume": "9",
+  "issue": "12",
+  "page": "9310-9319",
+  "online": "2022-6-15",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Xiaokang Zhou",
+   "Wei Liang",
+   "Weimin Li",
+   "Ke Yan",
+   "Shohei Shimizu",
+   "Kevin I-Kai Wang"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9626144/",
+  "flags": [],
+  "abstract_s2": "The advancement of Internet of Things (IoT) technologies leads to a wide penetration and large-scale deployment of IoT systems across an entire city or even country. While IoT systems are capable of providing intelligent services, the large amount of data collected and processed in IoT systems also raises serious security concerns. Many research efforts have been devoted to design intelligent network intrusion detection system (NIDS) to prevent misuse of IoT data across smart applications. However, existing approaches may suffer from the issue of limited and imbalanced attack data when training the detection model, which make the system vulnerable especially for those unknown type attacks. In this study, a novel hierarchical adversarial attack (HAA) generation method is introduced to realize the level-aware black-box adversarial attack strategy, targeting the graph neural network (GNN)-based intrusion detection in IoT systems with a limited budget. By constructing a shadow GNN model, an intelligent mechanism based on a saliency map technique is designed to generate adversarial examples by effectively identifying and modifying the critical feature elements with minimal perturbations. A hierarchical node selection algorithm based on random walk with restart (RWR) is developed to select a set of more vulnerable nodes with high attack priority, considering their structural features, and overall loss changes within the targeted IoT network. The proposed HAA generation method is evaluated using the open-source data set UNSW-SOSR2019 with three baseline methods. Comparison results demonstrate its ability in degrading the classification precision by more than 30% in the two state-of-the-art GNN models, GCN and JK-Net, respectively, for NIDS in IoT environments."
+ },
+ {
+  "i": 17,
+  "role": "candidate",
+  "doi": "10.3390/computers11070115",
+  "type": "journal-article",
+  "title": "Mitigation of Black-Box Attacks on Intrusion Detection Systems-Based ML",
+  "journal": "Computers",
+  "issn": [
+   "2073-431X"
+  ],
+  "issn_type": [
+   {
+    "value": "2073-431X",
+    "type": "electronic"
+   }
+  ],
+  "volume": "11",
+  "issue": "7",
+  "page": "115",
+  "online": "2022-7-20",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Shahad Alahmed",
+   "Qutaiba Alasad",
+   "Maytham M. Hammood",
+   "Jiann-Shiun Yuan",
+   "Mohammed Alawad"
+  ],
+  "url": "https://www.mdpi.com/2073-431X/11/7/115",
+  "flags": [],
+  "abstract_s2": "Intrusion detection systems (IDS) are a very vital part of network security, as they can be used to protect the network from illegal intrusions and communications. To detect malicious network traffic, several IDS based on machine learning (ML) methods have been developed in the literature. Machine learning models, on the other hand, have recently been proved to be effective, since they are vulnerable to adversarial perturbations, which allows the opponent to crash the system while performing network queries. This motivated us to present a defensive model that uses adversarial training based on generative adversarial networks (GANs) as a defense strategy to offer better protection for the system against adversarial perturbations. The experiment was carried out using random forest as a classifier. In addition, both principal component analysis (PCA) and recursive features elimination (Rfe) techniques were leveraged as a feature selection to diminish the dimensionality of the dataset, and this led to enhancing the performance of the model significantly. The proposal was tested on a realistic and recent public network dataset: CSE-CICIDS2018. The simulation results showed that GAN-based adversarial training enhanced the resilience of the IDS model and mitigated the severity of the black-box attack."
+ },
+ {
+  "i": 18,
+  "role": "candidate",
+  "doi": "10.1109/access.2022.3212412",
+  "type": "journal-article",
+  "title": "Statistical Detection of Adversarial Examples in Blockchain-Based Federated Forest In-Vehicle Network Intrusion Detection Systems",
+  "journal": "IEEE Access",
+  "issn": [
+   "2169-3536"
+  ],
+  "issn_type": [
+   {
+    "value": "2169-3536",
+    "type": "electronic"
+   }
+  ],
+  "volume": "10",
+  "issue": null,
+  "page": "109366-109384",
+  "online": "2022",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Ibrahim Aliyu",
+   "Selinde Van Engelenburg",
+   "Muhammed Bashir Mu'Azu",
+   "Jinsul Kim",
+   "Chang Gyoon Lim"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/9912427/",
+  "flags": [],
+  "abstract_s2": "The internet-of-Vehicle (IoV) can facilitate seamless connectivity between connected vehicles (CV), autonomous vehicles (AV), and other IoV entities. Intrusion Detection Systems (IDSs) for IoV networks can rely on machine learning (ML) to protect the in-vehicle network from cyber-attacks. Blockchain-based Federated Forests (BFFs) could be used to train ML models based on data from IoV entities while protecting the confidentiality of the data and reducing the risks of tampering with the data. However, ML models are still vulnerable to evasion, poisoning and exploratory attacks by adversarial examples. The BFF-IDS offers partial defence against poisoning but has no measure for evasion attacks, the most common attack/threat faced by ML models. Besides, the impact of adversarial examples transferability in CAN IDS has largely remained untested. This paper investigates the impact of various possible adversarial examples on the BFF-IDS. We also investigated the statistical adversarial detector\u2019s effectiveness and resilience in detecting the attacks and subsequent countermeasures by augmenting the model with detected samples. Our investigation results established that BFF-IDS is very vulnerable to adversarial examples attacks. The statistical adversarial detector and the subsequent BFF-IDS augmentation (BFF-IDS(AUG)) provide an effective mechanism against the adversarial examples. Consequently, integrating the statistical adversarial detector and the subsequent BFF-IDS augmentation with the detected adversarial samples provides a sustainable security framework against adversarial examples and other unknown attacks."
+ },
+ {
+  "i": 19,
+  "role": "candidate",
+  "doi": "10.1016/j.future.2022.08.011",
+  "type": "journal-article",
+  "title": "TAD: Transfer learning-based multi-adversarial detection of evasion attacks against network intrusion detection systems",
+  "journal": "Future Generation Computer Systems",
+  "issn": [
+   "0167-739X"
+  ],
+  "issn_type": [
+   {
+    "value": "0167-739X",
+    "type": "print"
+   }
+  ],
+  "volume": "138",
+  "issue": null,
+  "page": "185-197",
+  "online": "2023-1",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Islam Debicha",
+   "Richard Bauwens",
+   "Thibault Debatty",
+   "Jean-Michel Dricot",
+   "Tayeb Kenaza",
+   "Wim Mees"
+  ],
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0167739X22002722",
+  "flags": [],
+  "abstract_s2": "Nowadays, intrusion detection systems based on deep learning deliver state-of-the-art performance. However, recent research has shown that specially crafted perturbations, called adversarial examples, are capable of signi\ufb01cantly reducing the performance of these intrusion detection systems. The objective of this paper is to design an ef\ufb01cient transfer learning-based adversarial detector and then to assess the effectiveness of using multiple strategically placed adversarial detectors compared to a single adversarial detector for intrusion detection systems. In our experiments, we implement existing state-of-the-art models for intrusion detection. We then attack those models with a set of chosen evasion attacks. In an attempt to detect those adversarial attacks, we design and implement multiple transfer learning-based adversarial detectors, each receiving a subset of the information passed through the IDS. By combining their respective decisions, we illustrate that combining multiple detectors can further improve the detectability of adversarial traf\ufb01c compared to a single detector in the case of a parallel IDS design."
+ },
+ {
+  "i": 21,
+  "role": "candidate",
+  "doi": "10.1016/j.cose.2023.103644",
+  "type": "journal-article",
+  "title": "A simple framework to enhance the adversarial robustness of deep learning-based intrusion detection system",
+  "journal": "Computers & Security",
+  "issn": [
+   "0167-4048"
+  ],
+  "issn_type": [
+   {
+    "value": "0167-4048",
+    "type": "print"
+   }
+  ],
+  "volume": "137",
+  "issue": null,
+  "page": "103644",
+  "online": "2024-2",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Xinwei Yuan",
+   "Shu Han",
+   "Wei Huang",
+   "Hongliang Ye",
+   "Xianglong Kong",
+   "Fan Zhang"
+  ],
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S0167404823005539",
+  "flags": [],
+  "abstract_s2": "Deep learning based intrusion detection systems (DL-based IDS) have emerged as one of the best choices for providing security solutions against various network intrusion attacks. However, due to the emergence and development of adversarial deep learning technologies, it becomes challenging for the adoption of DL models into IDS. In this paper, we propose a novel IDS architecture that can enhance the robustness of IDS against adversarial attacks by combining conventional machine learning (ML) models and Deep Learning models. The proposed DLL-IDS consists of three components: DL-based IDS, adversarial example (AE) detector, and ML-based IDS. We first develop a novel AE detector based on the local intrinsic dimensionality (LID). Then, we exploit the low attack transferability between DL models and ML models to find a robust ML model that can assist us in determining the maliciousness of AEs. If the input traffic is detected as an AE, the ML-based IDS will predict the maliciousness of input traffic, otherwise the DL-based IDS will work for the prediction. The fusion mechanism can leverage the high prediction accuracy of DL models and low attack transferability between DL models and ML models to improve the robustness of the whole system. In our experiments, we observe a significant improvement in the prediction performance of the IDS when subjected to adversarial attack, achieving high accuracy with low resource consumption."
+ },
+ {
+  "i": 22,
+  "role": "candidate",
+  "doi": "10.1016/j.cose.2023.103176",
+  "type": "journal-article",
+  "title": "Adv-Bot: Realistic adversarial botnet attacks against network intrusion detection systems",
+  "journal": "Computers & Security",
+  "issn": [
+   "0167-4048"
+  ],
+  "issn_type": [
+   {
+    "value": "0167-4048",
+    "type": "print"
+   }
+  ],
+  "volume": "129",
+  "issue": null,
+  "page": "103176",
+  "online": "2023-6",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Islam Debicha",
+   "Benjamin Cochez",
+   "Tayeb Kenaza",
+   "Thibault Debatty",
+   "Jean-Michel Dricot",
+   "Wim Mees"
+  ],
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S016740482300086X",
+  "flags": [],
+  "abstract_s2": "Due to the numerous advantages of machine learning (ML) algorithms, many applications now incorporate them. However, many studies in the field of image classification have shown that MLs can be fooled by a variety of adversarial attacks. These attacks take advantage of ML algorithms' inherent vulnerability. This raises many questions in the cybersecurity field, where a growing number of researchers are recently investigating the feasibility of such attacks against machine learning-based security systems, such as intrusion detection systems. The majority of this research demonstrates that it is possible to fool a model using features extracted from a raw data source, but it does not take into account the real implementation of such attacks, i.e., the reverse transformation from theory to practice. The real implementation of these adversarial attacks would be influenced by various constraints that would make their execution more difficult. As a result, the purpose of this study was to investigate the actual feasibility of adversarial attacks, specifically evasion attacks, against network-based intrusion detection systems (NIDS), demonstrating that it is entirely possible to fool these ML-based IDSs using our proposed adversarial algorithm while assuming as many constraints as possible in a black-box setting. In addition, since it is critical to design defense mechanisms to protect ML-based IDSs against such attacks, a defensive scheme is presented. Realistic botnet traffic traces are used to assess this work. Our goal is to create adversarial botnet traffic that can avoid detection while still performing all of its intended malicious functionality."
+ },
+ {
+  "i": 25,
+  "role": "candidate",
+  "doi": "10.1007/s11590-023-02007-7",
+  "type": "journal-article",
+  "title": "Constrained optimization based adversarial example generation for transfer attacks in network intrusion detection systems",
+  "journal": "Optimization Letters",
+  "issn": [
+   "1862-4472",
+   "1862-4480"
+  ],
+  "issn_type": [
+   {
+    "value": "1862-4472",
+    "type": "print"
+   },
+   {
+    "value": "1862-4480",
+    "type": "electronic"
+   }
+  ],
+  "volume": "18",
+  "issue": "9",
+  "page": "2169-2188",
+  "online": "2023-5-23",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Marc Chal\u00e9",
+   "Bruce Cox",
+   "Jeffery Weir",
+   "Nathaniel D. Bastian"
+  ],
+  "url": "https://link.springer.com/10.1007/s11590-023-02007-7",
+  "flags": [],
+  "abstract_s2": ""
+ },
+ {
+  "i": 26,
+  "role": "candidate",
+  "doi": "10.1016/j.heliyon.2023.e13520",
+  "type": "journal-article",
+  "title": "EIFDAA: Evaluation of an IDS with function-discarding adversarial attacks in the IIoT",
+  "journal": "Heliyon",
+  "issn": [
+   "2405-8440"
+  ],
+  "issn_type": [
+   {
+    "value": "2405-8440",
+    "type": "print"
+   }
+  ],
+  "volume": "9",
+  "issue": "2",
+  "page": "e13520",
+  "online": "2023-2",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Shiming Li",
+   "Jingxuan Wang",
+   "Yuhe Wang",
+   "Guohui Zhou",
+   "Yan Zhao"
+  ],
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S2405844023007272",
+  "flags": [],
+  "abstract_s2": "The complexity of the Industrial Internet of Things (IIoT) presents higher requirements for intrusion detection systems (IDSs). An adversarial attack is a threat to the security of machine learning-based IDSs. For such a complex situation, this paper analyses adversarial attackers\u2019 ability to deceive IDSs used in the IIoT and proposes the evaluation of an IDS with function-discarding adversarial attacks in the IIoT (EIFDAA), a framework that can evaluate the defence performance of machine learning-based IDSs against various adversarial attack algorithms. This framework is composed of two main processes: adversarial evaluation and adversarial training. Adversarial evaluation can diagnose IDS that is unfitting in adversarial environments. Then, adversarial training is used to treat the weak IDS. In this framework, five well-known adversarial attacks, the fast-gradient sign method (FGSM), basic iterative method (BIM), projected gradient descent (PGD), DeepFool and Wasserstein generative adversarial network with gradient penalty (WGAN-GP) are used to convert attack samples into adversarial samples to simulate the adversarial environment. This study evaluates the capability of mainstream machine learning techniques as intrusion detection models to defend against adversarial attacks, and retrains these detectors to improve the robustness of IDSs through adversarial training. In addition, the framework includes an adversarial attack model that discards the attack function of the attack samples in the IIoT. Through the experimental results on the X-IIoTID dataset, the dropped adversarial detection rate of these detectors to nearly zero demonstrates that an adversarial attack has black-box attack capabilities for these IDSs. Additionally, the improved IDSs retrained with adversarial samples can effectively defend against adversarial attackers while maintaining the original detection rate for the attack samples. EIFDAA is expected to be a solution that can be applied to IDS for improving the robustness in the IIoT."
+ },
+ {
+  "i": 29,
+  "role": "candidate",
+  "doi": "10.3390/s23187796",
+  "type": "journal-article",
+  "title": "SGAN-IDS: Self-Attention-Based Generative Adversarial Network against Intrusion Detection Systems",
+  "journal": "Sensors",
+  "issn": [
+   "1424-8220"
+  ],
+  "issn_type": [
+   {
+    "value": "1424-8220",
+    "type": "electronic"
+   }
+  ],
+  "volume": "23",
+  "issue": "18",
+  "page": "7796",
+  "online": "2023-9-11",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Sahar Aldhaheri",
+   "Abeer Alhuzali"
+  ],
+  "url": "https://www.mdpi.com/1424-8220/23/18/7796",
+  "flags": [],
+  "abstract_s2": "In cybersecurity, a network intrusion detection system (NIDS) is a critical component in networks. It monitors network traffic and flags suspicious activities. To effectively detect malicious traffic, several detection techniques, including machine learning-based NIDSs (ML-NIDSs), have been proposed and implemented. However, in much of the existing ML-NIDS research, the experimental settings do not accurately reflect real-world scenarios where new attacks are constantly emerging. Thus, the robustness of intrusion detection systems against zero-day and adversarial attacks is a crucial area that requires further investigation. In this paper, we introduce and develop a framework named SGAN-IDS. This framework constructs adversarial attack flows designed to evade detection by five BlackBox ML-based IDSs. SGAN-IDS employs generative adversarial networks and self-attention mechanisms to generate synthetic adversarial attack flows that are resilient to detection. Our evaluation results demonstrate that SGAN-IDS has successfully constructed adversarial flows for various attack types, reducing the detection rate of all five IDSs by an average of 15.93%. These findings underscore the robustness and broad applicability of the proposed model."
+ },
+ {
+  "i": 32,
+  "role": "candidate",
+  "doi": "10.3390/electronics13245030",
+  "type": "journal-article",
+  "title": "A Systematic Study of Adversarial Attacks Against Network Intrusion Detection Systems",
+  "journal": "Electronics",
+  "issn": [
+   "2079-9292"
+  ],
+  "issn_type": [
+   {
+    "value": "2079-9292",
+    "type": "electronic"
+   }
+  ],
+  "volume": "13",
+  "issue": "24",
+  "page": "5030",
+  "online": "2024-12-21",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Sanidhya Sharma",
+   "Zesheng Chen"
+  ],
+  "url": "https://www.mdpi.com/2079-9292/13/24/5030",
+  "flags": [],
+  "abstract_s2": "Network Intrusion Detection Systems (NIDSs) are vital for safeguarding Internet of Things (IoT) networks from malicious attacks. Modern NIDSs utilize Machine Learning (ML) techniques to combat evolving threats. This study systematically examined adversarial attacks originating from the image domain against ML-based NIDSs, while incorporating a diverse selection of ML models. Specifically, we evaluated both white-box and black-box attacks on nine commonly used ML-based NIDS models. We analyzed the Projected Gradient Descent (PGD) attack, which uses gradient descent on input features, transfer attacks, the score-based Zeroth-Order Optimization (ZOO) attack, and two decision-based attacks: Boundary and HopSkipJump. Using the NSL-KDD dataset, we assessed the accuracy of the ML models under attack and the success rate of the adversarial attacks. Our findings revealed that the black-box decision-based attacks were highly effective against most of the ML models, achieving an attack success rate exceeding 86% across eight models. Additionally, while the Logistic Regression and Multilayer Perceptron models were highly susceptible to all the attacks studied, the instance-based ML models, such as KNN and Label Spreading, exhibited resistance to these attacks. These insights will contribute to the development of more robust NIDSs against adversarial attacks in IoT environments."
+ },
+ {
+  "i": 34,
+  "role": "candidate",
+  "doi": "10.3390/s24123848",
+  "type": "journal-article",
+  "title": "Adversarial Attacks on Intrusion Detection Systems in In-Vehicle Networks of Connected and Autonomous Vehicles",
+  "journal": "Sensors",
+  "issn": [
+   "1424-8220"
+  ],
+  "issn_type": [
+   {
+    "value": "1424-8220",
+    "type": "electronic"
+   }
+  ],
+  "volume": "24",
+  "issue": "12",
+  "page": "3848",
+  "online": "2024-6-14",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Fatimah Aloraini",
+   "Amir Javed",
+   "Omer Rana"
+  ],
+  "url": "https://www.mdpi.com/1424-8220/24/12/3848",
+  "flags": [],
+  "abstract_s2": "Rapid advancements in connected and autonomous vehicles (CAVs) are fueled by breakthroughs in machine learning, yet they encounter significant risks from adversarial attacks. This study explores the vulnerabilities of machine learning-based intrusion detection systems (IDSs) within in-vehicle networks (IVNs) to adversarial attacks, shifting focus from the common research on manipulating CAV perception models. Considering the relatively simple nature of IVN data, we assess the susceptibility of IVN-based IDSs to manipulation\u2014a crucial examination, as adversarial attacks typically exploit complexity. We propose an adversarial attack method using a substitute IDS trained with data from the onboard diagnostic port. In conducting these attacks under black-box conditions while adhering to realistic IVN traffic constraints, our method seeks to deceive the IDS into misclassifying both normal-to-malicious and malicious-to-normal cases. Evaluations on two IDS models\u2014a baseline IDS and a state-of-the-art model, MTH-IDS\u2014demonstrated substantial vulnerability, decreasing the F1 scores from 95% to 38% and from 97% to 79%, respectively. Notably, inducing false alarms proved particularly effective as an adversarial strategy, undermining user trust in the defense mechanism. Despite the simplicity of IVN-based IDSs, our findings reveal critical vulnerabilities that could threaten vehicle safety and necessitate careful consideration in the development of IVN-based IDSs and in formulating responses to the IDSs\u2019 alarms."
+ },
+ {
+  "i": 36,
+  "role": "candidate",
+  "doi": "10.1109/tdsc.2023.3247585",
+  "type": "journal-article",
+  "title": "Automatic Evasion of Machine Learning-Based Network Intrusion Detection Systems",
+  "journal": "IEEE Transactions on Dependable and Secure Computing",
+  "issn": [
+   "1545-5971",
+   "1941-0018",
+   "2160-9209"
+  ],
+  "issn_type": [
+   {
+    "value": "1545-5971",
+    "type": "print"
+   },
+   {
+    "value": "1941-0018",
+    "type": "electronic"
+   },
+   {
+    "value": "2160-9209",
+    "type": "electronic"
+   }
+  ],
+  "volume": "21",
+  "issue": "1",
+  "page": "153-167",
+  "online": "2024-1",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Haonan Yan",
+   "Xiaoguang Li",
+   "Wenjing Zhang",
+   "Rui Wang",
+   "Hui Li",
+   "Xingwen Zhao",
+   "Fenghua Li",
+   "Xiaodong Lin"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10049650/",
+  "flags": [],
+  "abstract_s2": "Network intrusion detection systems (IDS) are often considered effective to thwart cyber attacks. Currently, state-of-the-art (SOTA) IDSs are mainly based on machine learning (ML) including deep learning (DL) models, which suffer from their own security issues, especially evasion attacks by using adversarial examples. However, previous studies mostly focus on extracted features rather than the traffic sample itself, and/or assume that the adversary knows the information of the target model more or less, which severely restricts attack feasibility in practice. In this paper, we re-investigate this problem in a more realistic label-only black-box scenario and propose a practical evasion attack strategy to solve the above limitations. In this newly considered case that the adversary morphs the traffic sample and only obtains the results accepted or rejected without other knowledge, we successfully leverage the model extraction and transfer attack to evade the detection. The entire attack strategy is automated and a comprehensive evaluation is performed. Final results show that the proposed strategy effectively evades seven typical ML-based IDSs and one SOTA DL-based IDS with an average success rate of over <inline-formula><tex-math notation=\"LaTeX\">$75\\%$</tex-math><alternatives><mml:math><mml:mrow><mml:mn>75</mml:mn><mml:mo>%</mml:mo></mml:mrow></mml:math><inline-graphic xlink:href=\"li-ieq1-3247585.gif\"/></alternatives></inline-formula>. We also discuss the corresponding countermeasures against our attack, which finally highlight the need for effective defenses against our attack."
+ },
+ {
+  "i": 38,
+  "role": "candidate",
+  "doi": "10.1016/j.inffus.2024.102529",
+  "type": "journal-article",
+  "title": "Comprehensive Botnet Detection by Mitigating Adversarial Attacks, Navigating the Subtleties of Perturbation Distances and Fortifying Predictions with Conformal Layers",
+  "journal": "Information Fusion",
+  "issn": [
+   "1566-2535"
+  ],
+  "issn_type": [
+   {
+    "value": "1566-2535",
+    "type": "print"
+   }
+  ],
+  "volume": "111",
+  "issue": null,
+  "page": "102529",
+  "online": "2024-11",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Rahul Yumlembam",
+   "Biju Issac",
+   "Seibu Mary Jacob",
+   "Longzhi Yang"
+  ],
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S1566253524003075",
+  "flags": [],
+  "abstract_s2": "Botnets are computer networks controlled by malicious actors that present significant cybersecurity challenges. They autonomously infect, propagate, and coordinate to conduct cybercrimes, necessitating robust detection methods. This research addresses the sophisticated adversarial manipulations posed by attackers, aiming to undermine machine learning-based botnet detection systems. We introduce a flow-based detection approach, leveraging machine learning and deep learning algorithms trained on the ISCX and ISOT datasets. The detection algorithms are optimized using the Genetic Algorithm and Particle Swarm Optimization to obtain a baseline detection method. The Carlini&Wagner (C&W) attack and Generative Adversarial Network (GAN) generate deceptive data with subtle perturbations, targeting each feature used for classification while preserving their semantic and syntactic relationships, which ensures that the adversarial samples retain meaningfulness and realism. An in-depth analysis of the required L2 distance from the original sample for the malware sample to misclassify is performed across various iteration checkpoints, showing different levels of misclassification at different L2 distances of the Pertrub sample from the original sample. Our work delves into the vulnerability of various models, examining the transferability of adversarial examples from a Neural Network surrogate model to Tree-based algorithms. Subsequently, models that initially misclassified the perturbed samples are retrained, enhancing their resilience and detection capabilities. In the final phase, a conformal prediction layer is integrated, significantly rejecting incorrect predictions, of 58.20 % in the ISCX dataset and 98.94 % in the ISOT dataset."
+ },
+ {
+  "i": 39,
+  "role": "candidate",
+  "doi": "10.1109/tnsm.2024.3357316",
+  "type": "journal-article",
+  "title": "Constraining Adversarial Attacks on Network Intrusion Detection Systems: Transferability and Defense Analysis",
+  "journal": "IEEE Transactions on Network and Service Management",
+  "issn": [
+   "1932-4537",
+   "2373-7379"
+  ],
+  "issn_type": [
+   {
+    "value": "1932-4537",
+    "type": "electronic"
+   },
+   {
+    "value": "2373-7379",
+    "type": "electronic"
+   }
+  ],
+  "volume": "21",
+  "issue": "3",
+  "page": "2751-2772",
+  "online": "2024-6",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Nour Alhussien",
+   "Ahmed Aleroud",
+   "Abdullah Melhem",
+   "Samer Y. Khamaiseh"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10411959/",
+  "flags": [],
+  "abstract_s2": "Adversarial attacks have been extensively studied in the domain of deep image classification, but their impacts on other domains such as Machine and Deep Learning-based Network Intrusion Detection Systems (NIDSs) have received limited attention. While adversarial attacks on images are generally more straightforward due to fewer constraints in the input domain, generating adversarial examples in the network domain poses greater challenges due to the diverse types of network traffic and the need to maintain its validity. Prior research has introduced constraints to generate adversarial examples against NIDSs, but their effectiveness across different attack settings, including transferability, targetability, defenses, and the overall attack success have not been thoroughly examined. In this paper, we proposed a novel set of domain constraints for network traffic that preserve the statistical and semantic relationships between traffic features while ensuring the validity of the perturbed adversarial traffic. Our constraints are categorized into four types: feature mutability constraints, feature value constraints, feature dependency constraints and distribution preserving constraints. We evaluated the impacts of these constraints on white box and black box attacks using two intrusion detection datasets. Our results demonstrated that the introduced constraints have a significant impact on the success of white box attacks. Our research revealed that transferability of adversarial examples depends on the similarity between the targeted models and the models to which the examples are transferred, regardless of the attack type or the presence of constraints. We also observed that adversarial training enhanced the robustness of the majority of machine learning and deep learning-based NIDSs against unconstrained attacks, while providing some resilience against constrained attacks. In practice, this suggests the potential use of pre-existing signatures of constrained attacks to combat new variations or zero-day adversarial attacks in real-world NIDSs."
+ },
+ {
+  "i": 42,
+  "role": "candidate",
+  "doi": "10.1109/tdsc.2025.3560486",
+  "type": "journal-article",
+  "title": "Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors",
+  "journal": "IEEE Transactions on Dependable and Secure Computing",
+  "issn": [
+   "1545-5971",
+   "1941-0018",
+   "2160-9209"
+  ],
+  "issn_type": [
+   {
+    "value": "1545-5971",
+    "type": "print"
+   },
+   {
+    "value": "1941-0018",
+    "type": "electronic"
+   },
+   {
+    "value": "2160-9209",
+    "type": "electronic"
+   }
+  ],
+  "volume": "22",
+  "issue": "5",
+  "page": "5090-5107",
+  "online": "2025-9",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Hangsheng Zhang",
+   "Dongqi Han",
+   "Shangyuan Zhuang",
+   "Zhiliang Wang",
+   "Jiyan Sun",
+   "Yinlong Liu",
+   "Jiqiang Liu",
+   "Jinsong Dong"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10964202/",
+  "flags": [],
+  "abstract_s2": "Despite being widely used in network intrusion detection systems (NIDSs), machine learning (ML) has proven to be vulnerable to adversarial attacks. Transparent-box and opaque-box adversarial ML attacks of NIDS have been explored in several studies. However, transparent-box attacks unrealistically assume that the attackers have full knowledge of the target NIDSs. Meanwhile, existing opaque-box attacks can not achieve high attack success rate due to the weak adversarial transferability between models (e.g., neural networks and tree models). Additionally, neither of them explains why adversarial examples exist and why they can transfer across models. To address these challenges, this article introduces ETA, an Explainable Transfer-based Opaque-Box Adversarial Attack framework. ETA aims to achieve two primary objectives: 1) create transferable adversarial examples applicable to various ML detectors and 2) provide insights into the existence of adversarial examples and their transferability within NIDSs. Specifically, we first provide a general transfer-based adversarial attack method applicable across the entire ML space. Following that, we exploit a unique insight based on cooperative game theory and perturbation interpretations to explain adversarial examples and adversarial transferability. On this basis, we propose an Important-Sensitive Feature Selection (ISFS) method to guide the search for adversarial examples, achieving stronger transferability and ensuring traffic-space constraints. Finally, the experimental results on three NIDSs datasets show that our method performs significantly effectively against several classical and state-of-the-art ML classifiers, outperforming the latest baselines. We conduct three interpretation experiments and two cases to verify our interpretation method\u2019s correctness. Meanwhile, we uncover two major misconceptions about applying machine learning to NIDSs systems."
+ },
+ {
+  "i": 49,
+  "role": "candidate",
+  "doi": "10.3390/s24082626",
+  "type": "journal-article",
+  "title": "RobEns: Robust Ensemble Adversarial Machine Learning Framework for Securing IoT Traffic",
+  "journal": "Sensors",
+  "issn": [
+   "1424-8220"
+  ],
+  "issn_type": [
+   {
+    "value": "1424-8220",
+    "type": "electronic"
+   }
+  ],
+  "volume": "24",
+  "issue": "8",
+  "page": "2626",
+  "online": "2024-4-19",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Sarah Alkadi",
+   "Saad Al-Ahmadi",
+   "Mohamed Maher Ben Ismail"
+  ],
+  "url": "https://www.mdpi.com/1424-8220/24/8/2626",
+  "flags": [],
+  "abstract_s2": "Recently, Machine Learning (ML)-based solutions have been widely adopted to tackle the wide range of security challenges that have affected the progress of the Internet of Things (IoT) in various domains. Despite the reported promising results, the ML-based Intrusion Detection System (IDS) proved to be vulnerable to adversarial examples, which pose an increasing threat. In fact, attackers employ Adversarial Machine Learning (AML) to cause severe performance degradation and thereby evade detection systems. This promoted the need for reliable defense strategies to handle performance and ensure secure networks. This work introduces RobEns, a robust ensemble framework that aims at: (i) exploiting state-of-the-art ML-based models alongside ensemble models for IDSs in the IoT network; (ii) investigating the impact of evasion AML attacks against the provided models within a black-box scenario; and (iii) evaluating the robustness of the considered models after deploying relevant defense methods. In particular, four typical AML attacks are considered to investigate six ML-based IDSs using three benchmarking datasets. Moreover, multi-class classification scenarios are designed to assess the performance of each attack type. The experiments indicated a drastic drop in detection accuracy for some attempts. To harden the IDS even further, two defense mechanisms were derived from both data-based and model-based methods. Specifically, these methods relied on feature squeezing as well as adversarial training defense strategies. They yielded promising results, enhanced robustness, and maintained standard accuracy in the presence or absence of adversaries. The obtained results proved the efficiency of the proposed framework in robustifying IDS performance within the IoT context. In particular, the accuracy reached 100% for black-box attack scenarios while preserving the accuracy in the absence of attacks as well."
+ },
+ {
+  "i": 51,
+  "role": "candidate",
+  "doi": "10.1109/tii.2024.3435532",
+  "type": "journal-article",
+  "title": "Toward Transferable Adversarial Attacks Against Autoencoder-Based Network Intrusion Detectors",
+  "journal": "IEEE Transactions on Industrial Informatics",
+  "issn": [
+   "1551-3203",
+   "1941-0050"
+  ],
+  "issn_type": [
+   {
+    "value": "1551-3203",
+    "type": "print"
+   },
+   {
+    "value": "1941-0050",
+    "type": "electronic"
+   }
+  ],
+  "volume": "20",
+  "issue": "12",
+  "page": "13863-13872",
+  "online": "2024-12",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Yihang Zhang",
+   "Yingwen Wu",
+   "Xiaolin Huang"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10636332/",
+  "flags": [],
+  "abstract_s2": "Deploying machine learning (ML)-based network intrusion detection systems has become a mainstream solution to improve the security of network efficiently. However, recent research has shown that ML models are vulnerable to adversarial examples. It is a formidable challenge for attackers to obtain the structure and gradients of intrusion detectors, thus transferable adversarial attacks that can deceive the unknown models pose a greater threat in practical scenarios. In this work, our goal is to investigate the cross-model transferability of adversarial examples toward autoencoder (AE)-based network intrusion detectors. Unlike adversarial methods in the image domain focusing on the distance between benign input and adversarial example, adversarial algorithms in network field emphasize complying with network protocols and maintaining malicious payload. We first introduce the common adversarial attacks in the image domain into AE-based network intrusion detectors with constraints. The experimental results show that iterative attacks perform better than single-step attacks against different AE-based models. At the same time, we discover that the transferable adversarial attacks in image domain are not very effective in facilitating the transferability of adversarial examples in this scenario because of fewer changeable features. To address this issue, from the perspective of the substitute model, we propose linear autoencoder (LAE) which is simply removed the activation functions of AE model but shares the same main structure with the original model. Extensive experimental evaluation demonstrates that by employing LAE as the source model, the transferability of both gradient-based and optimization-based adversarial attack methods can be improved significantly."
+ },
+ {
+  "i": 57,
+  "role": "candidate",
+  "doi": "10.63180/jcsra.thestap.2025.3.2",
+  "type": "journal-article",
+  "title": "Adversarial Attack Detection in Industrial Control Systems Using LSTM-Based Intrusion Detection and Black-Box Defense Strategies",
+  "journal": "Journal of Cyber Security and Risk Auditing",
+  "issn": [
+   "3079-5354"
+  ],
+  "issn_type": [
+   {
+    "value": "3079-5354",
+    "type": "electronic"
+   }
+  ],
+  "volume": "2025",
+  "issue": "3",
+  "page": "4-22",
+  "online": "2025-5-5",
+  "publisher": "Smart Technologies Academic Press",
+  "authors": [
+   " ",
+   "Motaz Abdulaziz Almedires",
+   "Ahmed Elkhalil",
+   " ",
+   "Mohammed Amin",
+   " "
+  ],
+  "url": "https://jcsra.thestap.com/archives/volume-2025-3/6818db039d598c59e2e5c9ff",
+  "flags": [],
+  "abstract_s2": "In industrial control systems (ICS), neural networks are increasingly being utilized to detect intrusions. The term ICS refers to a group of controlling technology and associated equipment that includes the devices, systems, networks, and controllers that are used to manage and/or execute manufacturing processes. Each ICS is developed to successfully handle work digitally and operates differently depending on the business. ICS devices and procedures are now found in practically every industry sector and key infrastructure, including production, transportation, power, and treatment plants. To avoid detection, attackers who aim to inflict harm on an ICS may resort to techniques such as adversarial examples to mask their attacks. ICS-based autoregressive intrusion detection systems (IDSs) are the focus of this study because of the unique issues that arise when being attacked. The attacker here is an LSTM-based IDS that can compromise a ICSs subset of sensors. In the wild cyber-physical attacks take place in ICSs that are masked from the IDS by the attacker manipulating data provided to it. Automation of ICS intrusion detection has become more flexible and efficient thanks to the growth and use of IDSs based on machine learning. Adversarial machine learning (AML), a term coined to describe cyberattacks on learning models, has been formed developed in response to the advent of the IDS. In ICSs, such attacks can have disastrous repercussions if the IDS is bypassed. Delay in attack detection could lead to damage to infrastructure, financial loss, and even human life. In this study we are proposing a defense study method that have been effective in combatting adversarial threats to ICSs and to assess adversarial attacks successfully in real-world circumstances. We are proposing a security solution IDS which can detect an adversarial attack on the industrial control system. We were able in this study to detect a black box attack by conducting DDoS attack scenario trained by black box adversarial attack in the ICS environment and use data from an ICS to train a classification model and test the ability to detect cyber intrusions in a similar context using IDS."
+ },
+ {
+  "i": 58,
+  "role": "candidate",
+  "doi": "10.29304/jqcsm.2025.17.42554",
+  "type": "journal-article",
+  "title": "Adversarial Robustness of Network IDS (Structured Data)",
+  "journal": "Journal of Al-Qadisiyah for Computer Science and Mathematics",
+  "issn": [
+   "2521-3504",
+   "2074-0204"
+  ],
+  "issn_type": [
+   {
+    "value": "2521-3504",
+    "type": "electronic"
+   },
+   {
+    "value": "2074-0204",
+    "type": "print"
+   }
+  ],
+  "volume": "17",
+  "issue": "4",
+  "page": null,
+  "online": "2025-12-30",
+  "publisher": "Journal of Al-Qadisiyah for Computer Science and Mathematics",
+  "authors": [
+   " Haedar Ahmed Mukhef"
+  ],
+  "url": "https://jqcsm.qu.edu.iq/index.php/journalcm/article/view/2554",
+  "flags": [],
+  "abstract_s2": "Network intrusion detection systems (NIDS) trained on tabular flows are vulnerable to constrained evasion, where an attacker perturbs few features while preserving protocol semantics and valid ranges. This paper addresses two gaps: (i) the absence of a standardized, constraint-aware robustness evaluation for tabular NIDS, and (ii) the lack of defenses that remain effective under such realistic, semantics-preserving attacks. We propose a measurement framework that formalizes attacker budgets and constraint sets, instantiates reproducible attacks, and benchmarks models on UNSW-NB15 and BoT-IoT. As a defense, we train a TabTransformer with constraint-respecting adversarial examples and feature tokenization that groups mixed-type attributes. Across both datasets and multiple attack budgets, the adversarially trained TabTransformer consistently outperforms tuned tree-based ensembles under constrained attacks while maintaining competitive clean accuracy. Ablations show robust optimization and tokenization jointly reduce attack success and transferability. Our findings provide practitioners with a concrete, reproducible pathway to deploy attack-aware tabular NIDS and establish a baseline for future robustness studies in operational network environments"
+ },
+ {
+  "i": 59,
+  "role": "candidate",
+  "doi": "10.1109/access.2025.3567038",
+  "type": "journal-article",
+  "title": "Adversarial Threats to Cloud IDS: Robust Defense With Adversarial Training and Feature Selection",
+  "journal": "IEEE Access",
+  "issn": [
+   "2169-3536"
+  ],
+  "issn_type": [
+   {
+    "value": "2169-3536",
+    "type": "electronic"
+   }
+  ],
+  "volume": "13",
+  "issue": null,
+  "page": "84992-85003",
+  "online": "2025",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Hariprasad Holla",
+   "Shashidhar Reddy Polepalli",
+   "Arun Ambika Sasikumar"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10985899/",
+  "flags": [],
+  "abstract_s2": "The increasing adoption of cloud-based infrastructures necessitates robust cybersecurity measures, particularly in Intrusion Detection Systems (IDS). While Machine Learning (ML)-based IDS solutions improve attack detection, they remain highly vulnerable to adversarial attacks, where subtle perturbations deceive the model and evade detection. This paper explicitly evaluates the impact of Fast Gradient Sign Method (FGSM), Projected Gradient Descent (PGD), and DeepFool attacks on ML-based IDS models trained on the CSE-CIC-IDS2018 dataset. Our findings clearly indicate that these attacks significantly degrade detection accuracy, with FGSM explicitly reducing accuracy from 85% to 60%, PGD explicitly to 55%, and DeepFool explicitly to 50%. Additionally, our explicit evaluation using the black-box Square Attack demonstrates a significant accuracy reduction to 63%, clearly underscoring IDS susceptibility to practical adversarial threats. To mitigate these vulnerabilities, we explicitly propose a dual-layered defense strategy: (i) adversarial training, explicitly incorporating adversarial examples into model training to improve robustness, and (ii) SHAP-based robust feature selection, explicitly enhancing interpretability and resilience by identifying stable, attack-resistant features. SHAP analysis explicitly reveals that protocol-based and statistical traffic attributes are particularly susceptible to adversarial manipulations. Explicit computational overhead analysis demonstrates that our proposed defense approach introduces modest additional training complexity (approximately 25% overhead) without significantly impacting inference speed, explicitly confirming practical feasibility for real-time deployment. Our defense mechanisms explicitly restore detection accuracy to 88% against gradient-based attacks and 84% against black-box attacks, explicitly reducing adversarial success rates by up to 40%. By explicitly integrating adversarial defenses with SHAP-based interpretability, this research explicitly strengthens IDS frameworks against diverse evasion attacks while explicitly enhancing model transparency and practical applicability."
+ },
+ {
+  "i": 60,
+  "role": "candidate",
+  "doi": "10.15625/1813-9663/22884",
+  "type": "journal-article",
+  "title": "Adversarial attack and defense in AI-powered intrusion detection",
+  "journal": "Journal of Computer Science and Cybernetics",
+  "issn": [
+   "2815-5939",
+   "1813-9663"
+  ],
+  "issn_type": [
+   {
+    "value": "2815-5939",
+    "type": "electronic"
+   },
+   {
+    "value": "1813-9663",
+    "type": "print"
+   }
+  ],
+  "volume": "41",
+  "issue": "4",
+  "page": "387-402",
+  "online": "2025-11-11",
+  "publisher": "Publishing House for Science and Technology, Vietnam Academy of Science and Technology (Publications)",
+  "authors": [
+   "Tuyen T. Nguyen",
+   "Uyen H. Tran",
+   "Hoa N. Nguyen"
+  ],
+  "url": "https://vjs.ac.vn/jcc/article/view/22884",
+  "flags": [],
+  "abstract_s2": "The increasing sophistication of cyberattacks, causing global damages estimated at $9.22 trillion in 2024, highlights the critical importance of robust Intrusion Detection Systems (IDS). AI-driven IDS frameworks, such as APELID, demonstrate impressive detection accuracy leveraging novel machine learning. However, these systems remain vulnerable to adversarial machine learning (AML) attacks, which craft deceptive inputs to bypass detection mechanisms. In this paper, we propose APELID+, an enhanced IDS framework integrating adversarial training and feature squeezing techniques to effectively counter AML threats. We systematically evaluate APELID\u2019s vulnerabilities using comprehensive adversarial attack strategies, including both white-box (FGSM, JSMA, PGD, DeepFool, CW) and black-box attacks (ZOO, HSJA). Experimental results on the CSE-CIC-IDS2018 dataset reveal a significant reduction in APELID\u2019s accuracy (from 99.7% to as low as 1.14% under FGSM attacks). The enhanced APELID+ achieves robust performance, maintaining 98.73% accuracy under combined adversarial conditions, surpassing state-of-the-art methods such as Apollon and RAIDS."
+ },
+ {
+  "i": 62,
+  "role": "candidate",
+  "doi": "10.1145/3737294",
+  "type": "journal-article",
+  "title": "Assessing the Resilience of Automotive Intrusion Detection Systems to Adversarial Manipulation",
+  "journal": "ACM Transactions on Cyber-Physical Systems",
+  "issn": [
+   "2378-962X",
+   "2378-9638"
+  ],
+  "issn_type": [
+   {
+    "value": "2378-962X",
+    "type": "print"
+   },
+   {
+    "value": "2378-9638",
+    "type": "electronic"
+   }
+  ],
+  "volume": "9",
+  "issue": "3",
+  "page": "1-27",
+  "online": "2025-8-4",
+  "publisher": "Association for Computing Machinery (ACM)",
+  "authors": [
+   "Stefano Longari",
+   "Paolo Cerracchio",
+   "Michele Carminati",
+   "Stefano Zanero"
+  ],
+  "url": "https://dl.acm.org/doi/10.1145/3737294",
+  "flags": [],
+  "abstract_s2": "The security of modern vehicles has become increasingly important, with the controller area network (CAN) bus serving as a critical communication backbone for various electronic control units (ECUs). The absence of robust security measures in CAN, coupled with the increasing connectivity of vehicles, makes them susceptible to cyberattacks. While intrusion detection systems (IDSs) have been developed to counter such threats, they are not foolproof. Adversarial attacks, particularly evasion attacks, can manipulate inputs to bypass detection by IDSs. This article extends our previous work by investigating the feasibility and impact of gradient-based adversarial attacks performed with different degrees of knowledge against automotive IDSs. We consider three scenarios: white-box (attacker with full system knowledge), grey-box (partial system knowledge), and\u2014the more realistic\u2014black-box (no knowledge of the IDS\u2019s internal workings or data). We evaluate the effectiveness of the proposed attacks against state-of-the-art IDSs on two publicly available datasets. Additionally, we study the effect of the adversarial perturbation on the attack impact and evaluate real-time feasibility by precomputing evasive payloads for timed injection based on bus traffic. Our results demonstrate that, besides attacks being challenging due to the automotive domain constraints, their effectiveness is strongly dependent on the dataset quality, the target IDS, and the attacker\u2019s degree of knowledge."
+ },
+ {
+  "i": 63,
+  "role": "candidate",
+  "doi": "10.1109/access.2025.3587605",
+  "type": "journal-article",
+  "title": "Breaking and Healing: GAN-Based Adversarial Attacks and Post-Adversarial Recovery for 5G IDSs",
+  "journal": "IEEE Access",
+  "issn": [
+   "2169-3536"
+  ],
+  "issn_type": [
+   {
+    "value": "2169-3536",
+    "type": "electronic"
+   }
+  ],
+  "volume": "13",
+  "issue": null,
+  "page": "132109-132125",
+  "online": "2025",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Yasmeen Alslman",
+   "Mouhammd Alkasassbeh",
+   "Mohammad J. Abdel-Rahman"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11075744/",
+  "flags": [
+   "has-preprint"
+  ],
+  "abstract_s2": "Generative adversarial networks (GANs) have advanced rapidly in data augmentation and generation, and researchers have been exploring their applications in other areas, including adversarial attack generation. GANs have significantly improved the field of adversarial attacks, especially against intrusion detection systems (IDSs). These highly sophisticated GAN-based attacks pose a significant threat to IDS security. Addressing the challenges posed by GAN-based adversarial attacks is crucial for assessing their impact and developing robust defense mechanisms. In this paper, we propose new adversarial attack generation techniques derived from advanced GAN architectures. The effectiveness of these attacks, which are based on sophisticated types of GANs, is evaluated against three multi-class IDSs designed for 5G networks. Comprehensive experiments are conducted to evaluate the effectiveness of each GAN in exploiting IDS vulnerabilities and examine the transferability of adversarial attacks across different IDSs, considering the quality of the adversarial samples generated. Exploring these sophisticated GANs for adversarial attack generation enables us to develop a new post-adversarial recovery mechanism based on reconstructing the adversarial samples. Moreover, to thoroughly assess the capabilities of the proposed techniques, new evaluation metrics are introduced to facilitate a comprehensive analysis of the system\u2019s vulnerabilities. Our results show that the proposed GAN-based adversarial attacks can significantly impact IDSs by achieving a high attack success rate (ASR) and drastically reducing accuracy, recall, precision, and F1 score. However, the proposed post-adversarial recovery process effectively restores the IDSs\u2019 performance while significantly reducing the ASR."
+ },
+ {
+  "i": 65,
+  "role": "candidate",
+  "doi": "10.1109/tdsc.2025.3562600",
+  "type": "journal-article",
+  "title": "CARD: Robustness-Preserving Transfer Learning for Network Intrusion Detection via Contrastive Adversarial Representation Distillation",
+  "journal": "IEEE Transactions on Dependable and Secure Computing",
+  "issn": [
+   "1545-5971",
+   "1941-0018",
+   "2160-9209"
+  ],
+  "issn_type": [
+   {
+    "value": "1545-5971",
+    "type": "print"
+   },
+   {
+    "value": "1941-0018",
+    "type": "electronic"
+   },
+   {
+    "value": "2160-9209",
+    "type": "electronic"
+   }
+  ],
+  "volume": "22",
+  "issue": "5",
+  "page": "5134-5151",
+  "online": "2025-9",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Mengdie Huang",
+   "Yingjun Lin",
+   "Ninghui Li",
+   "Xiaofeng Chen",
+   "Elisa Bertino"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10970424/",
+  "flags": [],
+  "abstract_s2": "Robust neural networks are essential to build network intrusion detection systems resilient to evasion attacks. Learning such models via adversarial training demands extensive labeled data and high model capacity, making it impractical in evolving, resource-constrained threat environments. Transfer learning (TL) uses pre-trained models to enhance downstream tasks, offering a promising mitigation approach. However, most TL approaches prioritize performance on clean examples without addressing robustness against adversarial examples and random variations. Our empirical study reveals that standard fine-tuning and distillation often yield accurate but not robust models, while the few existing adversarial TL provide limited robustness. In this article, we propose a novel robustness-preserving TL framework, <underline>C</underline>ontrastive <underline>A</underline>dversarial <underline>R</underline>epresentation <underline>D</underline>istillation (<monospace>CARD</monospace>), to generate a robust target model by transferring robustness and performance from a <italic>robust source model</italic> into the target task. <monospace>CARD</monospace> tackles three issues: (i) target domain data scarcity; (ii) differences in data domains and model architectures between target and source tasks; and (iii) target model robustness against static and adaptive evasion attacks, and natural corruptions. Experiments on binary and multiclass detection show that <monospace>CARD</monospace> outperforms state-of-the-art methods in various TL tasks across data domains and model architectures when only 5% training data is available, achieving 17.67<inline-formula><tex-math notation=\"LaTeX\">$\\%$</tex-math><alternatives><mml:math><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href=\"chen-ieq1-3562600.gif\"/></alternatives></inline-formula> and 8.38<inline-formula><tex-math notation=\"LaTeX\">$\\%$</tex-math><alternatives><mml:math><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href=\"chen-ieq2-3562600.gif\"/></alternatives></inline-formula> higher adversarial robust accuracy as well as 9.75<inline-formula><tex-math notation=\"LaTeX\">$\\%$</tex-math><alternatives><mml:math><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href=\"chen-ieq3-3562600.gif\"/></alternatives></inline-formula> and 11.42<inline-formula><tex-math notation=\"LaTeX\">$\\%$</tex-math><alternatives><mml:math><mml:mo>%</mml:mo></mml:math><inline-graphic xlink:href=\"chen-ieq4-3562600.gif\"/></alternatives></inline-formula> higher natural robust accuracy than adversarial fine-tuning and distillation."
+ },
+ {
+  "i": 70,
+  "role": "candidate",
+  "doi": "10.1016/j.jnca.2025.104255",
+  "type": "journal-article",
+  "title": "Exploring transferable adversarial attacks for Deep Learning-based Network Intrusion Detection",
+  "journal": "Journal of Network and Computer Applications",
+  "issn": [
+   "1084-8045"
+  ],
+  "issn_type": [
+   {
+    "value": "1084-8045",
+    "type": "print"
+   }
+  ],
+  "volume": "242",
+  "issue": null,
+  "page": "104255",
+  "online": "2025-10",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Zhongshu Mao",
+   "Yiqin Lu",
+   "Zhe Cheng",
+   "Kaiqiong Chen"
+  ],
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S1084804525001523",
+  "flags": [],
+  "abstract_s2": ""
+ },
+ {
+  "i": 76,
+  "role": "candidate",
+  "doi": "10.1109/jiot.2025.3586721",
+  "type": "journal-article",
+  "title": "NonsaliencyCrossover: A Novel Adversarial Example Generation Strategy for IDS Using Explainable AI",
+  "journal": "IEEE Internet of Things Journal",
+  "issn": [
+   "2327-4662",
+   "2372-2541"
+  ],
+  "issn_type": [
+   {
+    "value": "2327-4662",
+    "type": "electronic"
+   },
+   {
+    "value": "2372-2541",
+    "type": "electronic"
+   }
+  ],
+  "volume": "12",
+  "issue": "18",
+  "page": "38680-38696",
+  "online": "2025-9-15",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Jing Zhang",
+   "Qi Dai",
+   "Xu Zhou",
+   "Lifang Chen"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11072432/",
+  "flags": [],
+  "abstract_s2": "System vulnerability can be exposed through adversarial attack, facilitating the improvement of system robustness. However, existing research has predominantly focused on white-box attacks, which typically require access to system parameter information, thus limiting the attack conditions. In contrast, research on black-box attacks is relatively scarce, and there is a lack of innovative adversarial attack methods specifically tailored for structured data. Therefore, in conjunction with Explainable AI, we propose a novel simple, fast and efficient black-box technique to generate adversarial example, focusing on the attack perspective. The proposed method constructs new traffic data by performing a crossover operation between the nonsaliency portion of the original traffic and the corresponding portion of the candidate traffic. A combination that successfully alters the prediction results of the original sample is obtained through a search strategy based on random sampling and iterative update, and the initial adversarial example is generated. To make the number of modified features and the magnitude of perturbations minimized, the integration feature selection and perturbation control strategies were performed, generating the final adversarial example. In order to verify the performance of the method in evading intrusion detection system (IDS), we compared it against six state-of-the-art attack algorithms. The experimental results show that the proposed method outperforms the compared black-box methods in terms of attack success rate (ASR) and query count on the three datasets, and in most cases, it even surpasses the compared white-box attack methods. Specifically, against the NSL-KDD dataset, when the target model is a deep neural network (DNN), the ASR increases by 29%\u201333%, and the query count is reduced by 23\u201333 times compared to the baseline black-box methods; the average number of modified features decreases by 90% compared to the white-box methods."
+ },
+ {
+  "i": 80,
+  "role": "candidate",
+  "doi": "10.1155/int/1500333",
+  "type": "journal-article",
+  "title": "Securing Data Privacy in NIDS: Black\u2010Box Adversarial Attacks",
+  "journal": "International Journal of Intelligent Systems",
+  "issn": [
+   "0884-8173",
+   "1098-111X"
+  ],
+  "issn_type": [
+   {
+    "value": "0884-8173",
+    "type": "print"
+   },
+   {
+    "value": "1098-111X",
+    "type": "electronic"
+   }
+  ],
+  "volume": "2025",
+  "issue": "1",
+  "page": "1500333",
+  "online": "2025-10-31",
+  "publisher": "Wiley",
+  "authors": [
+   "Dawei Xu",
+   "Yunfang Liang",
+   "Yunfan Yang",
+   "Yajie Wang",
+   "Baokun Zheng",
+   "Chuan Zhang",
+   "Liehuang Zhu"
+  ],
+  "url": "https://onlinelibrary.wiley.com/doi/10.1155/int/1500333",
+  "flags": [],
+  "abstract_s2": "With the increasing importance of privacy and data security in network communications, network intrusion detection systems (NIDSs) play a vital role in safeguarding against unauthorized access and data breaches. NIDSs utilize machine learning or deep learning models to distinguish between normal and malicious traffic, taking preventive actions when suspicious activities are identified. However, the vulnerability of these models to adversarial attacks poses a significant threat to data privacy and security. Attackers can exploit adversarial attacks to evade NIDS detection, potentially leading to the compromise of sensitive information. Existing research on adversarial attacks primarily focuses on white\u2010box scenarios, which assume attackers have complete knowledge of the target model. This assumption is unrealistic in real\u2010world scenarios. Moreover, adversarial examples generated through random perturbations or unconstrained methods are often easily detectable by classifiers, and they may not retain the full attack capabilities. To address these issues, this article explores a black\u2010box adversarial attack approach, using alternative model algorithms to obtain the output of the target model without requiring detailed model information and utilizing adversarial sample generation method (A\u2010M) with realistic constraints for adversarial attacks, which is more aligned with real\u2010world data privacy and security issues. When evaluating the method proposed in this article, deep neural network (DNN) was used as the basic model and compared with various models in experiments. Comparing the generated adversarial examples with the original NSL\u2010KDD dataset and KDD\u2010CUP 99 dataset, the accuracy decreased to around 50% in binary and multiclassification scenarios, demonstrating the effectiveness of this method."
+ },
+ {
+  "i": 82,
+  "role": "candidate",
+  "doi": "10.1007/s40747-025-02115-0",
+  "type": "journal-article",
+  "title": "Vulnerability disclosure through adaptive black-box adversarial attacks in network intrusion detection systems",
+  "journal": "Complex & Intelligent Systems",
+  "issn": [
+   "2199-4536",
+   "2198-6053"
+  ],
+  "issn_type": [
+   {
+    "value": "2199-4536",
+    "type": "print"
+   },
+   {
+    "value": "2198-6053",
+    "type": "electronic"
+   }
+  ],
+  "volume": "12",
+  "issue": "1",
+  "page": "18",
+  "online": "2025-11-25",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Sabrine Ennaji",
+   "Elhadj Benkhelifa",
+   "Luigi Vincenzo Mancini"
+  ],
+  "url": "https://link.springer.com/10.1007/s40747-025-02115-0",
+  "flags": [],
+  "abstract_s2": "Adversarial attacks, wherein slight inputs are carefully crafted to mislead intelligent models, have attracted increasing attention. However, a critical gap persists between theoretical advancements and practical application, particularly in structured data like network traffic, where interdependent features complicate effective adversarial manipulations. Moreover, ambiguity in current approaches restricts reproducibility and limits progress in this field. Hence, existing defenses often fail to handle evolving adversarial attacks. This paper proposes a novel approach for black-box adversarial attacks that addresses these limitations. Unlike prior work, which often assumes system access or relies on repeated probing, our method strictly respects black-box constraints, reducing interaction to avoid detection and better reflect real-world scenarios. We present an adaptive feature selection strategy using change-point detection and causality analysis to identify and target sensitive features for perturbation. This lightweight design ensures low computational cost and high deployability. Our comprehensive experiments show the attack\u2019s effectiveness in evading detection with minimal interaction, enhancing its adaptability and applicability in real-world scenarios. By advancing the understanding of adversarial attacks in network traffic, this work lays a foundation for developing robust defenses."
+ },
+ {
+  "i": 83,
+  "role": "candidate",
+  "doi": "10.1007/s10207-025-01016-0",
+  "type": "journal-article",
+  "title": "Xai-driven black-box adversarial attacks on network intrusion detectors",
+  "journal": "International Journal of Information Security",
+  "issn": [
+   "1615-5262",
+   "1615-5270"
+  ],
+  "issn_type": [
+   {
+    "value": "1615-5262",
+    "type": "print"
+   },
+   {
+    "value": "1615-5270",
+    "type": "electronic"
+   }
+  ],
+  "volume": "24",
+  "issue": "3",
+  "page": "103",
+  "online": "2025-3-26",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Satoshi Okada",
+   "Houda Jmila",
+   "Kunio Akashi",
+   "Takuho Mitsunaga",
+   "Yuji Sekiya",
+   "Hideki Takase",
+   "Gregory Blanc",
+   "Hiroshi Nakamura"
+  ],
+  "url": "https://link.springer.com/10.1007/s10207-025-01016-0",
+  "flags": [],
+  "abstract_s2": "Deep Learning (DL) technologies have recently gained significant attention and have been applied to Network Intrusion Detection Systems (NIDS). However, DL is known to be vulnerable to adversarial attacks, which evade detection by introducing perturbations to input data. Meanwhile, eXplainable Artificial Intelligence (XAI) helps us to understand predictions made by DL models and is an essential technology for ensuring accountability. We have already pointed out that XAI is also helpful in identifying important features when making predictions and proposed XAI-driven white-box adversarial attacks on DL-based NIDS. In this study, we extend this work by transitioning from white-box to black-box attacks, thereby increasing the practical applicability of our methods. Furthermore, we implemented our proposed method in a real-world network environment and demonstrated the general effectiveness of our proposed method by targeting multiple NIDS models. Our experimental results show that the proposed black-box attacks achieve high evasion rates without compromising the malicious nature of the attack communications."
+ },
+ {
+  "i": 86,
+  "role": "candidate",
+  "doi": "10.1109/access.2025.3649307",
+  "type": "journal-article",
+  "title": "Adversarial Attack on CAN IDS Leveraging Multi-DDQN Agent",
+  "journal": "IEEE Access",
+  "issn": [
+   "2169-3536"
+  ],
+  "issn_type": [
+   {
+    "value": "2169-3536",
+    "type": "electronic"
+   }
+  ],
+  "volume": "14",
+  "issue": null,
+  "page": "13445-13462",
+  "online": "2026",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Yeonjeong Hwang",
+   "Jiwon Yun",
+   "Hyunjin Jang",
+   "Thi-Thu-Huong Le",
+   "Junyoung Son"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11318015/",
+  "flags": [],
+  "abstract_s2": "As Controller Area Network (CAN) Intrusion Detection Systems (IDS) become increasingly sophisticated and incorporate deep learning architectures, adversarial attacks have evolved correspondingly over the past decade. To assess the vulnerability of deep learning-based CAN IDS to evasion attacks, we developed a Double Deep Q-Network (DDQN) agent capable of performing adversarial attacks against two critical attack types: Denial of Service (DoS) and Fuzzing attacks. Our methodology employs reinforcement learning to systematically discover perturbation strategies that can evade detection while maintaining attack functionality. We evaluated our approach across eight different IDS architectures, including RNN variants (RNN, LSTM, GRU) and Transformer-based models, using augmented datasets collected from two distinct vehicle environments (2016 Chevrolet Silverado and 2017 Subaru Forester). To enhance dataset diversity and address class imbalance, we applied data augmentation techniques including CaringCaribou-based attack generation and SMOTE-ENN hybrid sampling. Experimental results demonstrate remarkable attack effectiveness across different architectures and vehicle platforms. The DDQN agent achieved a perfect 100% evasion success rate against all RNN-variant IDS models when tested with fuzzing attacks on the training vehicle dataset, demonstrating strong transferability with an average 98.6% success rate on a different vehicle dataset. For DoS attacks, the agent exhibited variable performance with an overall average success rate of 49.32%, revealing dataset-specific vulnerabilities where success rates ranged from moderate performance on one vehicle dataset to near-perfect evasion on another. Notably, Transformer-based IDS demonstrated significantly greater robustness against both attack types compared to RNN variants, with success rates dropping to 66.77% for Fuzzing attacks on one dataset and complete resistance (0% success rate) on another. These findings highlight the importance of architectural diversity in building resilient IDS systems and underscore the persistent vulnerabilities of current deep learning approaches to sophisticated adversarial attacks. Our work contributes to the understanding of adversarial threats in automotive cybersecurity and emphasizes the need for adversarial-aware defense mechanisms in critical vehicle network infrastructures."
+ },
+ {
+  "i": 89,
+  "role": "candidate",
+  "doi": "10.5815/ijitcs.2026.04.11",
+  "type": "journal-article",
+  "title": "Adversarial Transferability in AI-based Network Intrusion Detection: A Comparative Study of ANN and CNN Models",
+  "journal": "International Journal of Information Technology and Computer Science",
+  "issn": [
+   "2074-9007",
+   "2074-9015"
+  ],
+  "issn_type": [
+   {
+    "value": "2074-9007",
+    "type": "print"
+   },
+   {
+    "value": "2074-9015",
+    "type": "electronic"
+   }
+  ],
+  "volume": "18",
+  "issue": "4",
+  "page": "170-198",
+  "online": "2026-8-8",
+  "publisher": "MECS Publisher",
+  "authors": [
+   "Aasim Zafar",
+   "Shazra Wali",
+   "Sheikh Burhan ul Haque"
+  ],
+  "url": "https://www.mecs-press.org/ijitcs/ijitcs-v18-n4/v18n4-11.html",
+  "flags": [],
+  "abstract_s2": "Network Intrusion Detection Systems (NIDS) play a vital role in modern cybersecurity by leveraging artificial intelligence (AI) in particular deep learning (DL) and machine learning (ML) to detect and mitigate malicious activities. However, these AI-driven systems are highly vulnerable to adversarial attacks, where small, imperceptible perturbations in input data can deceive models and significantly reduce detection accuracy. This raises critical concerns about the security and reliability of intrusion detection, especially in real-world scenarios where attackers exploit adversarial transferability to bypass defenses. This research investigates the threat posed by black-box adversarial attacks via surrogate models, focusing on the ability of adversarial examples to transfer across different architectures. This study simulates real-world adversarial threats, demonstrating how attacks crafted on one model can effectively deceive another, compromising NIDS security. A comparative study is conducted on two widely used AI models: an Artificial Neural Network (ANN) and a Convolutional Neural Network (CNN), both trained on the CICIDS 2019 dataset. The study evaluates the robustness of these models against two gradient-based adversarial attack methods, Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD), to determine their susceptibility under black box adversarial conditions. Experimental results indicate that CNN-based NIDS are more vulnerable to adversarial attacks than ANN-based models, with adversarial examples successfully transferring across architectures. These findings highlight the critical risks associated with adversarial transferability, underscoring the need for enhanced security measures to strengthen AI-driven intrusion detection systems against evolving cyber threats."
+ },
+ {
+  "i": 90,
+  "role": "candidate",
+  "doi": "10.1007/s44163-026-00951-8",
+  "type": "journal-article",
+  "title": "Adversarial manipulation of CAN bus IDS",
+  "journal": "Discover Artificial Intelligence",
+  "issn": [
+   "2731-0809"
+  ],
+  "issn_type": [
+   {
+    "value": "2731-0809",
+    "type": "electronic"
+   }
+  ],
+  "volume": "6",
+  "issue": "1",
+  "page": "545",
+  "online": "2026-4-13",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Vita Santa Barletta",
+   "Danilo Caivano",
+   "Christian Catalano",
+   "Samuele del Vescovo",
+   "Antonio Piccinno"
+  ],
+  "url": "https://link.springer.com/10.1007/s44163-026-00951-8",
+  "flags": [],
+  "abstract_s2": "Recently, the automotive sector has experienced innovation driven by the increasing connectivity of vehicles not only with each other but also with integrated smart city systems. Due to this upgrade, the vehicle\u2019s attack surface can extend to unexpected boundaries enabling complex attacks and providing access to a critical infrastructure\u2019s network for government and military organizations for the \"Country System\". Considering the Machine Learning (ML) based Intrusion Detection System (IDS) as the target of these attacks, it\u2019s essential to investigate the possible execution, risk, and impact of Adversarial Machine Learning (AML) attacks on the IDS performance in the most likely scenario for attackers i.e. the black-box one. Therefore, this work aims to verify the applicability of some black-box decision-based AML attacks in the Controller Area Network (CAN) bus frame detection task. The victim is a Supervised ML-based IDS (assumed to be resident in the vehicle itself) considering various Technology Transfer state-of-the-art ML models. The evasion attacks are Boundary and HopSkipJump, often exploited in image classification tasks. The results show the evasion attacks impact (in terms of weighted accuracy loss) is about 70% and it is approximately the same. However, the time needed for the attacks is profoundly different making the Boundary attack more appropriate in this context. In addition, it is possible to control the needed generation adversarial examples\u2019 time through an hyperparameter related to some ML ensemble models. Adversarial Training (AT) proves to be a Security by Design and by Default countermeasure useful to prefer the Random Forest model."
+ },
+ {
+  "i": 91,
+  "role": "candidate",
+  "doi": "10.1186/s13677-026-00962-x",
+  "type": "journal-article",
+  "title": "Adversarial resilience in cloud based machine learning: a unified framework for robust threat detection and forecasting",
+  "journal": "Journal of Cloud Computing",
+  "issn": [
+   "2192-113X"
+  ],
+  "issn_type": [
+   {
+    "value": "2192-113X",
+    "type": "electronic"
+   }
+  ],
+  "volume": "15",
+  "issue": "1",
+  "page": "146",
+  "online": "2026-8-4",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Ayaan Sehgal",
+   "Vedant Vijay Zade",
+   "K. Pooja Karan",
+   "Monami Som Saha",
+   "Bhawana Tyagi"
+  ],
+  "url": "https://link.springer.com/article/10.1186/s13677-026-00962-x",
+  "flags": [],
+  "abstract_s2": "Adversarial perturbation represents an acute problem inadequately covered by current defenses that have not sufficiently secured Machine Learning-based Intrusion Detection System (IDS) running in cloud environments against evasion attacks. Namely, adversarial manipulations can be easily carried out with minimal changes in input data, resulting in failed detection, false-positive classification of attacks as benign traffic, and model corruption without raising traditional alerts. Existing defensive techniques further aggravate the problem, since centralized monolithic models demonstrate vulnerability to adversarial evasion, federated implementations open up data poisoning vulnerabilities due to distributed nature of training, and black-box solutions do not allow explaining decisions in terms comprehensible to humans. In order to tackle this trifecta of challenges, we suggest an innovative Adversarial-Resilient Federated Ensemble Learning (AR-FEL) system. Our solution unites three key ideas: (i) an adversarially trained meta-classifier ensemble consisting of four different Machine Learning classifiers \u2013 XGBoost, Random Forest, Gradient Boosting, and Multi-Layer Perceptron (MLP), aggregated into a stacked logistic regression, capable of counteracting both decision boundary adversarial attacks and semantics-based manipulation aimed at deceiving monolithic models; (ii) a linguistic-model-driven post-hack analysis module responsible for interpreting numeric anomaly scores and translating them into human-readable, actionable attack scenarios \u2013 an approach that allows overcoming limitations of purely numeric explanations like SHapley Additive exPlanations (SHAP) and Local Interpretable Model-agnostic Explanations (LIME); and (iii) using federated learning, which not only ensures confidentiality of training but also serves as a tool for preventing local data poisoning from being propagated to the global model. The effectiveness of our proposed model was tested against adversarial attacks such as Fast Gradient Sign Method (FGSM), Projected Gradient Descent (PGD), and Carlini & Wagner (adversarial attack), as well as adversarial perturbation aimed at manipulating model\u2019s decision boundary and semantics. In our experiments, the performance metrics of Adversarial-Resilient Federated Ensemble Learning (AR-FEL) were 99.91% accuracy on the Network Security Lab \u2013 Knowledge Discovery and Data Mining (NSL-KDD) dataset (robustness gap: \u22120.03%), 94.31% accuracy on University of New South Wales Network Benchmark (2015) dataset (\u2212\u20090.02%), and 71.89% on Canadian Institute for Cybersecurity Intrusion Detection System (2017) dataset (\u2212\u20090.59%). Moreover, the model demonstrated significantly less degradation compared to any of the other baselines in the experiment. Compared to standalone deep learning model, ensemble learning achieved better resistance by 6.1% and superior cross-domain transferability by 7.0%."
+ },
+ {
+  "i": 95,
+  "role": "candidate",
+  "doi": "10.5121/ijcnc.2026.18107",
+  "type": "journal-article",
+  "title": "COMPARATIVE ANALYSIS OF BLACK-BOX TARGETED ADVERSARIAL ATTACKS ON DL-BASED NIDS: A STUDY OF C&W AND JSMA USING CICDDOS2019",
+  "journal": "International journal of Computer Networks & Communications",
+  "issn": [
+   "0975-2293"
+  ],
+  "issn_type": [
+   {
+    "value": "0975-2293",
+    "type": "print"
+   }
+  ],
+  "volume": "18",
+  "issue": "1",
+  "page": "109-128",
+  "online": "2026-1-28",
+  "publisher": "Academy and Industry Research Collaboration Center (AIRCC)",
+  "authors": [
+   "Aasim Zafar",
+   "Tarab Malik",
+   "Sheikh Burhan Ul Haque"
+  ],
+  "url": "https://aircconline.com/ijcnc/V18N1/18126cnc07.pdf",
+  "flags": [],
+  "abstract_s2": "Deep and machine learning (DL/ML) models are extensively used in cybersecurity for threat detection, particularly in Network Intrusion Detection Systems (NIDS). However, these models remain vulnerable to adversarial attacks, which can significantly compromise their reliability. Among these threats, black-box targeted attacks pose a critical risk, where adversaries craft perturbations to disguise malicious activities, such as DDoS and Botnet traffic, as benign without having direct access to the target model. This study investigates the impact of two advanced adversarial strategies\u2014Carlini & Wagner (C&W) and Jacobian Saliency Map Attack (JSMA)\u2014on ML/DL-based NIDS using the CICDDoS2019 dataset, a widely recognized benchmark for modern cyber threats. The study analysis reveals that C&W reduces classifier accuracy by 31.33% through precise gradient-driven perturbations, while JSMA causes a 26.58% accuracy drop by strategically modifying key network traffic features like flow duration and packet length. Both attacks operate under black-box conditions, demonstrating their effectiveness without prior knowledge of the model\u2019s internal workings. Experiment results observe a trade-off between C&W\u2019s high-precision perturbations and JSMA\u2019s efficiency in feature manipulation, highlighting the evolving nature of adversarial threats in cybersecurity. These findings underscore the urgent need to reassess the robustness of ML/DL-based NIDS and develop more resilient defense mechanisms."
+ },
+ {
+  "i": 97,
+  "role": "candidate",
+  "doi": "10.56726/irjmets103202",
+  "type": "journal-article",
+  "title": "DEFENSIVE DISTILLATION AND GENERATIVE ADVERSARIAL NETWORKS (GANS) MITIGATING BLACK-BOX EVASION ATTACKS ON CLOUD-BASED INTRUSION DETECTION SYSTEMS",
+  "journal": "INTERNATIONAL RESEARCH JOURNAL OF MODERNIZATION IN ENGINEERING TECHNOLOGY AND SCIENCE",
+  "issn": [
+   "2582-5208"
+  ],
+  "issn_type": [
+   {
+    "value": "2582-5208",
+    "type": "electronic"
+   }
+  ],
+  "volume": null,
+  "issue": null,
+  "page": null,
+  "online": "2026-10-26",
+  "publisher": "International Research Journal of Modernization in Engineering Technology and Science",
+  "authors": [],
+  "url": "https://www.irjmets.com/upload_newfiles/irjmets81000021269/paper_file/irjmets81000021269.pdf",
+  "flags": [],
+  "abstract_s2": ""
+ },
+ {
+  "i": 100,
+  "role": "candidate",
+  "doi": "10.1016/j.comnet.2026.112856",
+  "type": "journal-article",
+  "title": "Enhancing adversarial robustness of network intrusion detection systems against gray-box attacks",
+  "journal": "Computer Networks",
+  "issn": [
+   "1389-1286"
+  ],
+  "issn_type": [
+   {
+    "value": "1389-1286",
+    "type": "print"
+   }
+  ],
+  "volume": "291",
+  "issue": null,
+  "page": "112856",
+  "online": "2026-12",
+  "publisher": "Elsevier BV",
+  "authors": [
+   "Mohmmad Al-Fawa\u2019reh",
+   "Jumana Abu-khalaf",
+   "Patryk Szewczyk",
+   "Naeem Janjua"
+  ],
+  "url": "https://linkinghub.elsevier.com/retrieve/pii/S1389128626008686",
+  "flags": [],
+  "abstract_s2": ""
+ },
+ {
+  "i": 101,
+  "role": "candidate",
+  "doi": "10.1007/s11036-026-02522-8",
+  "type": "journal-article",
+  "title": "Evaluating the Robustness and Transferable Adversarial Example Resistance of Multimodal Learning-based Intrusion Detection Systems against Evasion Attacks",
+  "journal": "Mobile Networks and Applications",
+  "issn": [
+   "1383-469X",
+   "1572-8153"
+  ],
+  "issn_type": [
+   {
+    "value": "1383-469X",
+    "type": "print"
+   },
+   {
+    "value": "1572-8153",
+    "type": "electronic"
+   }
+  ],
+  "volume": "31",
+  "issue": "3-4",
+  "page": "287-305",
+  "online": "2026-8-30",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Phan The Duy",
+   "Cao The Thuan",
+   "Doan Ngoc Nhu Quynh",
+   "Truong Thi Hoang Hao",
+   "Doan Minh Trung",
+   "Nghi Hoang Khoa",
+   "Van-Hau Pham"
+  ],
+  "url": "https://link.springer.com/10.1007/s11036-026-02522-8",
+  "flags": [],
+  "abstract_s2": ""
+ },
+ {
+  "i": 102,
+  "role": "candidate",
+  "doi": "10.54097/cttx6294",
+  "type": "journal-article",
+  "title": "Explainable Robust Cloud Intrusion Detection Against Adversarial Evasion Using SHAP-Guided Feature Reweighting",
+  "journal": "Computer Life",
+  "issn": [
+   "1819-4818"
+  ],
+  "issn_type": [
+   {
+    "value": "1819-4818",
+    "type": "print"
+   }
+  ],
+  "volume": "14",
+  "issue": "3",
+  "page": "1-6",
+  "online": "2026-7-20",
+  "publisher": "Darcy & Roy Press Co. Ltd.",
+  "authors": [
+   "Hugo Laurent",
+   "Paula Silva"
+  ],
+  "url": "https://computer-life.org/index.php/ojs/article/view/48",
+  "flags": [],
+  "abstract_s2": "Cloud intrusion detection systems increasingly rely on machine learning classifiers trained on flow-level telemetry. Such classifiers can be accurate on clean traffic but fragile under adversarial evasion, because attackers may adjust mutable statistics such as timing, packet counts, or byte rates while preserving malicious functionality. This paper proposes SHAP-RW-AT, an explainable robust intrusion detection framework that combines adversarial augmentation with SHAP-guided feature reweighting. A base detector is first explained with SHAP values to identify decision-dominant features. These explanations are then combined with a domain mutability prior: highly important but easily manipulated flow statistics are attenuated, whereas stable high-importance indicators such as destination-port dispersion, failed-login behavior, and cloud API activity are reinforced. The reweighted representation is trained with diversified evasion examples generated by mean-shift, surrogate-gradient, and SHAP-aware perturbations under semantic constraints. Because public cloud-intrusion datasets could not be redistributed or downloaded inside the execution environment, we evaluate the method on a fully reproducible synthetic cloud-flow benchmark generated by the accompanying code; no result is claimed as a measurement on CICIDS-2017, UNSW-NB15, or CVD. Across three random seeds, SHAP-RW-AT obtains 99.67% clean accuracy and 99.71% average robust accuracy under three evasion strategies, reducing adversarial false negatives from 26.47% for a standard XGBoost detector to 0.18%. The results indicate that explanation-guided feature reweighting can act as a lightweight and auditable robustness mechanism for cloud IDS pipelines, while preserving traceability of the defensive decision logic."
+ },
+ {
+  "i": 104,
+  "role": "candidate",
+  "doi": "10.1109/access.2026.3732098",
+  "type": "journal-article",
+  "title": "Feature-Space Adversarial Robustness Evaluation of Lightweight ML-Based Intrusion Detection for IoT and Healthcare-Sensing Networks",
+  "journal": "IEEE Access",
+  "issn": [
+   "2169-3536"
+  ],
+  "issn_type": [
+   {
+    "value": "2169-3536",
+    "type": "electronic"
+   }
+  ],
+  "volume": "14",
+  "issue": null,
+  "page": "141428-141454",
+  "online": "2026",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Abdulaziz Alajaji",
+   "Rawan Alharbi",
+   "Mohammad Mehedi Hassan",
+   "Mohammed Almukaynizi"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11683715/",
+  "flags": [],
+  "abstract_s2": "Machine learning (ML)-based Network Intrusion Detection Systems (NIDS) are increasingly deployed in IoT and healthcare-sensing networks. Reported robustness depends on how it is measured: evaluations relying on attacks transferred from a surrogate cannot separate a robust decision boundary from a merely dissimilar one, and computational cost is rarely reported alongside accuracy. This paper contributes an evaluation protocol rather than a new attack or defense. Four primary lightweight classifiers (logistic regression, linear SVM, random forest, and a compact MLP), together with two supplementary gradient-boosted targets (XGBoost and LightGBM), are assessed on CSE-CIC-IDS2018, TON_IoT, and WUSTL-EHMS-2020, a healthcare benchmark pairing network-flow features with patient biometrics. Surrogate-based gradient attacks (FGSM, PGD, C&W) are paired with a direct decision-based HopSkipJump baseline and with gradient attacks computed on the linear models themselves, separating transfer effects from direct vulnerability. Training-time hardening, adversarial training for the MLP and surrogate-augmented retraining for the classical models, is compared with randomized smoothing. All perturbations are generated in standardized feature space, so reported values are upper bounds on realizable evasion, not executable packet-level attacks. A complementary evaluation freezes protocol- and physiologically constrained features to bound that gap. Every attack family raises the false-negative rate above 0.78 on multiple model\u2013dataset pairs, spanning three orders of magnitude where the clean rate is near zero. Classical models retain higher accuracy under transferred attacks but drop sharply under direct attack, so transfer-only evaluation overestimates their robustness. Adversarial training yields more consistent gains than randomized smoothing at greater training cost. Healthcare-sensing findings rest on a single benchmark and are reported as such. Robustness, transferability, false-negative rate, and inference cost need to be evaluated jointly."
+ },
+ {
+  "i": 105,
+  "role": "candidate",
+  "doi": "10.1109/tifs.2026.3737644",
+  "type": "journal-article",
+  "title": "FlowUAP: Evading Network Intrusion Detection Systems With Type-Specific Universal Adversarial Perturbations",
+  "journal": "IEEE Transactions on Information Forensics and Security",
+  "issn": [
+   "1556-6013",
+   "1556-6021"
+  ],
+  "issn_type": [
+   {
+    "value": "1556-6013",
+    "type": "print"
+   },
+   {
+    "value": "1556-6021",
+    "type": "electronic"
+   }
+  ],
+  "volume": "21",
+  "issue": null,
+  "page": "9048-9063",
+  "online": "2026",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Zhu Gong",
+   "Wei Ji",
+   "Luyao Liu",
+   "Yuping Wen",
+   "Heng Li",
+   "Beihao Xia",
+   "Wei Yuan"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11711205/",
+  "flags": [],
+  "abstract_s2": "Adversarial attacks pose a significant threat to machine learning-based network intrusion detection systems (NIDS) by injecting crafted perturbations into malicious traffic to evade detection. However, many existing attacks rely on per-flow optimization after observing complete flows, which incurs high computational cost and limits online attack execution. Moreover, perturbations generated without domain constraints may correspond to unrealistic or invalid traffic. In this paper, we propose FlowUAP, a type-specific universal adversarial perturbation framework against flow-based NIDS. FlowUAP precomputes transferable perturbations for different attack types using a conditional GAN and constrains them within a traffic-aware feature space, reducing the need for online per-flow optimization. It further maps feature-space perturbations to packet-level operations on outbound traffic. Extensive experiments on CIC-IDS2018 and ToN-IoT show that FlowUAP achieves strong attack effectiveness against diverse NIDS models and remains competitive against optimization-based, generative, and recent transferability-based baselines. Additional analyses under varying attack assumptions and defensive settings characterize the robustness of FlowUAP, while packet-level validation of reconstructed adversarial traffic provides further evidence of its traffic-space realizability."
+ },
+ {
+  "i": 106,
+  "role": "candidate",
+  "doi": "10.3390/app16083944",
+  "type": "journal-article",
+  "title": "Game-Theoretic Cost-Sensitive Adversarial Training for Robust Cloud Intrusion Detection Against GAN-Based Evasion Attacks",
+  "journal": "Applied Sciences",
+  "issn": [
+   "2076-3417"
+  ],
+  "issn_type": [
+   {
+    "value": "2076-3417",
+    "type": "electronic"
+   }
+  ],
+  "volume": "16",
+  "issue": "8",
+  "page": "3944",
+  "online": "2026-4-18",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Jianbo Ding",
+   "Zijian Shen",
+   "Wenhe Liu"
+  ],
+  "url": "https://www.mdpi.com/2076-3417/16/8/3944",
+  "flags": [],
+  "abstract_s2": "Cloud-based intrusion detection systems (IDSs) increasingly rely on deep learning classifiers to identify malicious traffic; however, this reliance exposes them to adversarial evasion attacks in which adversaries craft near-imperceptible perturbations to bypass detection. Existing defenses based on conventional adversarial training often recover robustness against known perturbation patterns at the cost of degraded detection accuracy on canonical attack categories\u2014a robustness\u2013accuracy trade-off that remains an open challenge in the field. In this paper, we propose GT-CSAT (Game-Theoretic Cost-Sensitive Adversarial Training), a novel defense framework tailored for cloud security environments. GT-CSAT couples an improved Wasserstein GAN with Gradient Penalty (WGAN-GP) threat generator\u2014conditioned on attack semantics to simulate functionally consistent and highly covert traffic variants\u2014with a minimax adversarial training loop governed by a game-theoretic cost-sensitive loss function. The proposed loss function assigns asymmetric misclassification penalties derived from a two-player zero-sum payoff matrix, enabling the detector to maintain vigilance over both novel adversarial variants and well-characterized conventional threats simultaneously. Specifically, misclassifying an adversarially perturbed attack as benign incurs a strictly higher penalty than the symmetric cross-entropy baseline, while the cost weights are dynamically adapted via a Nash equilibrium-inspired update rule during training. We conduct comprehensive experiments on the Cloud Vulnerabilities Dataset (CVD), CICIDS-2017, and UNSW-NB15, which encompass diverse cloud-specific attack scenarios including denial-of-service, port scanning, brute-force, and SQL injection traffic. Under six representative evasion strategies\u2014FGSM, PGD, C&W, BIM, DeepFool, and IDSGAN-style black-box perturbations\u2014GT-CSAT achieves an average robust accuracy of 94.3%, surpassing standard adversarial training by 6.8 percentage points and the undefended baseline by 21.4 percentage points, while preserving clean-traffic detection at 97.1%. These results confirm that the game-theoretic cost structure effectively decouples robustness from accuracy, yielding a Pareto-superior detection profile relative to competing baselines across all evaluated threat models. The source code and experimental configurations have been publicly released to facilitate reproducibility."
+ },
+ {
+  "i": 110,
+  "role": "candidate",
+  "doi": "10.3390/app162010178",
+  "type": "journal-article",
+  "title": "LLM-Orchestrated Evasion of Tabular NIDS and GAN Augmentation for Multimodal Detection",
+  "journal": "Applied Sciences",
+  "issn": [
+   "2076-3417"
+  ],
+  "issn_type": [
+   {
+    "value": "2076-3417",
+    "type": "electronic"
+   }
+  ],
+  "volume": "16",
+  "issue": "20",
+  "page": "10178",
+  "online": "2026-10-14",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Nikolaos Peppes",
+   "Theodoros Alexakis",
+   "Emmanouil Daskalakis",
+   "Evgenia Adamopoulou"
+  ],
+  "url": "https://www.mdpi.com/2076-3417/16/20/10178",
+  "flags": [],
+  "abstract_s2": "Network Intrusion Detection Systems (NIDSs) based on machine learning have demonstrated strong performance against known attack patterns. However, their robustness against adaptive evasion strategies orchestrated by modern Large Language Models (LLMs) remains largely unexplored. This study presents a reproducible framework for evaluating traffic-space evasion of a tabular network intrusion detection baseline by an instruction-constrained open-weight LLM and separately examines the effect of GAN-based augmentation on a multimodal detector\u2019s clean-traffic performance. The proposed methodology employs an open-weight language model, constrained at the prompt and decoding levels to a bounded action space of protocol-legal transformations, to generate evasive variants of known attacks that are realized as network traffic. Two defensive configurations are compared on clean traffic using detection rate, F1-score, AUC-ROC, and false-positive rate, while evasion success rate is measured against the tabular baseline. Across five training seeds per configuration, GAN-based enrichment produced no detectable improvement in the multimodal detector, with differences between configurations being several times smaller than the variation across training seeds. Synthetic flows inherit their payload and packet-sequence modalities from real donor flows, so the augmentation acts on the flow-statistics branch alone. An adversary given repeated rounds of score feedback achieved no evasion of the tabular baseline under Configuration (i), the only configuration attacked, across any seed attack and did not outperform a random-mutation attacker operating over the same action space and query budget. All results are obtained on a single dataset, CIC-IDS2017, with sixteen seed attacks and five implemented transformation operators, where the conclusions are stated within those limits. These findings show that apparent gains from synthetic augmentation may be dominated by training variability and that LLM-guided search does not necessarily provide an advantage over simpler search strategies within a bounded, protocol-legal transformation space."
+ },
+ {
+  "i": 112,
+  "role": "candidate",
+  "doi": "10.1109/tnsm.2026.3742885",
+  "type": "journal-article",
+  "title": "<i>Liuer Mihou</i>\n                    : A Practical Gray-Box Adversarial Attack Against Anomaly-Based Network Intrusion Detection Systems",
+  "journal": "IEEE Transactions on Network and Service Management",
+  "issn": [
+   "1932-4537",
+   "2373-7379"
+  ],
+  "issn_type": [
+   {
+    "value": "1932-4537",
+    "type": "electronic"
+   },
+   {
+    "value": "2373-7379",
+    "type": "electronic"
+   }
+  ],
+  "volume": "23",
+  "issue": null,
+  "page": "8500-8514",
+  "online": "2026",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Ke He",
+   "Muhammad Rizwan Asghar",
+   "Jeong Do Yoo",
+   "Young Hun Lee",
+   "Hyunjae Kang",
+   "Huy Kang Kim",
+   "Dan Dongseong Kim"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11733994/",
+  "flags": [],
+  "abstract_s2": "Deep learning has gained popularity as a detection algorithm for Network-based Intrusion Detection Systems (NIDS) due to its expressiveness and speed. However, Deep learning algorithms are susceptible to adversarial attacks that introduce imperceptible changes to deceive the Deep learning algorithm into misclassifying the input. Existing adversarial attacks often overlook the practicality and replayability of the attack. In this paper, we present Liuer Mihou (LM), an adversarial attack designed to generate practical and replayable adversarial network packets, specifically targeting unsupervised anomaly-based NIDS deployed in Internet of Things (IoT) networks. The core concept behind LM is to leverage adversarial transferability and generate adversarial packets on a surrogate NIDS while considering predefined, semantic-preserving mutation operations to ensure practicality. To assess the effectiveness of LM, we objectively analyze its evasiveness against five general-purpose machine learning-based outlier detection algorithms (SOM, RRCF, LOF, OCSVM, and FROCC), as well as the state-of-the-art NIDS, Kitsune. Rather than claiming broad practicality, we characterize when and how packet-space attacks remain feasible: we quantify the trade-off between evasion and attack effectiveness, the distortion introduced by physical replay, and the conditions under which the attack transfers across detector families. We further show that LM\u2019s mutation set is extensible beyond timing and size, adding TCP-window and payload-byte operators to evade a header-field-aware detector. Furthermore, we demonstrate that adversarial detectors such as Feature Squeezing and MagNet, as well as defenses designed for unsupervised anomaly detection, are largely ineffective in defending against LM. Moving beyond a theoretical setting, we conduct a replay of LM in two real IoT testbeds to analyze its practicality."
+ },
+ {
+  "i": 116,
+  "role": "candidate",
+  "doi": "10.1109/ton.2026.3710207",
+  "type": "journal-article",
+  "title": "Making the Best of Both Worlds: Universal Perturbations for Live Black-Box Evasion Against NIDS in Encrypted Traffic",
+  "journal": "IEEE Transactions on Networking",
+  "issn": [
+   "2998-4157"
+  ],
+  "issn_type": [
+   {
+    "value": "2998-4157",
+    "type": "electronic"
+   }
+  ],
+  "volume": "34",
+  "issue": null,
+  "page": "6013-6028",
+  "online": "2026",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Hua Ding",
+   "Lixing Chen",
+   "Bo Zhang",
+   "Hao Peng",
+   "Shenghong Li",
+   "Zhe Qu",
+   "Pan Zhou",
+   "Yang Bai"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11595672/",
+  "flags": [],
+  "abstract_s2": "Evasion attacks pose a significant threat to Network Intrusion Detection Systems (NIDS) by manipulating packets to bypass their defensive strategies. This paper presents a novel black-box evasion attack framework, BlackSlit, tailored against NIDS for encrypted traffic. Unlike traditional \u201cbuffer-and-perturb\u201d pipelines that incur significant latency, BlackSlit enables live evasion by generating universal perturbations for incoming encrypted traffic without prior knowledge. To ensure practical applicability, BlackSlit generates packet-level perturbation sequences and imposes manipulability constraints on encrypted packet features, ensuring that the perturbations are executable at the packet level. BlackSlit comprises two core components, the Generator and the Simulator, which operate in a complementary manner. The Generator iteratively produces packet-level universal perturbations, while the Simulator mimics the behavior of black-box target NIDS to guide the update process of the Generator. Both components employ a hierarchical time-series Transformer (TST)-based architecture to account for temporal correlations intrinsic to encrypted traffic, aligning with the focus of state-of-the-art (SOTA) NIDS. This architecture ensures that temporal dependencies are effectively modeled during both perturbation generation and target system simulation, thereby enhancing the overall efficacy of evasion attacks. Evaluations are conducted on 3 real-world datasets, benchmarked against 6 leading evasion attack baselines and 9 NIDS. Results demonstrate that BlackSlit consistently outperforms state-of-the-art methods across all benchmarks. Moreover, experiments against defended NIDS confirm that BlackSlit maintains robustness."
+ },
+ {
+  "i": 117,
+  "role": "candidate",
+  "doi": "10.3390/electronics15122598",
+  "type": "journal-article",
+  "title": "RandomForestNN Classification for Adversarial AI Black-Box Techniques on MITRE ATT&CK Labeled Data",
+  "journal": "Electronics",
+  "issn": [
+   "2079-9292"
+  ],
+  "issn_type": [
+   {
+    "value": "2079-9292",
+    "type": "electronic"
+   }
+  ],
+  "volume": "15",
+  "issue": "12",
+  "page": "2598",
+  "online": "2026-6-12",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Dustin Mink",
+   "Anthony Simpson",
+   "Sikha S. Bagui",
+   "Subhash C. Bagui"
+  ],
+  "url": "https://www.mdpi.com/2079-9292/15/12/2598",
+  "flags": [],
+  "abstract_s2": "Research examining the security of network intrusion detection systems is vital for protecting modern digital infrastructure from increasingly sophisticated threats. This study investigates how machine learning network security models, trained with tactical frameworks like MITRE ATT&CK, respond to adversarial examples crafted through black-box optimization techniques. Using three attack algorithms, HopSkipJump, Simultaneous Perturbation Stochastic Approximation Attack and the Square Attack algorithms, we demonstrate that the Random Forest model remains vulnerable despite tactical framework integration. For example, the HopSkipJump attack achieved a 92% success rate in causing malicious traffic to appear benign. Our analysis reveals which network traffic features are most susceptible to manipulation, with model performance metrics declining significantly under adversarial conditions. These findings highlight an important gap between theoretical security frameworks and practical implementation that must be addressed to develop more robust defense systems. By identifying specific vulnerabilities, this research contributes valuable insights that can inform improved adversarial robustness in operational network security environments."
+ },
+ {
+  "i": 118,
+  "role": "candidate",
+  "doi": "10.1007/s10207-026-01353-8",
+  "type": "journal-article",
+  "title": "Revisiting adversarial robustness in NIDS: a multi-dataset evaluation of test-time evasion attacks",
+  "journal": "International Journal of Information Security",
+  "issn": [
+   "1615-5270"
+  ],
+  "issn_type": [
+   {
+    "value": "1615-5270",
+    "type": "electronic"
+   }
+  ],
+  "volume": "25",
+  "issue": "6",
+  "page": "184",
+  "online": "2026-11-5",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Rifa Tasfia",
+   "Anitha Chennamaneni",
+   "Abhijit Kumar Nag"
+  ],
+  "url": "https://link.springer.com/article/10.1007/s10207-026-01353-8",
+  "flags": [],
+  "abstract_s2": "Machine learning-based Network Intrusion Detection Systems (NIDS) remain highly vulnerable to test-time evasion (TTE) attacks, yet existing research relies heavily on legacy datasets and ignores the impact of evaluation scale. This study presents a systematic evaluation of TTE attacks using the Adversarial Robustness Toolbox (ART) across three modern, domain-diverse datasets: UNR-IDD, CICIOMT-2024, and UAV-IDS-2025. We evaluate a PyTorch-based fully connected neural network classifier and a 1D Convolutional Neural Network (CNN)-based classifier against white-box (AutoAttack, Auto-PGD, Carlini & Wagner) and black-box (HopSkipJump) threat models. Furthermore, we present a scalability analysis by evaluating performance across incremental test-set proportions from 10 to 100%. Results demonstrate severe susceptibility across models: despite achieving clean baseline accuracies up to 100%, Carlini& Wagner and HopSkipJump attacks reduce classification accuracy by nearly 80%. While 1D CNNs exhibit greater structural resilience than the PyTorch classifier, their adversarial robustness consistently deteriorates as the test set volume increases. These findings confirm that the evaluation scale and feature structure strongly influence adversarial performance, underscoring the urgent need for scalable evaluation standards and adaptive defenses in modern NIDS."
+ },
+ {
+  "i": 119,
+  "role": "candidate",
+  "doi": "10.1109/tce.2025.3631965",
+  "type": "journal-article",
+  "title": "Robust AI-Driven Intrusion Detection and Defense for Next-Generation Consumer Services",
+  "journal": "IEEE Transactions on Consumer Electronics",
+  "issn": [
+   "0098-3063",
+   "1558-4127"
+  ],
+  "issn_type": [
+   {
+    "value": "0098-3063",
+    "type": "print"
+   },
+   {
+    "value": "1558-4127",
+    "type": "electronic"
+   }
+  ],
+  "volume": "72",
+  "issue": "1",
+  "page": "1544-1553",
+  "online": "2026-2",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Yufeng Li",
+   "Yang Li",
+   "Jing Nie",
+   "Sezai Ercisli"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11244144/",
+  "flags": [],
+  "abstract_s2": "With the deep integration of 6G, the Internet of Things, and artificial intelligence, this paper proposes an intrusion detection and defense framework that combines robust AI kernel reconstruction, a cross-layer collaborative perception architecture, and a dynamic defense closed-loop mechanism to address advanced persistent threats and dynamically evolving attacks targeting next-generation consumer services. First, a lightweight detection model ATF-KDBC is designed based on adversarial training and online knowledge distillation. Gradient masking and noise injection are employed to enhance robustness against adversarial samples, while a drift-aware module enables adaptive optimization under concept drift scenarios. The model achieves accuracies of 99.25% and 99.84% on the NSL-KDD and IoT-23 hybrid datasets, respectively, and compresses the model size to 1.08 MB, representing a 97.6% reduction compared with the BERT teacher model. Second, a multidimensional attack chain analysis model is developed based on a STHGN. By integrating semantic, structural, and temporal features with a multi-head self-attention mechanism, the model enables cross-layer threat tracing and millisecond-level response, achieving an F1-score exceeding 97.0% on the DARPA dataset. Furthermore, this study explores the construction of a distributed CTIS network by integrating federated learning and blockchain technology. Zero-knowledge proofs are employed to ensure privacy preservation, while a Quality of Data and Quality of Model scoring mechanism enables efficient and precise deployment of defense strategies. Experimental results demonstrate that the proposed framework significantly outperforms traditional methods in terms of robustness, environmental adaptability, and computational efficiency, thereby providing both theoretical support and a technical pathway for enhancing the resilience and security of next-generation consumer services."
+ },
+ {
+  "i": 121,
+  "role": "candidate",
+  "doi": "10.68212/2958-6542.1132",
+  "type": "journal-article",
+  "title": "Security and Resilience of AI-Enabled Edge Computing in Industrial IoT: Vulnerabilities, Defense Strategies, and Future Directions",
+  "journal": "Mesopotamian Journal of CyberSecurity",
+  "issn": [
+   "2958-6542"
+  ],
+  "issn_type": [
+   {
+    "value": "2958-6542",
+    "type": "electronic"
+   }
+  ],
+  "volume": "6",
+  "issue": "1",
+  "page": "28-49",
+  "online": "2026-10-13",
+  "publisher": "Mesopotamian Academic Press - DIGITAL COMMONS JOURNALS",
+  "authors": [
+   "Mostafa Abdulghafoor Mohammed",
+   "Mohammed Rashid Subhi",
+   "Salman Yussof"
+  ],
+  "url": "https://map.researchcommons.org/mjcs/vol6/iss1/3",
+  "flags": [],
+  "abstract_s2": "Industrial Internet of Things (IIoT) deployments increasingly move intrusion detection from the cloud to edge gateways, where machine learning (ML) models inspect traffic close to programmable logic controllers, sensors, and supervisory systems. This shift shortens response times but places the detector itself inside the attack surface. This paper combines a structured analysis of threats and defenses for AI-driven IIoT edge security with a reproducible experimental study on the network partition of the TON_IoT testbed. We first show that the evaluation protocol is itself a vulnerability: host identifiers inflate the ten-class macro-F1 of a random forest by 3.8 points, and 55.6% of the raw flows are exact duplicates once identifiers are removed. On a leakage-free corpus of 93,299 flows, gradient-boosted trees reach a binary macro-F1 of 0.996 and a ten-class macro-F1 of 0.956, while an 85 KB neural detector classifies a flow in 0.015 ms. Every undefended detector proved evadable. White-box projected gradient descent reduces the detection rate of the neural network from 0.996 to 0.002, and a gradient-free search with at most 100 queries evades XGBoost for 74% of attack flows. Adversarial training was the only defense that remained robust against transfer, adaptive white-box, and black-box attacks, at a cost of about three false-positive points. Adversarial data augmentation of XGBoost appeared robust but raised false alarms on equally perturbed benign traffic to 86%. Federated training matched centralized accuracy under homogeneous data yet lost up to 36 points under severe class skew; coordinate-wise median aggregation tolerated four Byzantine gateways out of ten. INT8 quantization combined with pruning produced 22\u201353 KB detectors within 1.3 points of the dense model. Explanations based on Shapley values reveal that five of the six most influential features can be inflated by an attacker, which links interpretability directly to the evasion surface. The paper closes with deployment guidelines and open research directions."
+ },
+ {
+  "i": 122,
+  "role": "candidate",
+  "doi": "10.3390/sym18101700",
+  "type": "journal-article",
+  "title": "Slice-Aware Adversarial Vulnerability Analysis of TabNet-Based Intrusion Detection in 5G Network Slicing",
+  "journal": "Symmetry",
+  "issn": [
+   "2073-8994"
+  ],
+  "issn_type": [
+   {
+    "value": "2073-8994",
+    "type": "electronic"
+   }
+  ],
+  "volume": "18",
+  "issue": "10",
+  "page": "1700",
+  "online": "2026-10-13",
+  "publisher": "MDPI AG",
+  "authors": [
+   "G\u00f6zde \u00d6zsert Yi\u011fit",
+   "Ilkay Sibel Kervanci"
+  ],
+  "url": "https://www.mdpi.com/2073-8994/18/10/1700",
+  "flags": [],
+  "abstract_s2": "A TabNet-based network intrusion detection system can achieve 97% global accuracy while simultaneously exhibiting near-total adversarial collapse in the URLLC slice (PSRI = 0.023)\u2014a critical vulnerability that conventional metrics entirely conceal. This paper introduces the Per-Slice Robustness Index (PSRI) and Slice-Weighted F1 (SW-F1) to expose such hidden vulnerabilities in 5G network slicing environments, and proposes Attention-Guided Evasion (AGE), a transfer-based adversarial attack that exploits TabNet\u2019s native attention mask to concentrate perturbations on the most influential features. Using the CICIoT2023 dataset with 34 attack categories mapped to eMBB, URLLC, and mMTC service slices, we demonstrate that AGE achieves a 50.2% accuracy drop at \u03b5=0.10 while using 17\u00d7 less L2 perturbation than FGSM and modifying only 8.5% of features. The proposed metrics expose a 0.121-point gap between global weighted F1 (0.928) and slice-balanced SW-F1 (0.807), demonstrating that conventional evaluation systematically overestimates protection for minority slices in heterogeneous 5G environments. These findings highlight the necessity of slice-aware adversarial evaluation frameworks for 5G network security."
+ },
+ {
+  "i": 123,
+  "role": "candidate",
+  "doi": "10.1007/s13042-025-02873-w",
+  "type": "journal-article",
+  "title": "Targeted adversarial traffic generation: black-box approach to evade intrusion detection systems in IoT networks",
+  "journal": "International Journal of Machine Learning and Cybernetics",
+  "issn": [
+   "1868-8071",
+   "1868-808X"
+  ],
+  "issn_type": [
+   {
+    "value": "1868-8071",
+    "type": "print"
+   },
+   {
+    "value": "1868-808X",
+    "type": "electronic"
+   }
+  ],
+  "volume": "17",
+  "issue": "2",
+  "page": "58",
+  "online": "2026-2-2",
+  "publisher": "Springer Science and Business Media LLC",
+  "authors": [
+   "Islam Debicha",
+   "Tayeb Kenaza",
+   "Ishak Charfi",
+   "Salah Mosbah",
+   "Mehdi Sehaki",
+   "Jean-Michel Dricot"
+  ],
+  "url": "https://link.springer.com/10.1007/s13042-025-02873-w",
+  "flags": [],
+  "abstract_s2": "The integration of machine learning (ML) algorithms into Internet of Things (IoT) applications has introduced significant advantages alongside vulnerabilities to adversarial attacks, especially within IoT-based intrusion detection systems (IDS). While theoretical adversarial attacks have been extensively studied, practical implementation constraints have often been overlooked. This research addresses this gap by evaluating the feasibility of evasion attacks on IoT network-based IDSs, employing a novel black-box adversarial attack. Our study aims to bridge theoretical vulnerabilities with real-world applicability, enhancing understanding and defense against sophisticated threats in modern IoT ecosystems. Additionally, we propose a defense scheme tailored to mitigate the impact of evasion attacks, thereby reinforcing the resilience of ML-based IDSs. Our findings demonstrate successful evasion attacks against IDSs, underscoring their susceptibility to advanced techniques. In contrast, we proposed a defense mechanism that exhibits robust performance by effectively detecting the majority of adversarial traffic, showcasing promising outcomes compared to current state-of-the-art defenses. By addressing these critical cybersecurity challenges, our research contributes to advancing IoT security and provides insights for developing more resilient IDS."
+ },
+ {
+  "i": 125,
+  "role": "candidate",
+  "doi": "10.54097/6bm9sm08",
+  "type": "journal-article",
+  "title": "Uncertainty-Aware Evidential Adversarial Defense for Cloud Intrusion Detection under GAN-Based Evasion Attacks",
+  "journal": "International Journal of Advanced Engineering and Technology Research",
+  "issn": [
+   "3106-8685",
+   "3106-8677"
+  ],
+  "issn_type": [
+   {
+    "value": "3106-8685",
+    "type": "electronic"
+   },
+   {
+    "value": "3106-8677",
+    "type": "print"
+   }
+  ],
+  "volume": "2",
+  "issue": "3",
+  "page": "42-48",
+  "online": "2026-7-20",
+  "publisher": "Darcy & Roy Press Co. Ltd.",
+  "authors": [
+   "Jiawen Luo",
+   "Samuel Price"
+  ],
+  "url": "https://ijaetr.org/index.php/ojs/article/view/122",
+  "flags": [],
+  "abstract_s2": "Cloud intrusion detection systems (IDSs) increasingly depend on deep neural classifiers, which are vulnerable to adversarial evasion attacks\u2014including realistic, GAN-crafted traffic\u2014that flip malicious flows to benign with near-imperceptible, functionally consistent perturbations. Adversarial training (AT) hardens the decision boundary but yields overconfident point predictions: a hardened detector still cannot signal when an input is suspicious, and Bayesian or ensemble uncertainty estimators that could do so require many forward passes, which is impractical at cloud line rate. We propose UA-EAD, an uncertainty-aware evidential adversarial defense that (i) equips the detector with an evidential (Dirichlet) head yielding calibrated predictive uncertainty in a single forward pass, (ii) trains it with an uncertainty-weighted adversarial objective plus a consistency regularizer that concentrates robustness on the most uncertain, near-boundary flows, and (iii) uses the resulting uncertainty for selective prediction, abstaining on inputs it cannot confidently classify. On NSL-KDD under FGSM, BIM, PGD, C&W, and a black-box WGAN-GP transfer attack, UA-EAD matches the strongest AT baselines in robust accuracy (97.4%) while attaining the highest clean accuracy (98.1%). Its single-pass evidential uncertainty equals maximum-softmax-probability and surpasses Monte-Carlo Dropout for adversarial detection at 21x lower inference cost, and yields the best adversarial-detection AUROC among robust models. Selective prediction lifts accuracy on 17 novel (out-of-distribution) attack types from 76.9% to 87.0% at 70% coverage. We further report an empirical robustness\u2013detectability trade-off that clarifies why hardening alone is insufficient for trustworthy cloud IDS."
+ },
+ {
+  "i": 14,
+  "role": "review",
+  "doi": "10.3390/jcp2010010",
+  "type": "journal-article",
+  "title": "Functionality-Preserving Adversarial Machine Learning for Robust Classification in Cybersecurity and Intrusion Detection Domains: A Survey",
+  "journal": "Journal of Cybersecurity and Privacy",
+  "issn": [
+   "2624-800X"
+  ],
+  "issn_type": [
+   {
+    "value": "2624-800X",
+    "type": "electronic"
+   }
+  ],
+  "volume": "2",
+  "issue": "1",
+  "page": "154-190",
+  "online": "2022-3-17",
+  "publisher": "MDPI AG",
+  "authors": [
+   "Andrew McCarthy",
+   "Essam Ghadafi",
+   "Panagiotis Andriotis",
+   "Phil Legg"
+  ],
+  "url": "https://www.mdpi.com/2624-800X/2/1/10",
+  "flags": [
+   "has-preprint"
+  ],
+  "abstract_s2": "Machine learning has become widely adopted as a strategy for dealing with a variety of cybersecurity issues, ranging from insider threat detection to intrusion and malware detection. However, by their very nature, machine learning systems can introduce vulnerabilities to a security defence whereby a learnt model is unaware of so-called adversarial examples that may intentionally result in mis-classification and therefore bypass a system. Adversarial machine learning has been a research topic for over a decade and is now an accepted but open problem. Much of the early research on adversarial examples has addressed issues related to computer vision, yet as machine learning continues to be adopted in other domains, then likewise it is important to assess the potential vulnerabilities that may occur. A key part of transferring to new domains relates to functionality-preservation, such that any crafted attack can still execute the original intended functionality when inspected by a human and/or a machine. In this literature survey, our main objective is to address the domain of adversarial machine learning attacks and examine the robustness of machine learning models in the cybersecurity and intrusion detection domains. We identify the key trends in current work observed in the literature, and explore how these relate to the research challenges that remain open for future works. Inclusion criteria were: articles related to functionality-preservation in adversarial machine learning for cybersecurity or intrusion detection with insight into robust classification. Generally, we excluded works that are not yet peer-reviewed; however, we included some significant papers that make a clear contribution to the domain. There is a risk of subjective bias in the selection of non-peer reviewed articles; however, this was mitigated by co-author review. We selected the following databases with a sizeable computer science element to search and retrieve literature: IEEE Xplore, ACM Digital Library, ScienceDirect, Scopus, SpringerLink, and Google Scholar. The literature search was conducted up to January 2022. We have striven to ensure a comprehensive coverage of the domain to the best of our knowledge. We have performed systematic searches of the literature, noting our search terms and results, and following up on all materials that appear relevant and fit within the topic domains of this review. This research was funded by the Partnership PhD scheme at the University of the West of England in collaboration with Techmodal Ltd."
+ },
+ {
+  "i": 23,
+  "role": "review",
+  "doi": "10.1109/comst.2022.3233793",
+  "type": "journal-article",
+  "title": "Adversarial Machine Learning for Network Intrusion Detection Systems: A Comprehensive Survey",
+  "journal": "IEEE Communications Surveys & Tutorials",
+  "issn": [
+   "1553-877X",
+   "2373-745X"
+  ],
+  "issn_type": [
+   {
+    "value": "1553-877X",
+    "type": "electronic"
+   },
+   {
+    "value": "2373-745X",
+    "type": "electronic"
+   }
+  ],
+  "volume": "25",
+  "issue": "1",
+  "page": "538-566",
+  "online": "2023",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Ke He",
+   "Dan Dongseong Kim",
+   "Muhammad Rizwan Asghar"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/10005100/",
+  "flags": [],
+  "abstract_s2": "Network-based Intrusion Detection System (NIDS) forms the frontline defence against network attacks that compromise the security of the data, systems, and networks. In recent years, Deep Neural Networks (DNNs) have been increasingly used in NIDS to detect malicious traffic due to their high detection accuracy. However, DNNs are vulnerable to adversarial attacks that modify an input example with imperceivable perturbation, which causes a misclassification by the DNN. In security-sensitive domains, such as NIDS, adversarial attacks pose a severe threat to network security. However, existing studies in adversarial learning against NIDS directly implement adversarial attacks designed for Computer Vision (CV) tasks, ignoring the fundamental differences in the detection pipeline and feature spaces between CV and NIDS. It remains a major research challenge to launch and detect adversarial attacks against NIDS. This article surveys the recent literature on NIDS, adversarial attacks, and network defences since 2015 to examine the differences in adversarial learning against deep neural networks in CV and NIDS. It provides the reader with a thorough understanding of DL-based NIDS, adversarial attacks and defences, and research trends in this field. We first present a taxonomy of DL-based NIDS and discuss the impact of taxonomy on adversarial learning. Next, we review existing white-box and black-box adversarial attacks on DNNs and their applicability in the NIDS domain. Finally, we review existing defence mechanisms against adversarial examples and their characteristics."
+ },
+ {
+  "i": 88,
+  "role": "review",
+  "doi": "10.1109/access.2026.3733985",
+  "type": "journal-article",
+  "title": "Adversarial Robustness of Deep Learning-Based Intrusion Detection Systems: A Systematic Literature Review of Attacks, Defenses, Datasets, and Open Challenges",
+  "journal": "IEEE Access",
+  "issn": [
+   "2169-3536"
+  ],
+  "issn_type": [
+   {
+    "value": "2169-3536",
+    "type": "electronic"
+   }
+  ],
+  "volume": "14",
+  "issue": null,
+  "page": "149555-149591",
+  "online": "2026",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "authors": [
+   "Eko Arip Winanto",
+   "Mohd Yazid Idris"
+  ],
+  "url": "https://ieeexplore.ieee.org/document/11690873/",
+  "flags": [],
+  "abstract_s2": "Deep learning has become the default approach for modern intrusion detection. However, the same models that classify benign and malicious traffic with very high accuracy can be fooled by small, deliberately crafted perturbations. We report a systematic literature review of how this vulnerability has been studied in deep-learning-based intrusion detection systems (IDS) over the period from January 2020 to March 2026. The review follows the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) 2020 protocol. After screening 5,890 records retrieved from Scopus, IEEE Xplore, Web of Science, and ScienceDirect (single-reviewer screening calibrated against a second reviewer on a 50-record sample with Cohen\u2019s $\\kappa = 0.81$ ), and after retrieving 252 full texts, 216 primary studies were included. We organize the body of work along four axes: the attacks that have been applied to deep-learning IDS, the defenses that have been proposed, the datasets and metrics used to evaluate them, and the challenges that remain open. Across the 216 studies, attention was heavily skewed toward white-box gradient attacks (the Fast Gradient Sign Method [FGSM] in 76.9% of studies, Carlini\u2013Wagner [C&W] in 60.2%, and Projected Gradient Descent [PGD] in 50.9%) and adversarial training as the defense (61.6%). In contrast, query-based black-box attacks such as Square Attack (2.8%) and AutoAttack (2.3%) are rare, certified defenses are reported in only 6.0% of studies, and the newer Internet of Things (IoT) benchmarks, CICIoT2023, CICIoMT2024, and CICIoV2024, appear in less than five percent of the corpus combined. We close with 12 concrete research gaps and 12 practitioner recommendations intended to guide the next iteration of robust IDS design."
+ }
+]
