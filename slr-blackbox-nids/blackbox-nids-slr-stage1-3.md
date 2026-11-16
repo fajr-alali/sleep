@@ -1,7 +1,7 @@
 # Black-Box Evasion Attacks Against ML-Based NIDS — Systematic Review: Stage 1–3 Package
 
 **Date:** 16 November 2026  
-**Overall status: INCOMPLETE — not a manuscript; not submission-ready.**
+**Overall status: INCOMPLETE — not a manuscript; not submission-ready.** Numbered citations [n] refer to Section 5.
 
 | Stage | Status |
 |---|---|
@@ -16,6 +16,7 @@
 2. Review protocol
 3. Executed searches and screening
 4. Outstanding-actions register
+5. Reference list (user-supplied, verified)
 Appendix A. Search log · Appendix B. Seed coverage test · Appendix C. Candidate register · Appendix D. Title/abstract screening log
 
 ---
@@ -23,8 +24,8 @@ Appendix A. Search log · Appendix B. Seed coverage test · Appendix C. Candidat
 ## 1. Feasibility and Novelty Audit
 
 **Review topic:** Black-Box Evasion Attacks Against Machine Learning-Based Network Intrusion Detection Systems: A Systematic Literature Review of Attacker Capabilities, Attack Costs, Transferability, and Defense Evaluation
-**Audit date:** 16 November 2026
-**Status: Provisional.** Full texts of the comparator reviews could **not** be retrieved from this environment (see §1). Every comparison below is based on **abstracts and bibliographic metadata only**, and is labelled accordingly. Step B of the brief ("inspect their full texts") is **not done**.
+**Audit date:** 16 November 2026 (updated with the user-supplied reference list the same day)
+**Status: Provisional.** Full texts of the comparator reviews could **not** be retrieved from this environment (see §1). Every comparison below is based on **abstracts and bibliographic metadata only**. Step B of the brief ("inspect their full texts") is **not done**. Citations use the numbered reference list in Section 5.
 
 ---
 
@@ -43,51 +44,47 @@ Consequences: (i) no journal quartile has been verified; (ii) no full text has b
 
 ---
 
-### 1.2 Closest existing reviews identified
+### 1.2 Closest existing reviews
 
-These were identified from the executed searches (`data/search_log.csv`, tag `S2-reviews` and others). Inclusion here does **not** mean the Q1/Q2 policy was verified; that is pending for all of them.
+**Comparator set:** the seven reviews in the user-supplied list ([1]–[7]); the threat-modelling paper [8] is listed separately. All metadata were verified in Crossref. Q1/Q2 status is **pending** for every journal.
 
-| ID | Review (DOI) | Type / journal | Abstract-level scope | Basis |
+| Ref | Review | Journal, year | Abstract-level scope | Basis |
 |---|---|---|---|---|
-| RV1 | *Adversarial Evasion in Machine-Learning-Based Network Intrusion Detection: A Systematic Review, Threat Modeling, and …* — 10.1109/ACCESS.2026.3720554 | IEEE Access, 2026 | Kitchenham-informed SLR of **186 studies (2018–2026)**; NIDS-specific, lifecycle-aware threat model; taxonomy across adversarial generation, robustness evaluation and defence; finds that "much reported evasion success reflects diagnostic feature-space sensitivity rather than executable, deployable adversarial risk" and that "many defenses demonstrate component-level robustness" | Abstract |
-| RV2 | *Adversarial Robustness of Deep Learning-Based Intrusion Detection Systems: A Systematic Literature Review of Attacks, De…* — 10.1109/ACCESS.2026.3733985 | IEEE Access, 2026 | PRISMA 2020 SLR, Jan 2020–Mar 2026; 5,890 records from Scopus, IEEE Xplore, WoS and ScienceDirect; **216 primary studies**; reports FGSM in 76.9%, C&W 60.2%, PGD 50.9%, adversarial training 61.6%, and **query-based black-box attacks rare** (Square Attack 2.8%, AutoAttack 2.3%) | Abstract |
-| RV3 | *Understanding the adversary: A survey of adversarial machine learning in network intrusion detection* — 10.1016/j.cosrev.2026.100995 | Computer Science Review, 2026 | Abstract not available via open APIs | Title only |
-| RV4 | *Adversarial Machine Learning for Network Intrusion Detection Systems: A Comprehensive Survey* — 10.1109/COMST.2022.3233793 | IEEE Communications Surveys & Tutorials, 2023 | Survey since 2015; CV-vs-NIDS differences; reviews **white-box and black-box** attacks and their applicability to NIDS; defences | Abstract |
-| RV5 | *Adversarial machine learning for network intrusion detection: A comparative study* — 10.1016/j.comnet.2022.109073 | Computer Networks, 2022 | Abstract not available via open APIs | Title only |
-| RV6 | *Adversarial Machine Learning Attacks against Intrusion Detection Systems: A Survey on Strategies and Defense* — 10.3390/fi15020062 | Future Internet, 2023 | Survey of attack types against IDS and defence strategies; gaps | Abstract |
-| RV7 | *Contrast Duality of Adversarial Learning in Network Intrusion: A Review* — 10.1109/TAI.2025.3641908 | IEEE Transactions on Artificial Intelligence, 2026 | Poisoning, test-time evasion, reverse engineering; adversarial training as defence | Abstract (published version; the open copy is an arXiv preprint and was **not** used) |
-| RV8 | *Adversarial Machine Learning Applied to Intrusion and Malware Scenarios: A Systematic Review* — 10.1109/ACCESS.2020.2974752 | IEEE Access, 2020 | AML in intrusion and malware detection; practicality untested in intrusion scenarios; small, outdated datasets | Abstract |
-| RV9 | *A Holistic Review of Machine Learning Adversarial Attacks in IoT Networks* — 10.3390/fi16010032 | Future Internet, 2024 | IoT IDS, malware detection and device identification; two-dimensional attack framework | Abstract |
-| RV10 | *Adversarial Machine Learning in IoT Security: A Comprehensive Survey* — 10.1145/3785665 | ACM Computing Surveys, 2025 | AML for IoT IDS; MITRE-inspired attack framework; human-in-the-loop | Abstract |
-| RV11 | *Functionality-Preserving Adversarial Machine Learning for Robust Classification in Cybersecurity and Intrusion Detection* — 10.3390/jcp2010010 | Journal of Cybersecurity and Privacy, 2022 | Survey focused on functionality preservation | Abstract |
+| [1] | He, Kim & Asghar — *AML for NIDS: A comprehensive survey* | IEEE COMST, 2023 | Survey since 2015; CV-vs-NIDS differences; reviews **white-box and black-box** attacks and their applicability to NIDS; defences | Abstract |
+| [2] | Ennaji et al. — *Adversarial challenges in NIDS: Research insights and future prospects* | IEEE Access, 2025 | Survey of adversarial threats to ML-based IDS on structured network data (abstract truncated in the API) | Abstract (partial) |
+| [3] | Alatawi — *Adversarial evasion in ML-based NIDS: A systematic review, threat modeling, and research roadmap* | IEEE Access, 2026 | Kitchenham-informed SLR of **186 studies (2018–2026)**; NIDS-specific lifecycle-aware threat model; taxonomy across generation, robustness evaluation and defence; finds that much reported success "reflects diagnostic feature-space sensitivity rather than executable, deployable adversarial risk" and that many defences show "component-level robustness" | Abstract |
+| [4] | Espindola et al. — *Understanding the adversary: A survey of AML in network intrusion detection* | Computer Science Review, 2026 | Abstract not available via open APIs; Crossref lists an associated preprint, which is not used | Title only |
+| [5] | Vitorino, Praça & Maia — *SoK: Realistic adversarial attacks and defenses for intelligent NID* | Computers & Security, 2023 | Systematisation of knowledge (SoK) of adversarial approaches that generate **realistic** examples under network and protocol constraints, and of defences usable with real traffic flows | Abstract |
+| [6] | Hasan et al. — *Adversarial attacks against NIDS: Bridging the gap between theoretical vulnerabilities and practical constraints* | Internet of Things, 2026 | Abstract not available via open APIs; the title indicates a focus on practical attack constraints | Title only |
+| [7] | Winanto & Idris — *Adversarial robustness of DL-based IDS: A SLR of attacks, defenses, datasets, and open challenges* | IEEE Access, 2026 | PRISMA 2020 SLR, Jan 2020–Mar 2026; 5,890 records (Scopus, IEEE Xplore, WoS, ScienceDirect); **216 primary studies**; FGSM in 76.9%, C&W 60.2%, PGD 50.9%, adversarial training 61.6%; **query-based black-box attacks rare** (Square Attack 2.8%, AutoAttack 2.3%) | Abstract |
+| [8] | Apruzzese et al. — *Modeling realistic adversarial attacks against NIDS* | Digital Threats: Research and Practice, 2022 | Models the **real capabilities and circumstances** attackers need, then applies the model to attacks from the literature. Classification (comparator vs primary study) to be decided after full-text reading | Abstract |
 
-**Contextual literature (outside the Q1/Q2 journal policy, not used as comparators):** *Adversarial Black-Box Attacks Against Network Intrusion Detection Systems: A Survey* (IEEE AIIoT 2021 conference, 10.1109/AIIoT52608.2021.9454214), the closest topical match by title; two arXiv-only reviews (10.48550/arXiv.2112.03315, 10.48550/arXiv.2303.07003).
+**Other reviews found by the searches (not in the supplied list):** *Computer Networks* 2022 comparative study (10.1016/j.comnet.2022.109073); *Future Internet* 2023 survey (10.3390/fi15020062); *IEEE TAI* 2026 review (10.1109/TAI.2025.3641908); *IEEE Access* 2020 systematic review (10.1109/ACCESS.2020.2974752); IoT-focused reviews in *Future Internet* 2024 and *ACM CSUR* 2025; *JCP* 2022 functionality-preservation survey. **Contextual (outside the journal policy):** *Adversarial Black-Box Attacks Against NIDS: A Survey* (IEEE AIIoT 2021 conference, 10.1109/AIIoT52608.2021.9454214).
 
 ---
 
 ### 1.3 Overlap assessment (abstract-level, provisional)
 
-| Proposed contribution element | RV1 (IEEE Access 2026) | RV2 (IEEE Access 2026) | RV4 (COMST 2023) | Others |
-|---|---|---|---|---|
-| NIDS-specific threat model / attacker capabilities (RQ1) | **Yes**: "lifecycle-aware, NIDS-specific threat model" | Not stated | Partly: black-box vs white-box applicability | RV10: attack lifecycle framework |
-| Feature-space vs executable/traffic-space realizability | **Yes**: central finding | Not stated | Yes: CV-vs-NIDS feature-space differences | RV11: functionality preservation |
-| Black-box-specific synthesis (query vs transfer vs surrogate) | Not stated | **Partly**: quantifies how rare query-based black-box attacks are | Partly | — |
-| **Attack-cost accounting** (queries, compute, data, bytes/packets, delay) | Not stated in abstract | Not stated in abstract | Not stated | Not stated |
-| **Transferability evidence map** (cross-model, cross-dataset, cross-pipeline, cross-environment) | Not stated in abstract | Not stated in abstract | Not stated | Not stated |
-| Defence-evaluation rigour (adaptive attackers, valid traffic) | **Yes**: "component-level robustness" critique | Partly: defence frequencies, certified defences rare | Partly | — |
-| PRISMA / systematic method | Kitchenham-informed | PRISMA 2020, 216 studies, κ = 0.81 on a sample | Survey | RV8 systematic |
+| Proposed contribution element | [3] Alatawi 2026 | [7] Winanto & Idris 2026 | [5] Vitorino et al. 2023 | [1] He et al. 2023 | [6], [8] |
+|---|---|---|---|---|---|
+| NIDS-specific attacker capabilities (RQ1) | **Yes**: lifecycle-aware threat model | Not stated | Partly (realistic-attack conditions) | Partly (black-box vs white-box applicability) | **[8] Yes**: models real attacker capabilities and circumstances |
+| Feature-space vs executable/traffic realizability | **Yes**: central finding | Not stated | **Yes**: realistic examples under network constraints | Yes: CV-vs-NIDS feature space | [6] likely (from title) |
+| Black-box-specific synthesis (query/transfer/surrogate) | Not stated | **Partly**: quantifies how rare query-based attacks are | Not stated | Partly | — |
+| **Attack-cost accounting** (target queries, compute, data, bytes/packets, delay) | Not stated in abstract | Not stated in abstract | Not stated in abstract | Not stated | Not determinable |
+| **Transferability evidence map** (cross-model/dataset/pipeline/environment) | Not stated in abstract | Not stated in abstract | Not stated in abstract | Not stated | Not determinable |
+| Defence-evaluation rigour (adaptive attackers, valid traffic) | **Yes**: "component-level robustness" critique | Partly (defence frequencies; certified defences rare) | **Yes**: defences for realistic settings | Partly | — |
 
-"Not stated in abstract" does **not** mean the review omits the topic; this must be checked in the full text before any differentiation claim.
+"Not stated in abstract" does **not** mean the review omits the topic. This must be checked in the full texts before any differentiation claim.
 
 ---
 
 ### 1.4 Is a differentiated review still justified? (provisional answer)
 
-- **Substantial overlap exists.** RV1 already offers an NIDS-specific threat model and the feature-space vs executable-risk critique; RV2 already quantifies, at scale and with PRISMA, how rare query-based black-box attacks are and how dominant adversarial training is. A broad "adversarial evasion against NIDS" SLR would **not** be justified.
-- **A narrower contribution may remain**, *if* full-text inspection of RV1, RV2 and RV3 confirms they do not systematically extract: (a) **target-query vs local-compute vs traffic costs** with explicit success denominators; (b) a **source–target transferability evidence map** that separates cross-model, cross-dataset, cross-pipeline and cross-environment transfer; (c) a **capability matrix** separating feedback type from data/feature/pipeline knowledge, specifically for black-box attacks.
-- **Feasibility risk.** RV2 reports query-based black-box attacks in under 3% of 216 deep-learning IDS studies. Our title/abstract screening of the black-box subset kept 56 journal candidates (plus 7 seeds), and 11 of those appear in venues the reviewer expects to fall below Q2 (not verified). After SJR verification and full-text eligibility, the Q1/Q2 black-box corpus may be **at or below ~25 studies**. If so, the recommended design is a **focused SLR, or a systematic mapping review, on black-box NIDS evasion costs and transferability**, explicitly positioned as a deep extension of RV1/RV2, not a replacement.
+- **Overlap is substantial and broader than first thought.** [3] already provides an NIDS-specific threat model and the feature-space vs executable-risk critique. [5] already systematises *realistic* attacks and defences. [8] already models realistic attacker capabilities. [7] already quantifies, with PRISMA at scale, how rare query-based black-box attacks are. [6]'s title indicates the same theory-vs-practice gap. A broad review, or one centred on attacker capabilities and realism (RQ1 alone), would **not** be justified.
+- **A narrower contribution may remain**, *if* full-text inspection of [2]–[7] confirms that none systematically extracts (a) **target-query vs local-compute vs traffic costs** with explicit success denominators, and (b) a **source–target transferability evidence map** that separates cross-model, cross-dataset, cross-pipeline and cross-environment transfer. RQ2 and RQ3 are the most promising differentiators; RQ1 and RQ4 would serve as context.
+- **Feasibility.** The supplied list contains **24 primary-study candidates** ([9]–[32]), plus [8] if it is reclassified. Together with the screening register (68 candidates in total), the eligible Q1/Q2 corpus may still be **at or below ~25 studies** after quartile and full-text checks (several candidate journals, e.g., *Computers*, *Security and Communication Networks*, *Int. J. Intelligent Systems*, *Complex & Intelligent Systems*, need quartile checks for the publication year). If so, a **focused SLR or systematic mapping review on black-box NIDS evasion costs and transferability** is recommended, positioned as an extension of [3], [5] and [7], not a replacement.
 
-**Recommendation (provisional):** Do not proceed to the full manuscript until (1) the full texts of RV1, RV2 and RV3 are compared against the extraction framework, and (2) SJR quartiles of the candidate journals are verified. Revisit the title and contribution claims after that comparison. The candidate phrase "capability-conditioned, cost-aware synthesis" must not be claimed as novel until step (1) is complete.
+**Recommendation (provisional):** Do not write the full manuscript until (1) the full texts of [2]–[7] are compared against the extraction framework, and (2) SJR quartiles are verified. Do not claim "capability-conditioned, cost-aware synthesis" as novel before step (1).
 
 ---
 
@@ -184,7 +181,7 @@ Of the 796 records, **129** state a black-box, query, surrogate/substitute, tran
 
 The remaining **667** records were **not yet screened manually**. They may contain black-box experiments not mentioned in the abstract (OA-4).
 
-In addition, **7 seed articles** were added to the candidate register directly (one may be white-box only). **Candidate register: 63 records** (`data/candidate_register.csv`), all with Crossref-verified metadata and none with verified quartile or full text. The reviewer expects 11 of them to fall below Q2 or be unranked, but this is **not verified**, and they remain in the register.
+In addition, **7 seed articles** were added to the candidate register directly (one may be white-box only), and **5 articles from the user-supplied reference list** ([14], [15], [22], [26], [31]) were added afterwards. **Candidate register: 68 records** (`data/candidate_register.csv`), all with Crossref-verified metadata and none with verified quartile or full text. The reviewer expects 11 of them to fall below Q2 or be unranked, but this is **not verified**, and they remain in the register.
 
 ### 3.5 Database-specific strings for the outstanding searches (not executed)
 **Scopus (TITLE-ABS-KEY):**
@@ -204,13 +201,13 @@ Broad complement: `TITLE-ABS-KEY ( ( "network intrusion detection" OR nids ) AND
 | PRISMA box | Value |
 |---|---|
 | Records identified — databases | S2 3,371; Crossref 1,599 (other databases: **not searched**) |
-| Records identified — other methods | 14 seed titles (12 verified) |
+| Records identified — other methods | 14 seed titles (12 verified); user-supplied reference list (34 references, 5 new candidates) |
 | Duplicates removed | 1,582 (4,970 − 3,388) |
 | Records removed by automated rules | 2,592 (publication-type rules 796 + relevance rules 1,796)ᵃ; 3,388 − 2,592 = 796 remain |
 | Records screened (title/abstract, manual) | 129 of 796 (**667 pending**) |
 | Records excluded at title/abstract | 70 (+3 routed to reviews) |
-| Reports sought for retrieval | 63 |
-| Reports not retrieved | **63** (no full-text access yet) |
+| Reports sought for retrieval | 68 |
+| Reports not retrieved | **68** (no full-text access yet) |
 | Reports assessed for eligibility | **0** |
 | Studies included | **0 (review incomplete)** |
 
@@ -222,7 +219,7 @@ Broad complement: `TITLE-ABS-KEY ( ( "network intrusion detection" OR nids ) AND
 
 | ID | Action | Why it blocks completion | Who / what is needed | Status |
 |---|---|---|---|---|
-| OA-1 | Retrieve and read full texts of the closest reviews: RV1 (10.1109/ACCESS.2026.3720554), RV2 (10.1109/ACCESS.2026.3733985), RV3 (10.1016/j.cosrev.2026.100995), RV4 (10.1109/COMST.2022.3233793) | Novelty cannot be judged from abstracts; RV1/RV2 overlap substantially | PDFs supplied by the user (RV1 and RV2 are open access) | Pending external access |
+| OA-1 | Retrieve and read the full texts of comparator reviews [1]–[7] and the threat-modelling paper [8] | Novelty cannot be judged from abstracts; [3], [5], [7] and [8] overlap substantially | PDFs supplied by the user ([2], [3] and [7] are in IEEE Access, which is open access) | Pending external access |
 | OA-2 | Verify the SJR quartile of every candidate journal under the predefined categories (record year, category, quartile, URL, date) | No study can enter the synthesis without it | A human checking scimagojr.com, or an exported SJR CSV supplied to the session | Pending human verification |
 | OA-3 | Re-screen the 995 records excluded by rule on title only (no abstract) | Violates the no-title-only-filter rule | Abstracts (Scopus/WoS export) or manual screening | Pending |
 | OA-4 | Manually screen the remaining 667 records (no black-box term in title/abstract) | May contain separable black-box experiments | Reviewer time; full text for ambiguous cases | Pending |
@@ -232,6 +229,123 @@ Broad complement: `TITLE-ABS-KEY ( ( "network intrusion detection" OR nids ) AND
 | OA-8 | Second reviewer on a sample, with κ | Single AI-assisted reviewer so far | A human reviewer | Pending human verification |
 | OA-9 | Save the inline screening scripts as files; prepare a PRISMA checklist | Reproducibility | Me (next session) | Pending |
 | OA-10 | Decide on scope (focused SLR vs mapping review; in-vehicle CAN inclusion) after OA-1 and OA-2 | Corpus may fall below about 25 studies | The user | Pending decision |
+
+---
+
+## 5. Reference List (user-supplied, verified)
+
+References are numbered as supplied by the user, in IEEE style. **Verification** means that authors, title, journal, volume, year and DOI were checked against the Crossref record on 16 Nov 2026. It does **not** mean the technical content was verified: no full text has been read, and **no SJR quartile has been verified**.
+
+### 5.1 Numbered references
+
+[1] K. He, D. D. Kim, and M. R. Asghar, "Adversarial machine learning for network intrusion detection systems: A comprehensive survey," IEEE Commun. Surveys Tuts., vol. 25, no. 1, pp. 538–566, 1st Quart. 2023, doi: 10.1109/COMST.2022.3233793.
+
+[2] S. Ennaji, F. De Gaspari, D. Hitaj, A. Kbidi, and L. V. Mancini, "Adversarial challenges in network intrusion detection systems: Research insights and future prospects," IEEE Access, vol. 13, pp. 148613–148645, 2025, doi: 10.1109/ACCESS.2025.3600984.
+
+[3] H. A. Alatawi, "Adversarial evasion in machine-learning-based network intrusion detection: A systematic review, threat modeling, and research roadmap," IEEE Access, vol. 14, pp. 122143–122176, 2026, doi: 10.1109/ACCESS.2026.3720554.
+
+[4] A. da S. Espindola, A. O. Santin, A. Casimiro, P. M. Ferreira, and E. K. Viegas, "Understanding the adversary: A survey of adversarial machine learning in network intrusion detection," Comput. Sci. Rev., vol. 62, Art. no. 100995, 2026, doi: 10.1016/j.cosrev.2026.100995.
+
+[5] J. Vitorino, I. Praça, and E. Maia, "SoK: Realistic adversarial attacks and defenses for intelligent network intrusion detection," Comput. Secur., vol. 134, Art. no. 103433, 2023, doi: 10.1016/j.cose.2023.103433.
+
+[6] M. M. Hasan, R. Islam, Q. Mamun, M. Z. Islam, and J. Gao, "Adversarial attacks against network intrusion detection systems: Bridging the gap between theoretical vulnerabilities and practical constraints," Internet Things, vol. 38, Art. no. 101997, 2026, doi: 10.1016/j.iot.2026.101997.
+
+[7] E. A. Winanto and M. Y. Idris, "Adversarial robustness of deep learning-based intrusion detection systems: A systematic literature review of attacks, defenses, datasets, and open challenges," IEEE Access, vol. 14, pp. 149555–149591, 2026, doi: 10.1109/ACCESS.2026.3733985.
+
+[8] G. Apruzzese, M. Andreolini, L. Ferretti, M. Marchetti, and M. Colajanni, "Modeling realistic adversarial attacks against network intrusion detection systems," Digit. Threats: Res. Pract., vol. 3, no. 3, Art. no. 31, Sep. 2022, doi: 10.1145/3469659.
+
+[9] G. Apruzzese, M. Andreolini, M. Marchetti, A. Venturi, and M. Colajanni, "Deep reinforcement adversarial learning against botnet evasion attacks," IEEE Trans. Netw. Service Manag., vol. 17, no. 4, pp. 1975–1987, Dec. 2020, doi: 10.1109/TNSM.2020.3031843.
+
+[10] S. Zhang, X. Xie, and Y. Xu, "A brute-force black-box method to attack machine learning-based systems in cybersecurity," IEEE Access, vol. 8, pp. 128250–128263, 2020, doi: 10.1109/ACCESS.2020.3008433.
+
+[11] D. Han et al., "Evaluating and improving adversarial robustness of machine learning-based network intrusion detectors," IEEE J. Sel. Areas Commun., vol. 39, no. 8, pp. 2632–2647, Aug. 2021, doi: 10.1109/JSAC.2021.3087242.
+
+[12] H. Qiu, T. Dong, T. Zhang, J. Lu, G. Memmi, and M. Qiu, "Adversarial attacks against network intrusion detection in IoT systems," IEEE Internet Things J., vol. 8, no. 13, pp. 10327–10335, Jul. 2021, doi: 10.1109/JIOT.2020.3048038.
+
+[13] P. T. Duy, L. K. Tien, N. H. Khoa, D. T. T. Hien, A. G.-T. Nguyen, and V.-H. Pham, "DIGFuPAS: Deceive IDS with GAN and function-preserving on adversarial samples in SDN-enabled networks," Comput. Secur., vol. 109, Art. no. 102367, 2021, doi: 10.1016/j.cose.2021.102367.
+
+[14] S. Guo, J. Zhao, X. Li, J. Duan, D. Mu, and X. Jing, "A black-box attack method against machine-learning-based anomaly network flow detection models," Secur. Commun. Netw., vol. 2021, Art. no. 5578335, 2021, doi: 10.1155/2021/5578335.
+
+[15] J. Chen, X. Gao, R. Deng, Y. He, C. Fang, and P. Cheng, "Generating adversarial examples against machine learning-based intrusion detector in industrial control systems," IEEE Trans. Dependable Secure Comput., vol. 19, no. 3, pp. 1810–1825, May/Jun. 2022, doi: 10.1109/TDSC.2020.3037500.
+
+[16] Y. Sharon, D. Berend, Y. Liu, A. Shabtai, and Y. Elovici, "TANTRA: Timing-based adversarial network traffic reshaping attack," IEEE Trans. Inf. Forensics Security, vol. 17, pp. 3225–3237, 2022, doi: 10.1109/TIFS.2022.3201377.
+
+[17] C. Zhang, X. Costa-Pérez, and P. Patras, "Adversarial attacks against deep learning-based network intrusion detection systems and defense mechanisms," IEEE/ACM Trans. Netw., vol. 30, no. 3, pp. 1294–1311, Jun. 2022, doi: 10.1109/TNET.2021.3137084.
+
+[18] S. Alahmed, Q. Alasad, M. M. Hammood, J.-S. Yuan, and M. Alawad, "Mitigation of black-box attacks on intrusion detection systems-based ML," Computers, vol. 11, no. 7, Art. no. 115, 2022, doi: 10.3390/computers11070115.
+
+[19] I. Debicha, B. Cochez, T. Kenaza, T. Debatty, J.-M. Dricot, and W. Mees, "Adv-Bot: Realistic adversarial botnet attacks against network intrusion detection systems," Comput. Secur., vol. 129, Art. no. 103176, 2023, doi: 10.1016/j.cose.2023.103176.
+
+[20] S. Aldhaheri and A. Alhuzali, "SGAN-IDS: Self-attention-based generative adversarial network against intrusion detection systems," Sensors, vol. 23, no. 18, Art. no. 7796, 2023, doi: 10.3390/s23187796.
+
+[21] H. Yan et al., "Automatic evasion of machine learning-based network intrusion detection systems," IEEE Trans. Dependable Secure Comput., vol. 21, no. 1, pp. 153–167, Jan./Feb. 2024, doi: 10.1109/TDSC.2023.3247585.
+
+[22] M. Wang, N. Yang, N. J. Forcade-Perkins, and N. Weng, "ProGen: Projection-based adversarial attack generation against network intrusion detection," IEEE Trans. Inf. Forensics Security, vol. 19, pp. 5476–5491, 2024, doi: 10.1109/TIFS.2024.3402155.
+
+[23] N. Alhussien, A. Aleroud, A. Melhem, and S. Y. Khamaiseh, "Constraining adversarial attacks on network intrusion detection systems: Transferability and defense analysis," IEEE Trans. Netw. Service Manag., vol. 21, no. 3, pp. 2751–2772, Jun. 2024, doi: 10.1109/TNSM.2024.3357316.
+
+[24] Y. Zhang, Y. Wu, and X. Huang, "Toward transferable adversarial attacks against autoencoder-based network intrusion detectors," IEEE Trans. Ind. Informat., vol. 20, no. 12, pp. 13863–13872, Dec. 2024, doi: 10.1109/TII.2024.3435532.
+
+[25] S. Sharma and Z. Chen, "A systematic study of adversarial attacks against network intrusion detection systems," Electronics, vol. 13, no. 24, Art. no. 5030, 2024, doi: 10.3390/electronics13245030.
+
+[26] K. Roshan and A. Zafar, "Black-box adversarial transferability: An empirical study in cybersecurity perspective," Comput. Secur., vol. 141, Art. no. 103853, 2024, doi: 10.1016/j.cose.2024.103853.
+
+[27] F. Aloraini, A. Javed, and O. Rana, "Adversarial attacks on intrusion detection systems in in-vehicle networks of connected and autonomous vehicles," Sensors, vol. 24, no. 12, Art. no. 3848, 2024, doi: 10.3390/s24123848.
+
+[28] S. Okada et al., "XAI-driven black-box adversarial attacks on network intrusion detectors," Int. J. Inf. Secur., vol. 24, Art. no. 103, 2025, doi: 10.1007/s10207-025-01016-0.
+
+[29] D. Xu et al., "Securing data privacy in NIDS: Black-box adversarial attacks," Int. J. Intell. Syst., vol. 2025, Art. no. 1500333, 2025, doi: 10.1155/int/1500333.
+
+[30] H. Zhang et al., "Explainable and transferable adversarial attack for ML-based network intrusion detectors," IEEE Trans. Dependable Secure Comput., vol. 22, no. 5, pp. 5090–5107, Sep./Oct. 2025, doi: 10.1109/TDSC.2025.3560486.
+
+[31] Z. Awad, M. Zakaria, and R. Hassan, "An enhanced ensemble defense framework for boosting adversarial robustness of intrusion detection systems," Sci. Rep., vol. 15, Art. no. 14177, 2025, doi: 10.1038/s41598-025-94023-z.
+
+[32] S. Ennaji, E. Benkhelifa, and L. V. Mancini, "Vulnerability disclosure through adaptive black-box adversarial attacks in network intrusion detection systems," Complex Intell. Syst., vol. 12, Art. no. 18, 2026, doi: 10.1007/s40747-025-02115-0.
+
+[33] B. Kitchenham and S. Charters, "Guidelines for performing systematic literature reviews in software engineering," Keele Univ. and Durham Univ., UK, Tech. Rep. EBSE-2007-01, 2007.
+
+[34] M. J. Page et al., "The PRISMA 2020 statement: An updated guideline for reporting systematic reviews," BMJ, vol. 372, Art. no. n71, 2021, doi: 10.1136/bmj.n71.
+
+### 5.2 Verification status and crosswalk
+
+| Ref | Role | Metadata verified (Crossref) | Discrepancies | Candidate-register ID | Journal eligibility (SJR) | Full text read |
+|---|---|---|---|---|---|---|
+| [1] | Comparator review | Yes | None | — | Pending | No |
+| [2] | Comparator review | Yes | None | — | Pending | No |
+| [3] | Comparator review | Yes | None | — | Pending | No |
+| [4] | Comparator review | Yes | Crossref links a preprint; cite and extract the journal version only. | — | Pending | No |
+| [5] | Comparator review | Yes | None | — | Pending | No |
+| [6] | Comparator review | Yes | None | — | Pending | No |
+| [7] | Comparator review | Yes | None | — | Pending | No |
+| [8] | Threat-modelling paper (classify after full text) | Yes | Crossref lists pages 1–19 for Art. no. 31 (ACM article numbering); consistent. | — (comparator) | Pending | No |
+| [9] | Primary-study candidate | Yes | None | C58 | Pending | No |
+| [10] | Primary-study candidate | Yes | None | C01 | Pending | No |
+| [11] | Primary-study candidate | Yes | None | C02 | Pending | No |
+| [12] | Primary-study candidate | Yes | None | C03 | Pending | No |
+| [13] | Primary-study candidate | Yes | None | C60 | Pending | No |
+| [14] | Primary-study candidate | Yes | Crossref lists pages 1–13 for Art. no. 5578335; consistent. | C64 | Pending | No |
+| [15] | Primary-study candidate | Yes | None | C65 | Pending | No |
+| [16] | Primary-study candidate | Yes | None | C59 | Pending | No |
+| [17] | Primary-study candidate | Yes | None | C04 | Pending | No |
+| [18] | Primary-study candidate | Yes | None | C07 | Pending | No |
+| [19] | Primary-study candidate | Yes | None | C11 | Pending | No |
+| [20] | Primary-study candidate | Yes | None | C14 | Pending | No |
+| [21] | Primary-study candidate | Yes | None | C17 | Pending | No |
+| [22] | Primary-study candidate | Yes | None | C66 | Pending | No |
+| [23] | Primary-study candidate | Yes | None | C19 | Pending | No |
+| [24] | Primary-study candidate | Yes | None | C22 | Pending | No |
+| [25] | Primary-study candidate | Yes | None | C15 | Pending | No |
+| [26] | Primary-study candidate | Yes | None | C67 | Pending | No |
+| [27] | Primary-study candidate | Yes | None | C16 | Pending | No |
+| [28] | Primary-study candidate | Yes | None | C34 | Pending | No |
+| [29] | Primary-study candidate | Yes | None | C32 | Pending | No |
+| [30] | Primary-study candidate | Yes | None | C20 | Pending | No |
+| [31] | Primary-study candidate | Yes | None | C68 | Pending | No |
+| [32] | Primary-study candidate | Yes | None | C33 | Pending | No |
+| [33] | Methodological | Not verifiable via Crossref (technical report, no DOI) | — | — | n/a | n/a |
+| [34] | Methodological | Yes | Crossref record has no volume field; 372:n71 per BMJ citation. | — | n/a | n/a |
+
+**Summary:** 33 of 34 references were confirmed against Crossref with no substantive discrepancy; [33] cannot be checked this way. Of the 24 primary-study candidates [9]–[32], 19 were already in the candidate register from the executed searches, and 5 ([14], [15], [22], [26], [31]) were added as C64–C68 with source 'user-supplied list'. None is yet confirmed as eligible: quartiles and full-text eligibility are pending (OA-2, OA-7).
 
 ---
 
@@ -271,7 +385,7 @@ Broad complement: `TITLE-ABS-KEY ( ( "network intrusion detection" OR nids ) AND
 | Adversarial examples for network intrusion detection systems | 10.2139/ssrn.7042179 |  | no (Crossref returned a different record) | False | False |
 | A gradient-based approach for adversarial attack on deep learning-based network intrusion detection systems | 10.1016/j.asoc.2023.110173 | Applied Soft Computing | yes | True | True |
 
-## Appendix C. Candidate register (63 records)
+## Appendix C. Candidate register (68 records)
 
 All metadata verified in Crossref on 16 Nov 2026. **For every record: journal eligibility (SJR quartile) = pending; full text retrieved = no; full text extracted = no; extraction independently checked = no.** Quartile expectations are the reviewer's unverified judgement and do not exclude any record.
 
@@ -340,6 +454,11 @@ All metadata verified in Crossref on 16 Nov 2026. **For every record: journal el
 | C61 | Fooling intrusion detection systems using adversarially autoencoder | Digital Communications and Networks | 2021 | — | [10.1016/j.dcan.2020.11.001](https://doi.org/10.1016/j.dcan.2020.11.001) | seed (independently identified) | Adversarial autoencoder evasion; knowledge assumptions to verify | unverified |
 | C62 | Defending network intrusion detection systems against adversarial evasion attacks | Future Generation Computer Systems | 2020 | — | [10.1016/j.future.2020.04.013](https://doi.org/10.1016/j.future.2020.04.013) | seed (independently identified) | Defence against evasion; confirm black-box attacks evaluated | unverified |
 | C63 | A gradient-based approach for adversarial attack on deep learning-based network intrusion detection systems | Applied Soft Computing | 2023 | — | [10.1016/j.asoc.2023.110173](https://doi.org/10.1016/j.asoc.2023.110173) | seed (independently identified) | Gradient-based attack - may be white-box only | unverified |
+| C64 | A Black-Box Attack Method against Machine-Learning-Based Anomaly Network Flow Detection Models | Security and Communication Networks | 2021 | 2021/1-13 | [10.1155/2021/5578335](https://doi.org/10.1155/2021/5578335) | user-supplied reference list [14] | Substitute-model black-box attack on anomaly flow detectors (abstract) | unverified |
+| C65 | Generating Adversarial Examples Against Machine Learning-Based Intrusion Detector in Industrial Control Systems | IEEE Transactions on Dependable and Secure Computing | 2022 | 19/3/1810-1825 | [10.1109/tdsc.2020.3037500](https://doi.org/10.1109/tdsc.2020.3037500) | user-supplied reference list [15] | ICS IDS; optimal-solution and GAN attacks under protocol constraints; attacker knowledge to verify | unverified |
+| C66 | ProGen: Projection-Based Adversarial Attack Generation Against Network Intrusion Detection | IEEE Transactions on Information Forensics and Security | 2024 | 19/5476-5491 | [10.1109/tifs.2024.3402155](https://doi.org/10.1109/tifs.2024.3402155) | user-supplied reference list [22] | Traffic-space attack generation (ProGen); black-box component to verify | unverified |
+| C67 | Black-box adversarial transferability: An empirical study in cybersecurity perspective | Computers & Security | 2024 | 141/103853 | [10.1016/j.cose.2024.103853](https://doi.org/10.1016/j.cose.2024.103853) | user-supplied reference list [26] | Empirical surrogate-to-target black-box transferability in attack detection (abstract) | unverified |
+| C68 | An enhanced ensemble defense framework for boosting adversarial robustness of intrusion detection systems | Scientific Reports | 2025 | 15/1/14177 | [10.1038/s41598-025-94023-z](https://doi.org/10.1038/s41598-025-94023-z) | user-supplied reference list [31] | Ensemble defence; confirm black-box attacks in evaluation | unverified |
 
 ## Appendix D. Title/abstract screening log (black-box-hint subset, 129 records)
 

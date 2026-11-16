@@ -2,7 +2,7 @@
 
 | ID | Action | Why it blocks completion | Who / what is needed | Status |
 |---|---|---|---|---|
-| OA-1 | Retrieve and read full texts of the closest reviews: RV1 (10.1109/ACCESS.2026.3720554), RV2 (10.1109/ACCESS.2026.3733985), RV3 (10.1016/j.cosrev.2026.100995), RV4 (10.1109/COMST.2022.3233793) | Novelty cannot be judged from abstracts; RV1/RV2 overlap substantially | PDFs supplied by the user (RV1 and RV2 are open access) | Pending external access |
+| OA-1 | Retrieve and read the full texts of comparator reviews [1]–[7] and the threat-modelling paper [8] | Novelty cannot be judged from abstracts; [3], [5], [7] and [8] overlap substantially | PDFs supplied by the user ([2], [3] and [7] are in IEEE Access, which is open access) | Pending external access |
 | OA-2 | Verify the SJR quartile of every candidate journal under the predefined categories (record year, category, quartile, URL, date) | No study can enter the synthesis without it | A human checking scimagojr.com, or an exported SJR CSV supplied to the session | Pending human verification |
 | OA-3 | Re-screen the 995 records excluded by rule on title only (no abstract) | Violates the no-title-only-filter rule | Abstracts (Scopus/WoS export) or manual screening | Pending |
 | OA-4 | Manually screen the remaining 667 records (no black-box term in title/abstract) | May contain separable black-box experiments | Reviewer time; full text for ambiguous cases | Pending |

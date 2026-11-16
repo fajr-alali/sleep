@@ -43,7 +43,7 @@ Of the 796 records, **129** state a black-box, query, surrogate/substitute, tran
 
 The remaining **667** records were **not yet screened manually**. They may contain black-box experiments not mentioned in the abstract (OA-4).
 
-In addition, **7 seed articles** were added to the candidate register directly (one may be white-box only). **Candidate register: 63 records** (`data/candidate_register.csv`), all with Crossref-verified metadata and none with verified quartile or full text. The reviewer expects 11 of them to fall below Q2 or be unranked, but this is **not verified**, and they remain in the register.
+In addition, **7 seed articles** were added to the candidate register directly (one may be white-box only), and **5 articles from the user-supplied reference list** ([14], [15], [22], [26], [31]) were added afterwards. **Candidate register: 68 records** (`data/candidate_register.csv`), all with Crossref-verified metadata and none with verified quartile or full text. The reviewer expects 11 of them to fall below Q2 or be unranked, but this is **not verified**, and they remain in the register.
 
 ## 5. Database-specific strings for the outstanding searches (not executed)
 **Scopus (TITLE-ABS-KEY):**
@@ -63,13 +63,13 @@ Broad complement: `TITLE-ABS-KEY ( ( "network intrusion detection" OR nids ) AND
 | PRISMA box | Value |
 |---|---|
 | Records identified — databases | S2 3,371; Crossref 1,599 (other databases: **not searched**) |
-| Records identified — other methods | 14 seed titles (12 verified) |
+| Records identified — other methods | 14 seed titles (12 verified); user-supplied reference list (34 references, 5 new candidates) |
 | Duplicates removed | 1,582 (4,970 − 3,388) |
 | Records removed by automated rules | 2,592 (publication-type rules 796 + relevance rules 1,796)ᵃ; 3,388 − 2,592 = 796 remain |
 | Records screened (title/abstract, manual) | 129 of 796 (**667 pending**) |
 | Records excluded at title/abstract | 70 (+3 routed to reviews) |
-| Reports sought for retrieval | 63 |
-| Reports not retrieved | **63** (no full-text access yet) |
+| Reports sought for retrieval | 68 |
+| Reports not retrieved | **68** (no full-text access yet) |
 | Reports assessed for eligibility | **0** |
 | Studies included | **0 (review incomplete)** |
 
